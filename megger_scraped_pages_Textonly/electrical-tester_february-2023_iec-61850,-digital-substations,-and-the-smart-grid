@@ -1,0 +1,654 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+February 2023
+IEC 61850, digital substations, and the Smart Grid
+IEC 61850, digital substations, and the Smart Grid
+24 February 2023
+Authors: Niclas Wetterstrand and Andrea Bonetti
+IEC 61850 was launched in 2003 as a standard for digital substations and it is widely used in such applications. In principle, however, the Smart Grid is just a regionally distributed system of electrical substations, so IEC 61850 is also very relevant to the Smart Grid and, in fact, the IEC has designated it as one of the core smart grid standards.
+To find out what Megger is doing in relation to IEC 61850, Electrical Tester arranged for Niclas Wetterstrand, Megger’s industry director for protection, to talk to Andrea Bonetti, the senior specialist for relay protection and IEC 61850 in Megger Sweden.
+NICLAS: How long has Megger been working with digital substations and the smart grid?
+ANDREA:
+Megger has a long history of work relating to IEC 61850. We started in 2008 with the development of the GOOSER and the MGC (Megger GOOSE Configurator) for which we were granted a patent for some key pioneering concepts such as the comparison of network data with engineering data (SCL), and the secure access point that prevented connecting a PC to the communication network of the substation. GOOSER was first marketed in 2009 and is now discontinued. Its functionality is however embedded in relay test sets in our SMRT and FREJA 5xx ranges. For process bus applications (Sampled Values), we implemented IEC 61850-9-2 LE (Light Edition) in 2010, when we participated in a commissioning project in Central America. Over the years, IEC 61850 has progressed from Edition 1 to Edition 2, and now to Edition 2.1 (which isn’t really an all-encompassing new edition –
+something I explained to ET readers in the first issue of this magazine
+). At Megger, our job is to follow the standard and to incorporate the new concepts in our hardware and software tools.
+N:
+I have heard a lot of discussion about the KEMA certificate. Can you explain what it is and how it relates to Megger products?
+A:
+The so-called “KEMA certificate” for IEC 61850 is actually a test report from an accredited test institute – in this case KEMA (CESI today), although there are others. The certificate confirms a certain level of compliance with the IEC 61850 standard in terms of interoperability and, as it is produced by an independent accredited test institute, it is known as a ‘Level A’ certificate.
+‘Level B’ certificate also confirms interoperability, but it is released by a non-independent accredited institute, for example, the Hitachi Energy IEC 61850 laboratories in Switzerland. It is a common practice to perform the tests for the first release of a product at Level A, and subsequent small adjustments or improvements at Level B. Megger has ‘Level A KEMA’ certificates for GOOSE and Sampled Values. It is widely known that the certificates alone do not fully ensure interoperability. Additional tests and a good specification from the end user are needed if an IEC 61850 project is to run smoothly. Certification is a minimum requirement which shows that the manufacturer has done what they reasonably can to provide a reliable IEC 61850 product or tool.
+N:
+You have mentioned GOOSE and Sampled Values. Would it be correct to say that IEC 61850 is a new protocol or a new series of communication protocols?
+A:
+This is probably the most common question about IEC 61850, and the simple answer is that it is much more than a series of protocols. IEC 61850 is built on three pillars: the Standard Signal List, Standard Information Exchange, and Standard System Engineering.
+N: From what we've discussed so far, I would expect GOOSE and Sampled Values to be part of the Standard Information Exchange. Can you give some examples for the other two pillars and how they relate to each other?
+A:
+You are right, the standardised protocols are part of the Standard Information Exchange. Before we move on, however, there are a few more things we need to consider.
+The Standard Signal List provides a standardised approach for modelling the system, the equipment, and the signals associated with the system and equipment. It does this by defining 'elementary functions' called Logical Nodes (LN) along with their signals, which are Data Objects (DOs) and Data Attributes (DAs), and their descriptions, in System Configuration Language (SCL).
+A key idea is that if we have a master SCL file describing the system, it also describes the data traffic through it. Another important idea is that we can consider the SCL file as being the fingerprint of the communication in the substation.
+N: What's the benefit of having the three pillars instead of a simple data communication protocol?
+A:
+I have to admit, we've been asking the same question for many years! The answer is that the three­pillar concept is incredibly robust and future proof. Some people have even described it as beautiful! To understand its benefits, however, some examples are needed. Let's go back to the SCL file which, as I said, can be considered as a description of the system and of the data traffic through it. If we can detect and measure this data traffic with a tool - which is sometimes called data sniffing - we can compare it with the master SCL description and if there are differences, we can give warnings. This idea initially came about because of the need to identify interoperability problems in substations. We won't go into this in detail, but it is still used in this way. Another possibility, as we have already said, is to consider the SCL file as the fingerprint of the communication in the substation. For perspective, I gave a
+keynote presentation
+about these concepts at IEEE GPECOM in 2020. In one hour of presentation, I think I mentioned the communication protocols for a mere few minutes!
+N: Interesting, but this isn't really relay testing, is it?
+A:
+No, it's beyond relay testing! The standard, thanks to its three-pillar structure, opens a whole range of possibilities that are just waiting to be developed. One that Megger has been working on since early 2009, is the comparison of the data model, described by the standard, with the actual data traffic, in the form of GOOSE messages, in the substation. Once again, for this pioneering concept, Megger has been granted the patent.
+This is possible because the IEC 61850 is much more than a standard about protocols: it provides a way to describe the electrical system. This description is formalised in the SCL language and is ultimately available in the SCL files. Megger has patented some related algorithms that allow comparison of SCL GOOSE with network GOOSE messages. As the SCL file is a fingerprint of the communication in the substation, the idea is to periodically compare the actual communication with the master (reference) fingerprint. Such a comparison provides an excellent basis for developing automatic maintenance routines. Several papers have been written by Megger on these concepts; also, Megger has contributed to the Royal Engineering School of Stockholm (KTH) for an
+important thesis
+on the same subjects:
+Paper 1 available here
+Paper 2 available here
+N: To make that comparison, we need to be able to read the GOOSE messages in the substations and we need to read the GOOSE messages in the SCL file. Is that correct?
+A:
+Yes! The tool for this is called the GOOSE sniffer. It's a device that is connected to the substation Ethernet bus and can transparently (passively) read the traffic, without sending data into the system. Megger's GOOSE sniffer is part of the Megger GOOSE Configurator (MGC) software. This software can also read SCL files, so we have a tool that can seamlessly work with GOOSE messages from the network and from the SCL file.
+N: Do you mean I go to the substation, read all the GOOSE messages, and then import the GOOSE messages from the substation SCL file?
+A:
+Yes! There might, for example, be 500 GOOSE messages from the substation and we'd also expect to have 500 messages from the SCL file. We'd expect the messages in these two sets to be equivalent. Or, to put it another way, we'd expect the substation messages to conform with the description given in the SCL file.
+N: Do you have examples to explain why there could be differences?
+A:
+In engineering, things are rarely perfect!Unfortunately, at the commissioning stage you're unlikely to have just a single version of the SCL file. Different vendors will be working on their own versions of the file, which they will use to program their devices. If the final SCL file is not completely updated with the latest information, or if there are some devices that are not programmed well, there will be differences between the substation messages and the SCL file.
+For example, in a practical situation one relay could be out of service. The GOOSE messages from that relay will disappear from the network, but they are still in the SCL file. So, there will only be 80 substation messages but 85 messages in the SCL file. Or it could be that somebody has made changes to some relays but, when asked, they say they didn’t change anything. A quick check will show if this is true. Or an Ethernet switch may have been replaced with a new switch that has different settings. This means the VLANs are now different, which will result in errors and warnings.
+N: What sort of problems have you discovered in the field by comparing substation and SCLfile messages?
+A:
+Issues I’ve identified so far include Ethernet switches replaced with the wrong settings, which meant that some GOOSE messages disappeared, and others lost their VLAN tag. I’ve also seen IEDs reconfigured, which meant that some substation messages didn’t merge (i.e., ‘were different’) because of a different configuration revision (ConfRev); IEDs out of service or disconnected, which meant that some substation GOOSE messages disappeared; and additional IEDs inserted so that new substation messages appeared, which the SCL file hadn’t been updated to expect. I even saw a situation where the system integrator gave the customer what was supposed to be the as-built SCL file. However, just five minutes of testing revealed that there were big differences between the GOOSE traffic and the SCL file – the SCL file did not reflect the substation!
+N: How important is to have the correct description of the substation in the SCL file?
+A:
+Very important because the SCL file is the basic documentation for troubleshooting when something unexpected happens. Moreover, it is the basic documentation for retrofitting. If the SCL file does not describe the substation, the entire IEC 61850 concept falls apart. Many utilities insist on a comparison check of the as-built SCL file and the network traffic during factory acceptance testing (FAT) and site acceptance testing (SAT). An incorrect SCL file means no acceptance and no payment! By the way, when the SCL file describes the substation, it is called an SCD (substation configuration description) file.
+N: So, factory acceptance testing is yet another application of the comparison test method?
+A:
+Yes, and it’s an important application. In the hands of the end user, a comparison test is a powerful tool that enables them to determine whether or not there are discrepancies. If there are, they need to be investigated and resolved.
+Some years ago, I was delivering an IEC 61850 training session for Megger. I explained how to test relays and then went on to say that every Megger user has access to the comparison test method, although they may not be aware of what they can do with it. The following day, only two out of the ten participants turned up for training. When I asked about the others – wondering whether they had a big substation problem as they were all utility employees – I was told that as a result of my presentation, they were all around the region checking their SCL files!
+N: What happens if we get, say, ten difference warnings from a comparison test? What should we do then?
+A:
+It depends on the situation. If it’s a factory acceptance test, it may be enough to write a report about the warnings to withhold approval of the SCL file. Or, you may want to join in with investigating why the differences have occurred. If you use it correctly, the Megger tool can identify the differences in the comparison. This can be very difficult to determine manually, so the time savings can be enormous. The tool can’t resolve the differences, but it can pinpoint them.
+N: All of this sounds like it’s going to be very expensive.
+A:
+Actually, it’s not. Every Megger user has access to the comparison method, since the MGC software for IEC 61850 is included as standard with Megger test equipment. But many Megger users don’t realise they have it! This method does, I’ll admit, need a certain level of competence in relation to IEC 61850, which goes beyond ‘relay testing’, but once you’re used to it, it’s not rocket science. Even so, it would be much more effective if comparison testing could be done automatically as some sort of continuous monitoring. Moreover, I see that others have only recently taken on this manual compare concept that we brought to the market in 2009.
+N: What would be the advantages of automatic comparison testing?
+A:
+We’re talking about self-supervision procedures, automatic maintenance routines, event driven maintenance, and the like. The benefit of implementing these is that they greatly increase the availability of the system, compared with the use of periodic manual testing procedures.
+N: How do these concepts relate to the smart grid?
+A:
+I would say that one of the main associations is the cost. Nobody wants to pay for a periodic test on a system that is still working correctly. On the one hand, we want to have the best possible availability, and on the other, we want a system that’s simple and inexpensive, and that gives automatic alarms when something needs to be repaired. The development of automatic maintenance procedures will therefore help the development of the Smart Grid in all areas of society, even in our homes.
+N: But we don’t have an automatic system in place...
+A:
+That’s correct, at the moment it’s manual, but we have all the competences needed to implement an automatic system. What Megger needs is a friendly customer who is sensitive to these topics and willing to work with us to implement automatic comparison testing as a smart grid project.
+N: Thank you, Andrea, for finding the time to take part in this interview. It’s been both interesting and thought provoking. And I hope you’ll get some positive responses relating to your search for a partner to work with you to develop your ideas. Also, I’d just like to mention that we’d welcome feedback on this interview and, if ET readers have questions, please forward them to us via the editor (
+electricaltester@megger.com
+).
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

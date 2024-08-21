@@ -1,0 +1,308 @@
+Loop testing equipment frequently asked questions | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Frequently asked questions
+Loop testing
+Loop testing
+What affects the accuracy of loop impedance measurements?
+When making a loop impedance measurement, there are numerous challenges that the test signal has to overcome. Some are physical and some are man-made. Having an understanding of the limitations of the various tests that are available goes some way in overcoming some of these obstacles. Just as importantly, knowing the significance of the desired value (usually stipulated by regulation) and an appreciation of the measured value in the real world will help to maintain confidence in the recorded value.
+What are the limitations of the high current test?
+When first conceived, earth leakage monitoring RCDs and RCBOs were not part of the electrical installation and because it relies on a short between Line-Earth for the earth loop test, albeit only for 2 cycles (or 40 ms) of the AC waveform, the test will cause the RCD/RCBO to operate. In addition, some early instruments whose test time was not so tightly restricted had cause to operate some of the low current MCB’s as well. Where earth leakage protection was in place, the contractor was left with no option but to bypass it to allow for the test to be undertaken – a time consuming and rather un-safe practice as it left the system unprotected for the duration of the test.
+What is a 2-wire high current test?
+This is the traditional loop impedance test. Using a test current of up to 20 A and a simple 2 wire connection, it is by and large the fastest, most accurate test available on a day to day basis. Most standard loop impedance testers will incorporate this type of test. Because of the relatively high test current, the readings are not generally influenced by external factors and will return repeatable, stable readings in most scenarios.
+What is PFC and PSCC testing?
+Prospective fault current and prospective short circuit testing are measurements that are made to calculate the current that will flow in the event of a fault. Too little current and protective devices may fail to operate in time (if at all) and too much current will cause damage to equipment, may cause fire or prevent the breaker from operating.
+What is the loop and why do we test it?
+If a fault occurs in an electrical system, we must prove that the over-current device will operate within the prescribed time by ensuring that the circuit impedance is low enough to allow sufficient current to flow. The required values of impedance and time will change dependent upon the type of installation (TN/TT etc.) and the type of protection, whether it be a miniature circuit breaker (MCB), cartridge fuse or re-wireable fuse for example. The fault current can either be in the Line-Neutral or Line-Earth circuit, so there is a need to confirm the loop impedance of each.
+When is a 2-wire test useful?
+At a light switch a neutral is usually not available so a 2-wire test is easier for testers without 3 hands.
+Why are there different types of loop test?
+Determining which test to use will depend upon a number of factors, not least being which one is available on the test meter being used. A non-trip test has to be used on an RCD-protected installation. A high current test will usually be faster and more accurate on non-RCD protected circuits.
+Why do I need to connect a neutral for a non-trip test?
+The 3 wire method of no-trip loop testing has become the norm over the past 20 years. This test method overcame the need to by-pass even the new electronic protection devices by utilising a low current Line-Earth test current, whilst still returning a degree of accuracy. Not having to by-pass the RCD/RCBO obviously introduced a time saving factor. In addition, by having the requirement of connecting to Line, Neutral and Earth, the testers were now able to confirm the presence of all three as well as indicate if there was a reverse polarity at the test point and, due to the limited test current, there was no issue with tripping the MCB.
+
+
+There remain limitations with the 3-wire test however. Due to the lower test current, readings became more susceptible to external factors introducing instability on certain circuits and a reduction in consistency. In some circumstances the internal impedance of the RCD can be seen or existing system earth leakage can combine with the test signal to cause the protective device to operate.
+Why have a 4-wire test?
+This new method of testing will only be undertaken in certain circumstances. The test uses a 4 wire Kelvin connection, negating internal lead and contact resistance; such is the accuracy of the test. With test currents up to 1000 A, measurements down as low as 10 mOhm can be accurately made. Consequently, there is no “No-Trip” option with this test method. With specific applications being measurement in sub-station/switch room environments, this tester gives the test engineer the ability to take accurate readings when situated next to the main transformer – something that has caused problems for many years when trying to sign off jobs with readings based on design engineers calculations down as low as 0.001 Ohm!
+Get in touch with us
+United Kingdom
+Megger Ltd
+Dover, Kent
+CT17 9EN
+Sales: +44 (0) 1304 502 101
+Technical support: +44 (0) 1304 502 102
+Repairs: +44 (0) 1304 502 243
+T:
++44 (0) 1304 502 101
+E:
+uksales@megger.com
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

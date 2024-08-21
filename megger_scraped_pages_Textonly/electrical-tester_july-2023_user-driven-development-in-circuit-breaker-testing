@@ -1,0 +1,597 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+July 2023
+User-driven development in circuit breaker testing
+User-driven development in circuit breaker testing
+14 July 2023
+Author: Niclas Wetterstrand and Nils Wäcklén
+Circuit breaker analysers are key items in the toolkits of the hard-pressed test engineers in the power sector. There is no shortage of analysers on the market, but do they really meet users’ needs? Megger asked them. Niclas Wetterstrand, Megger’s Industry Director Utilities – Protection, and Nils Wäcklén, product owner of circuit breaker products at Megger, report on their answers and explain how these guided the development of an innovative instrument that sets new standards for speed, convenience, and safety in circuit breaker testing.
+Our customers told us that the vast majority of circuit breaker tests they perform these days are standard measurements of contact resistance and main contact timing. There are two main reasons for this. First,
+circuit breaker reliability has improved over the years, which means that asset owners are now asking for
+less information to validate correct operation. Second, time and cost pressures have driven the adoption of a streamlined set of measurements, which are sufficient to confirm that the asset is working as intended, but no more.
+In the past, there was time to acquire additional information by making a wider range of measurements, but now tests are often carried out by a subcontractor who gets paid a fixed amount per circuit breaker. This leaves no opportunity to carry out measurements that have not been explicitly requested. What’s needed today is the fastest possible way to get the job done, and this includes everything from collecting the test equipment from the stores, through to the test itself, and right up to returning the equipment to the stores.
+With this in mind, Megger has developed a new circuit breaker analyser – the EGIL200 – to provide standard measurements that include main contact timing, PIR contact timing, auxiliary contact timing, station voltage and coil current. All these measurements can be made without the need to disconnect and reconnect the instrument. Additional facilities, which can be activated if and when needed, include motor current and motion measurements.
+Main contact resistance (and PIR resistance value measurement) is also included in the standard measurements and is acquired with an external unit. Some instruments from other suppliers integrate contact resistance measurement within the main instrument and this might initially seem an attractive feature. Indeed, during discussions with customers, many asked for this, but after the pros and cons had been discussed, almost all changed their minds to favour a separate lightweight unit.
+The only advantage of a built-in resistance measurement is that when they bring the instrument to the test location, users know they have everything they need to conduct the full range of standard measurements. However, this can easily be arranged when a separate resistance measurement unit is used simply by providing a transport case that will accommodate both this unit and the main instrument. On the other hand, the integrated solution has many disadvantages. For example, it means extra weight in the main unit, it limits options for performing measurements on items other than circuit breakers, and it requires the use of longer cables that add even more weight.
+Another topic which came up frequently in the discussions with users is why it often takes around an hour to figure out how to connect the test cables, when actually performing the measurements takes only a few minutes. We have addressed this issue by looking carefully at every aspect of the design of the instrument and its associated accessories, including the transport case, cable bags, cables, test preparation, connection guidance, result evaluation, report creation, etc. We have found, for example, that with well thought out cable bag and cable design, colour coding and connection support, big savings can be made in overall testing time.
+In particular, the cabling arrangements for our new instrument are convenient and practical for field use. Since users have told us that cable wear is an issue, the cables are designed to be durable, with thicker insulation and liberal use of cable sleeves. The cable bag has also been optimised to make it easy to carry while keeping the cables properly organised. For further convenience, the bag is equally suitable for use as a backpack, or as a handbag.
+Test preparation and setup are other areas that our users told us were important and we’ve made a lot of effort to streamline these processes. Many instruments have a setup procedure that focuses on the test channel rather than the test object. By focusing on the test object and what needs to be measured, we have been able to reduce setup to a few clicks, with big time savings. Furthermore, if a similar asset of the same design needs to be tested, the basic tests can be repeated without the need for further settings.
+Another thing we discovered from our discussions with users was that, in this era of outsourced breaker testing, the test engineer often does not have a specific test plan relating to the asset under test. Most often, the engineer will arrive on site and set up the test on the fly. Once again, this calls for a fast and streamlined setup procedure. To provide this, we involved a range of customers in trials of user-interface mock-ups during an early stage of the development project for our new instrument. We found that the biggest challenge was to provide a streamlined setup for basic measurements with a minimum of settings, while not unduly limiting the user’s flexibility.
+We have achieved this by arranging for our new instrument to start with a quick-test menu, where the user selects the type of breaker to be tested, what needs to be measured and what operation should be performed. Initially, a connection screen is displayed to show how the test connections should be made and to confirm that they are correct. After that, the measurements are performed using the results and analysis screen. Last but not least, the instrument generates a report to provide evidence that the test was performed in line with contractual requirements and that either the circuit breaker meets its specification, or there is an issue that needs action or further investigation.
+The option to produce professional reports with recommendations for further action without having to spend hours working on them in the office or hotel room was something engineers particularly wanted as an aid to reducing their workload. In addition, accurate and professional reports have been shown to give the contractor higher credibility with network owners and, in most cases, if the report recommends further action, the contractor is asked to provide it, which generates extra income.
+As we have explained, the development of Megger’s new EGIL200 has been driven by the input from users, which ensures that it accurately and efficiently meets the requirements of today’s engineers. This means that EGIL200 is not just another test instrument, it’s a long-term partner which will help and support those who commission and maintain circuit breakers during difficult times as well as good times.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

@@ -1,0 +1,361 @@
+Types of Transformers
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Testing Set-ups, Sensors, and Sensibility
+July 2020
+Types of Transformers - Part 1
+Types of Transformers - Part 1
+29 July 2020
+Unless you’re one of the pole-climbing, substation-fixing, electrical-testing superstars, you’re probably not thinking about transformers all the time.
+Well, that changes now.
+Transformers are everywhere.
+And trust me, you’re reaping the benefits of them every day– whether you realize it or not.
+In our homes, we use alternating current (AC) because it is easier to generate and transmit.  AC is typically transmitted at higher voltages and then
+transformed
+into a safer and usable lower voltage – powering the electricity we all know and love and can’t fathom living without!
+Now, we’re not going to get into the details of how transformers work today, since this blog is all about the types of transformers. But, at the most basic level, transformers take higher voltages and convert them down to lower, useable voltages, like we mentioned above. If you’re interested in learning more about the science behind this electro-magnetic transformation, we recommend
+watching this quick animation.
+So, what types of transformers are there?
+Power Transformers
+A power transformer transfers electricity between a generator and the distribution primary circuits. It gets a little bit confusing because many use the term ‘power transformer’ to encompass a bunch of transformers, rather than a specific design type. Likewise, some even refer to large transmission transformers as power transformers, to easily differentiate between distribution transformers.
+Regardless of the exact definition, power transformers can have one of three jobs – step up generator output voltage to the transmission system voltage level, step down transmission voltages to safe levels for distribution, or step down voltage to the auxiliary power system level in a generating station.
+Power transformers can also fall into one of two class – class I or class II. Very original naming system, I might add. Anyways, class I power transformers have high-voltage windings of 69 kV and below, while class II power transformers have high-voltage windings between 115 kV and 765 kV.
+Just to make things a tad more complicated, you can also categorize these by size – small, medium, or large. Small power transformers fall under 69 kV, medium up to 230 kV, and large power transformers are between 138-765 kV.
+Autotransformers
+Now, let’s make things even more complicated. Autotransformers technically fall under the category of large power transformers, but these are generally used as transmission inter-tie transformers, which can be used in either step up or step down mode. What’s an inter-tie transformer? Great question. An inter-tie transformer helps connect AC networks of various voltages to each other, which is a really important feature in a power network.
+Typically, your autotransformers are going to be the largest rated power transformer on your transmission system – operating with a pretty balanced and constant load. They’re also more economical than having separate winding power transformers, since there’s a physical connection between the series and the common winding. Basically, this means that the high voltage winding is made up of the series winding in series with the common winding, while the low voltage winding is the common winding.
+Confused yet? Me too. But all you really need to know is that this takes up a third of the space of a conventional transformer of the same rating, which is a big plus.
+Ideally, you don’t want your autotransformer to be any less than half the size of a conventional transformer though, since you need to account for the space that taps and tertiary windings take up. Any less than half of the size is not ideal for performance.
+There is one downside to autotransformers, though – low impedance. With a low impedance, the short circuit current of an autotransformer is way higher than a conventional transformer. To counteract this, autotransformers are usually designed with a higher than normal impedance, which just makes the actual size of the unit bigger, contradicting the positive we mentioned above. Ugh.
+Generator Step-Up Transformers
+Moving right along to GSUs or generator step-up transformers. Who doesn’t love a good acronym, right?
+Anyways, GSUs (sometimes also called main or unit transformers) step up the voltage from a generator to the highest transmission voltage for a transmission grid. This definition is just a rearrangement of the phrase itself, literally breaking every rule of definition etiquette I’ve ever learned. Very helpful, but I guess I’ll let it slide.
+Connected directly to the generator, GSUs are typically operated at a constant load close to their full rating. Since they’re constantly working at their rated temperature, they’re going to age much faster than other transformers. If you’ve read any of these blogs before, you’ll know that excessive heat is never a good thing. Unless you’re a cactus…
+GSUs aren’t usually protected by a circuit breaker between the generator and transformer, so these can get hit pretty hard with fault current too (and for long periods of time), which can lead to huge overvoltages. If a generator breaker is used, then a GSU can actually be used to power a grid’s auxiliary systems.
+Are you sick of this transformer talk yet? Hang tight, we’re almost done.
+Auxiliary Transformers
+Auxiliary transformers supply power to a generating plant’s auxiliary loads (think feed pumps, coolant pumps, and safety devices that a power plant needs to run). There are a few different types of auxiliary transformers to keep track of, but fortunately, we have more acronyms to make our life easier.
+A unit auxiliary transformers (UAT) is connected to the same bus as the generator, stepping down voltage to feed the auxiliary power system busses. Whenever the generator is running, the UAT is supplying the auxiliary load.
+The reserve auxiliary transformer (RAT) or startup auxiliary transformer (SAT) are backup transformers which are connected to an offsite high voltage system – supplying the plant auxiliary power during startups or outage periods.
+All auxiliary transformers are relatively critical to a plant’s safe operation, so you don’t want to see problems with these, or you may be facing a possible plant shut down. Not good.
+Well, we’ve unfortunately run out of time today, but we still have a bunch of transformers to cover. So, make sure you come back next week to find out which ones we left out. You won’t regret it. In the meantime, check out this
+Guide to Transformer Ratio Measurements
+, if you’re ready to get serious about your transformer testing program.
+- Meredith Kenton, Digital Marketing Specialist
+Have an idea for a blog?
+Email Me
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+May 2021(
+1
+)
+April 2021(
+1
+)
+December 2020(
+1
+)
+October 2020(
+1
+)
+September 2020(
+1
+)
+August 2020(
+1
+)
+July 2020(
+1
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+1
+)
+February 2020(
+3
+)
+January 2020(
+1
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

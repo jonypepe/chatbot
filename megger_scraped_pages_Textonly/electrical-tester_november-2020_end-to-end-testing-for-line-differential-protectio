@@ -1,0 +1,631 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+November 2020
+End-to-end testing for line differential protection
+End-to-end testing for line differential protection
+27 November 2020
+Author: Sughosh Kuber, Relay Applications Engineer
+Introduction
+Line differential protection is one of the most popular forms of transmission line protection. This type of protection is based on Kirchoff’s current law, which states that the current flowing into a line must be equal to the current flowing out of the line. With line differential protection, the zone of protection is defined by the location of the current transformers (CTs) monitoring the currents at each end of the line. When a fault occurs, it is essential for the protective relays at the ends of the line to communicate with each other and issue a trip signal for in-zone faults.
+In Figure 1, a single line diagram shows the arrangement of line current differential relays (87L) installed at the ends of a transmission line. The relays, which are referred to as the local relay and the remote relay, monitor current from their associated CTs and communicate with each other via optical fiber cables. When a fault occurs on the line, the relays see the fault at the same time. Based on information received from the other end of the line, the relays decide what needs to be done – trip or restrain. Relay manufacturers use various methods to measure and compare currents in differential protection relays: magnitude comparison, phasor comparison, phase comparison, charge comparison, and various combinations of these. One popular method is to use the alpha-plane characteristic to determine line differential condition.
+This article discusses line differential protection, the importance of end-to-end testing, and the procedure for testing alpha-plane characteristics using the end-toend test method. Specifically, testing the 87L element is considered in relation to pick-up accuracy, time of operation, dependability (by simulating internal faults) and security (by simulating external faults).
+Understanding alpha-plane characteristics
+When the ratio of phase currents (or sequence currents) entering or leaving a transmission line is geometrically represented on a complex plane, this constitutes the alpha-plane characteristic. Currents considered for the ratio calculation can be either monitored values of phase currents at remote and local relays, or currents calculated from equations that use real and imaginary components of the differential and restrain currents obtained from monitored phase currents. Different models of relays use different algorithms. In Figure 2, k represents the ratio of the currents.
+Figure 1: Line differential protection implementation
+The area of stability and trip can be determined by the characteristic parameters with which any percentage differential characteristic can be mapped onto the alpha plane. The restrain region is defined by the radius of the greater arc (R), the radius of the inner arc (1/R) and the angle (α). The radius of the greater arc and inner arc determines the radius of the restrain region (stability area) and the angle (α) represents the angular extent of the restrain region. Each phase has its own alpha-plane characteristics. In the example of Figure 1, if the A phase current monitored by the local relay is 3∠0 °, the remote relay will record 3∠180 °. The ratio of the remote current to local current will be:
+On the alpha plane, this ratio will plot on the real axis to the left of the imaginary axis. As can be seen in Figure 2, this falls in the restrain region, which is also the stability area. This case can be related to nominal load condition or to an external fault, depending on the current levels.
+Figure 2: Alpha plane characteristics
+In th
+e case of an internal fault, the currents read by both the relays for their respective phases tend to be in phase as they monitor the currents feeding the fault. This will plot the resultant ratio at 0 °, which falls in the trip region of the alpha-plane characteristics shown above.
+The significance of end-to-end testing
+End-to-end testing is the evaluation of a relay protection scheme by simulating fault conditions simultaneously at both ends of the transmission line. It is essential for the test systems at each of the lines to be synchronized so that the test currents can be injected into all of the relay terminals simultaneously. Line differential relays receive currents from their own terminals and they also receive, via various modes of communication, data about currents at the remote relay. Since the relays send time-stamped information packets to each other, even a small timing error during injection can incorrectly stamp the packets, which can cause incorrect or unintended operation.
+To avoid this, a time signal from a Global Positioning System (GPS) clock is used to synchronize the test systems at each end of the line. Time signals are available in various forms such as pulse per second (1 PPS), IRIG-B, Precision time protocol (PTP), etc. In this article, only the IRIG-B time sync standard is considered. The endto- end testing method requires two sets of relay test equipment with the ability to decode IRIG-B signal so that the injection of analogue signals can be triggered simultaneously in both sets of equipment. (See Figure 3).
+Figure 3: End-to-end testing: the whole picture
+The IRIG-B signal from the GPS receiver, with its associated antenna, is also made available to the relays under test. This type of testing is used to evaluate new protection schemes during substation commissioning, troubleshoot malfunctioning relays, verify relay setting changes, and for other purposes.
+The items needed to perform end-to-end tests include:
+Two sets of relay test equipment with the ability to decode IRIG-B signals and generate currents with the magnitudes and phase angles specified in the test plan
+GPS receivers
+Co-axial cables (to connect GPS receiver and relay test sets and relays)
+Two computers (to drive the relay test sets at respective substations)
+A means of communication between the test technicians (cell phones or other voice communication equipment)
+Test software with pre-built test plans
+When implemented correctly, communication-based protection schemes provide more efficient and more reliable protection for transmission lines than schemes based on multiple relays that do not communicate with each other. And, while it is undoubtedly simpler to test individual relays in a scheme, it is better to test the entire scheme as a whole as this not only validates the individual components, but also the communication system.
+Test procedure
+A test set up can be arranged to simulate a system similar to that shown in Figure 3. IRIG-B signals should be provided to the appropriate inputs of the relay test equipment and to the relays under test. Test connections to inject analogue signals into the relays should be made at both ends. Spare output contacts on both the relays should be programmed for 87L element. Phase differential pick-up tests, radius check tests, angular extent boundary tests and timing tests for an internal fault will be discussed. For the purposes of this article, the protection relay is a type having an algorithm that works with currents derived from calculations that use the real and imaginary parts of differential and restrain currents obtained from monitored phase currents.
+Relay settings
+Phase Differential Element Pick-up: 0.72 pu
+Phase Differential Element Radius ( R ): 6
+Phase Differential Element Block Angle ( α ): 195 °
+Phase differential pick-up test
+The phase differential pick-up test validates the 87L logic and pick-up setting when the injected current is above the pick-up setting. This test can be performed on each phase at each end separately and does not need the time synchronization. Based on a relay setting of 0.72 pu and a nominal current of 5 A, the calculated pick-up value is 3.6 A. Therefore, the 87L element should pick up at 3.6 A.
+Figure 4: Alpha plane characteristic plot: inner arc radius test
+Radius check test
+The radius check test is performed to validate the boundary of the restrain region in the alpha plane with respect to the radius from origin. Initially, the test should be conducted to verify the radius setting pick-up of the inner arc of the restrain region. The distance from the origin to the inner arc of the restrain region is defined by 1/R as shown in Figure 2. Based on the relay settings, 1/R = 1/6 = 0.16. Once the test sets are synchronized during pre-fault, the test values
+should be varied during the fault state. The test value at which the 87L element trips should be 0.80∠0 ° amps. This value translates to 0.16 pu distance from the origin to the inner arc. In Figure 4, to validate the 1/R setting, the alpha-plane characteristic shows the changes in the complex ratio plot as the test current is varied. Table 1 lists the phase A currents to be injected into the local and remote relays in the pre-fault and fault states. Based on the currents injected, the relays use differential and restrained equations to calculate derived currents, and the ratio of these derived currents is plotted on alpha plane to define the 87L element operation.
+After validating the 1/R setting, the next test verifies the radius setting of the outer arc of the restrain region. In Figure 2, this radius setting is shown as R. To verify the R setting, the same pre-fault values as before are injected. However, the fault state currents on local relay are varied up to 30 A. This is equivalent to 6 pu, the radius of the restrain region. As soon as the current is increased to more than 30 A, the complex ratio on the alpha plane crosses the restrain region and the relay should trip. The test procedure described is for the A phase, but the same procedure is followed to test the B and C phases.
+Angular extent boundary check test
+This test is performed to validate the angular extent of the restrain region on the alpha plane. The angular extent setting is shown as α in Figure 2. The α setting of the relay under test in this example is 195 °. Therefore, prefault current injection with phase angle ∠0 ° on the local relay and ∠180 ° on the remote relay should be done. In the fault state, the phase angle of the analogue currents to the local relay should be varied in a counterclockwise direction. The relay should trip at a phase angle of 98 °.
+In Figure 5, the alpha-plane characteristic shows changes in complex ratio plot based on the phase angle variation. This validates the angular extent of restrain region. The next test should be performed to validate the angular extent in the opposite direction from origin. The phase angle in fault state should be varied in a clockwise direction for the local relay. The relays should trip at a value of -98 °. The difference of angular extents between first and second test is 98 °- (-98 °) = 196 °. This result closely corresponds to the angular extent setting of the relay (195 °). The test procedure described above is for A phase, but the same procedure is used for the B and C phases.
+Figure 5: Alpha plane characteristic plot: angular extent boundary check test
+Timing test (for an internal fault)
+An internal fault can be simulated to carry out a timing test on the 87L element. Pre-fault and fault states are set up with the values shown in Table 5. Ideally, the local relay and remote relays should trip within a cycle of seeing an internal fault. In Figure 6, the alpha-plane characteristic shows the path of complex ratio plot transitioning from the restrain region to the operate region based on current injection switching from the prefault to the fault state.
+Figure 6: Alpha plane characteristic plot - internal fault timing test
+A similar setup of pre-fault and fault states can be used to simulate external fault currents. The relays should restrain from tripping, as the complex ratio of the currents plots on to the restrain region of the alpha plane.
+Relays may also have settings enabled for 87L negative sequence and 87L zero sequence elements to provide protection for single line-to-ground faults and unbalanced fault conditions. The tests discussed for phase elements in this article should also be performed to validate the negative sequence and zero sequence elements.
+Conclusion
+The vast majority of utilities all over the world implement line differential protection. It is important to validate the protection scheme for correct operation under fault conditions. End-to-end testing validates the entire communication-based protection scheme, including the operation of the relays as well as the communication between the relays. Knowledge of end-to-end test methods and field experience help technicians carry out testing more efficiently. This article has provided an insight into the testing of line differential protection using the end-to-end test method, as well as the testing of alpha-plane characteristics to validate the line differential element with pick-up, radius and angular-extent tests.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

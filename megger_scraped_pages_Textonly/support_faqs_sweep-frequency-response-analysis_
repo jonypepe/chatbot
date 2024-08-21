@@ -1,0 +1,327 @@
+Frequently asked sweep frequency response analysis questions | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Frequently asked questions
+Sweep frequency response analysis
+Sweep frequency response analysis
+Are other electrical tests necessary if I perform SFRA?
+Yes, each test will provide a different piece of data your transformer. A power factor test looks at the insulation of the transformer. Turns ratio and winding resistance tests reveal the condition of the windings. SFRA provides information about the mechanical integrity of the transformer and can help you determine if a transformer has sustained any mechanical damage.
+Each electrical test you perform gives you a bit more insight, and together they form a more complete picture of your transformer's health. Sometimes a "second opinion" from two or more tests on the same component can help you confirm a suspected problem.
+Can I perform SFRA before oil filling a new transformer?
+Per IEEE C57.149, testing with oil is the most common and preferred method for frequency response analysis. Special consideration should be given to safety when testing a transformer without oil so that excessive voltages are not applied. Presence of oil changes the frequency response. Results with and without oil will cause variations in the SFRA traces. Below is an excerpt from the IEEE guidelines:
+"For new equipment, this my require the performance of two FRA tests after receipt of the equipment at the final destination: 1) one test with the transformer in its shipping configuration, 2) and one thest with the transformer assembled an oil-filled as required for insulation resistance testing, to be used as baseline data for future testing. If no shipping damage is suspected, the test in the as shpped configuration may not be necessary as a receipt test"
+Often, the manufacturer fills and drains the transformer before shipment. You should be aware of the conditions in which an SFRA test was performed before shipment from the factory. IEEE further states that:
+“If the equipment is to arrive drained of oil, the shipping configuration should specify that it will be tested pre and post movement without oil. If the equipment is to be shipped after being drained of oil, it should be tested pre-movement without oil. Testing the unit prior to shipment in this case without oil and prior to a first fill, may not be adequate and could lead to false failures due to residual oil being held in the windings, or additional oil draining from the winding during weeks of shipment. If the equipment is to be shipped with oil, it should be fully filled for both pre and post movement tests. If the equipment is to be shipped partially filled, it should be tested with the same level of oil, or preferentially after oil has been added. Ensuring oil is at the same level before and after transportation for partially filled transformers can be difficult and sometimes leads to incorrect assessments.”
+Can SFRA test results from different manufacturers' test sets be compared?
+Yes. SFRA test results, when performed correctly and under similar conditions (correct grounding, same tap position and similar connections), are comparable. Factors that can affect test results include residual magnetism and poor grounding practices. Megger's FRAX software has the unique capability to import previous results from any other manufacturer's test set and compare results.
+Do I have to perform electrical tests in a particular order?
+For SFRA:
+There is no particular order that needs to be followed for the open circuit and short circuit tests. However, to increase efficiency, you might want to run the tests in an order that will help you minimize lead changes
+For complete electrical tests:
+Excitation current and SFRA should be completed first and winding resistance test last. This is to avoid any residual magnetism from the winding resistance test from affecting the results of the other tests. However, If your winding resistance test set is capable of demagnetizing the transformer efficiently after the test, you will not have to worry about the test sequence.
+Does ambient temperature affect SFRA readings?
+IEEE C57.149 states that
+“Large temperature difference, typically much more than 10 C, between two measurements will slightly influence the response at higher frequencies.”
+For all practical purposes, the effect of temperature on SFRA measurements is very small and can be ignored unless there is big temperature variation between the two comparison traces.
+How is a SFRA open circuit and short circuit test different from traditional tests?
+Traditional open and short circuit tests are typically performed in factory to determine the no load and copper losses taking place in the transformer. Rated values are typically used when performing these tests. By determining the no load and copper losses, you can determine the different components in an equivalent circuit of a transformer.
+Although they share similar names and connections, SFRA open circuit and short circuit tests are completely different. The SFRA open circuit test looks at the response of the core and winding, and the SFRA short circuit test isolates the winding response of the transformer. These tests help you narrow down the areas where the problem might be.
+How would I test a four-winding transformer (e.g.18 pulse or 24 pulse)?
+You would have to run a total of 30 different tests.
+12 open circuit tests, one on each winding (4 windings x 3 phases =12 tests)
+18 short circuit tests:
+9 tests (From high side with three secondaries shorted one at a time)
+6 tests (From X side with other two secondaries shorted one at a time)
+3 tests (From Y side with the last secondary shorted)
+In a post short circuit fault condition, do I need to perform both a power factor test and SFRA?
+In such cases, IEEE C57.152 recommends performing all electrical tests including Power Factor and SFRA. A power factor test may reveal a change in capacitance, and comparing this to a SFRA trace will help the diagnosis of any issues or failures associated with transformer windings.
+Is there a published standard for SFRA?
+The IEEE guide for SFRA is
+IEEE C57.149 Guide for the Application and Interpretation of Frequency Response Analysis for Oil-Immersed Transformers
+. Other relevant SFRA documents include: IEC60076-18 Ed. 1 – 2012, Std. DL/T911-2004, and Cigré Technical Brochure No. 342, April 2008.
+Should I incorporate SFRA into my transformer maintenance program?
+Yes. IEEE C57.152
+Guide for Diagnostic Field Testing of Fluid-Filled Power Transformers, Regulators, and Reactors
+recommends SFRA as a diagnostic test. SFRA can often pick up mechanical issues that other electrical tests might miss.
+What do the different frequency ranges in SFRA mean?
+A SFRA open circuit test will show the response of core and windings, while a SFRA short circuit test only shows the response of windings. Each frequency range corresponds to dfferent components in the transformer. Some general frequency ranges are shown below.
+20 Hz – 2 kHz: Main core deformation, open circuits, shorted turns, residual magnetism
+10 kHz – 20 kHz: Bulk winding component, shunt impedance
+20 kHz – 400 kHz: Deformation within the main windings
+400 kHz – 1 MHz: Tap winding
+However, keep in mind that each transformer will have specific responses and the frequency range given is for general reference only. For windings rated less than 72 kV, IEC recommends running the test up to 2 MHz.
+What is the difference between SFRA and Dielectric Frequency Response (DFR)?
+SFRA and DFR are two completely different tests. SFRA looks at any kind of mechanical changes inside the transformer whereas DFR is used to determine the moisture present in cellulose (solid insulation) of oil filled power transformers. The two tests have very different applications.
+What is the smallest rated transformer that I can use SFRA on?
+There is no industry guideline for using SFRA based on a transformer’s VA ratings. In theory, you can perform SFRA on a transformer of any size, and if subsequent tests are performed under similar conditions, the results can be compared and analyzed. Other electrical tests like transformer turns ratio, excitation current and DC insulation tests will also give valuable information on smaller transformers.
+Will SFRA work on dry type transformers?
+Yes. SFRA looks at the response of the complex RLC network inside a transformer. You can perform baseline or reference measurements on dry type transformers and compare results over the years. For dry type transformers, you need to be aware of the effect that ground capacitances can have on the traces. Additionally, the response on the low side may have slight deviations because of low signal levels. A very good ground plane will produce more repeatable measurements.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

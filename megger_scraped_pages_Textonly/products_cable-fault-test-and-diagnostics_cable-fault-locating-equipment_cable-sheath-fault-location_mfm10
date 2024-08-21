@@ -1,0 +1,330 @@
+MFM10 - Sheath fault location system
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Products
+Cable fault, test and diagnostics
+Cable fault locating equipment
+Cable sheath fault location
+MFM10-1
+MFM10-1
+Sheath fault location system
+Product Documents
+Data sheet -  MFM10
+User guide -  MFM10
+User guide -  MFM10-M
+Language Documents
+User guide - [ IT ] User guide - MFM10-M
+User guide - [ PT ] User guide - MFM10-M
+Overview
+Technical
+Software
+Test voltage up to ±10 kV DC
+Up to 750 mA continuous current, also suitable for burning
+Adjustable current limiter
+Bipolar measurement for the highest accuracy
+Only one single removable high voltage connection cable needed
+Easy Go operation via jogdial and touch screen
+Automatic measurement and protocolling
+The MFM10-1 is a sheath fault location system for the testing, pre-location, and pinpointing of sheath faults. It is easy to use, precise, and fast. It works using the menu-supported 'Easy Go' test system, which is intuitive to operate, interprets the results, and requires minimal training. As such, the MFM10-1 can automatically test the cables and evaluate the measured data, giving you a fast, easy, and reliable tool to test the insulation of cable sheaths, and to pre-locate and pinpoint any detected faults.
+Additionally, the bipolar pre-location feature supports the detection of galvanic and thermoelectric influences and increases the pre-location accuracy and quality. A multi-section facility permits the entry of cable segments with different parameters and difficult cable faults can be 'burned', thanks to the available high current of up to 750 mA. The MFM 10-1 can also use its integrated protocolling feature with the approved Easyprot SW software to easily generate test reports.
+EasyProt
+Version for use with:
+MFM10
+ETray
+Easytester 10/20kV
+NIM 1000
+VLF Sinus 28/30/34/51/54
+VLF Sinus 45/62 (TDM 45/62-P)
+Installation instructions:
+Download the zip archive.
+Open the zip archive.
+Copy the EasyProt62 folder to the desired installation folder.
+Open the installation folder.
+Double-click on EasyPro.exe, if you want to import log files from any aforementioned product other than VLF Sinus 62.
+otherwise....
+Double-click on EasyProt_62.exe, if you want to import VLF Sinus 62 log files.
+EasyProt version update
+EasyProt_V1-37.zip
+19.7 MB | 07/08/23
+Download
+MFM10
+MFM10 update
+MFM10_1590.zip
+11.1 MB | 10/12/21
+Download
+Ask a question
+or
+Find a stockist
+Related Products
+Easyloc RxTx
+Utility location system
+ESG NT / ESG NT2
+Ground fault locator
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

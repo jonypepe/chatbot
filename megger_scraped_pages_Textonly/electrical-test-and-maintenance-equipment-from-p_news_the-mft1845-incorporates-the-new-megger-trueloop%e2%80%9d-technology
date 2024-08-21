@@ -1,0 +1,289 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Company
+News
+The MFT1845 incorporates the New Megger “TrueLoop” technology
+The MFT1845 incorporates the New Megger “TrueLoop” technology
+Megger's new TrueLoop technology, only available in the Megger MFT1845 multifunction tester
+When you use an ordinary multifunction installation tester (MFT) to perform non-trip loop tests, it typically makes the measurement over a fixed time period of 15 seconds. That’s not long, but if the result isn't quite what you expected – possibly because of noise in the circuit under test – you may well decide to do a second test “just to be sure”, and maybe even a third! So now testing this circuit has taken a minimum of 45 seconds, but probably longer. And now there’s another issue: which of the three test results do you put on the certificate. It’s very unlikely they will be identical!
+There has to be a faster and better way – and now there is! A new MFT – the Megger MFT1845 – has recently been launched that incorporates a unique “TrueLoop” technology.
+The principle is simple: when you carry out a non-trip loop test, your tester actually makes a large number of measurements before using these to calculate the result it shows on the display. The confidence function continuously monitors these measurements, and tells you when they become stable.
+On a quiet circuit, which has low levels of electrical noise, this can take as little as eight seconds, which is a big time saving compared with 15 seconds or more with a conventional MFT. On a noisy circuit, the test may well take a little longer than 15 seconds, but there’s still a very important benefit – the result will be right first time.
+You never need to perform multiple tests to make sure of getting a reliable result, and you never need to decide which of several different results should go on the test certificate. So, whether the circuits you’re working on are noisy or quiet, using an MFT with ”TrueLoop” will save you valuable time, as well as making sure that you can complete the test certificate with a high level of confidence.
+LOOP IMPEDANCE TESTING AND NOISE
+Why do non-trip loop impedance tests on noisy circuits sometimes give unexpected results? And what can be done about it? To answer these questions, we first need a generalised look at how non-trip loop testing works. Essentially, the instrument monitors the current and voltage in the circuit under test, and looks at the supply voltage difference made by adding a small extra load. With most loop testers, this extra load is designed to draw a current of around 15 mA; it can’t be more, or there’s a significant risk that the RCD or RCBO protecting the circuit would trip.
+Because of this, the instrument actually makes multiple measurements, taking into account the point on the supply waveform where each measurement is made. After a preset time period, typically 15 seconds, the instrument takes the average of all the measurements and displays this as the test result.
+This arrangement works well provided that the supply waveform is a good, clean sine wave. Noise distorts the waveform, from harmonics or by adding positive- and negative-going spikes. If one of the instrument’s measurements coincides with a distortion, the measurement can be wrong and, if there are enough incorrect measurements during the 15-second measuring period, they can significantly affect the average that the instrument displays as the result.
+This is why non-trip loop impedance measurements on noisy circuits often produce unexpected results and why, if the test is repeated on such circuits, the result may well be different every time.
+What can be done about this? Megger has carried out extensive research and development to answer this question and the result is the new MFT1845 multifunction installation tester which incorporates an innovative “TrueLoop” function for non-trip loop testing. The tester works in a similar way to its predecessors, making multiple measurements during the test period, but it continually monitors these measurements and uses a unique new algorithm – which minimises the impact of noise – to evaluate them.
+In fact, the MFT1845 even incorporates a “TrueLoop” display – an arc that diminishes in length as the instrument becomes more and more confident of the reliability of the result. When the arc reduces to a single segment, this indicates a result within the accuracy specification has been achieved. This can take as little as 8 seconds on circuits with little noise present. It takes longer on noisy circuits – sometimes more than the customary 15 seconds – but it has the very important benefit of providing right-first-time results.
+Non-trip loop testing has always been a concern for those involved with testing electrical installations because of its tendency to deliver inconsistent results. This problem has now been solved by the new Megger MFT1845 multifunction installation testers with their groundbreaking test algorithm and their innovative confidence function.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

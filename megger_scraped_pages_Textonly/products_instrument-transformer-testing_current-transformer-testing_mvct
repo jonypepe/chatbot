@@ -1,0 +1,343 @@
+VT and CT analyzer MVCT
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Products
+Instrument transformer testing
+Current and voltage transformer testing
+MVCT
+MVCT
+VT and CT test set
+Product Documents
+Data sheet -  MVCT
+User guide -  MVCT
+Overview
+Technical
+Software
+Ability to test both VTs and CTs
+Easy to use one-button automated test plans
+Industry-leading test duration using patented simultaneous tap measurements
+Smallest and lightest unit on the market
+CT knee points up to 30 kV
+CT grouped testing includes demagnetisation, knee points, ratios, saturation curves, winding resistances, polarities and phase deviation (on all taps of multi-ratio CTs)
+VT testing including demagnetisation, ratio, winding resistance, polarity and phase deviation
+Performs secondary burden tests
+Integrated 1 kV DC insulation test system
+The MVCT VT and CT test set is a lightweight, portable, and robust unit capable of accurately testing both current and voltage transformers. It weighs less than 20 lb (10Kg) and is capable of performing saturation, ratio, polarity, winding resistance, and insulation tests on current transformers, and can also be used for testing metering and protection class voltage/potential transformers.
+The MVCT provides a microprocessor-controlled variable voltage and current output along with precision instrumentation for automatically testing single and multi-ratio CTs and VTs. When it comes to CTs, this instrument makes testing easy. It will directly connect to multi-ratio CTs and perform all tests – saturation, ratio, polarity, winding resistance, and insulation – on all taps at the push of a button and without changing leads. This greatly reduces testing time.
+The MVCT can be operated via its large, full colour, high resolution, daylight-readable TFT LCD touch screen display. This interface allows you to perform manual and automatic testing quickly and easily, and you can use the pre-constructed test routines to make testing even easier. The large colour display also enables you to easily read all pertinent data while the test is being performed and gives you the ability to view the results when the test is complete. The unit can also be configured to come without a display and thus be controlled via a laptop using Megger's PowerDB software or with Megger’s existing Smart Touch View Interface™(STVI).
+MVCT
+Install Using a PC
+1)    Extract the MVCT_Firmware_6_015 from the downloaded zip file to your PC
+2)    Turn on the MVCT
+3)    Start PowerDB and connect the PC to the MVCT
+4)    Select the Systems Button to go to the System Configuration Screen
+5)    Select Update FW Button
+6)    From the dialog select Update FW
+7)    An open file dialog will appear, browse to the location of the FW file on your PC
+8)    Select the file than select open
+9)    The FW update process will begin
+10)    When the update process is complete the MVCT will prompt you to reboot the system
+11)    After powering up the unit select the System button to go to the System Configuration screen
+12)    Select View Versions
+13)    Verify the FW version is updated to the correct version
+FW Install on MVCT with integrated display
+1)    Unzip MVCT_Firmware_6_015 onto the root of a USB drive.  The USB drive should now contain the path  Megger/Updates/MVCT_firmare_6_015.ldr
+2)    Turn on MVCT
+3)    Insert USB drive into MVCT
+4)    Select System button to go to the System Configuration screen
+5)    Select Update FW Button
+6)    From the dialog select Update FW
+7)    An open file dialog will appear, browse to the location of the FW file on your PC
+8)    The MVCT will search for the file on the3 USB drive
+9)    Once the file is found the FW update process will begin
+10)    When the update process is complete the MVCT will prompt you to reboot the system
+11)    After powering up the unit select the System button to go to the System Configuration screen
+12)    Select View Versions
+13)    Verify the FW version is updated to the correct version
+install_powerdb_11.2.10.100_BITE5_DU_21JUL23
+Released: July, 2023
+Note: The downloaded file will be named "Install_powerdb_XXX.zip"
+PowerDB_V11-2-10-100_BITE5_DU_21JUL23.zip
+883.0 MB | 18/08/23
+Download
+MVCT Firmware
+MVCT_Firmware_6_015.zip
+450.2 KB | 01/09/22
+Download
+Onboard_Install_11.2.10.130_21JUN23
+Released: June, 2023
+Note: The downloaded file will be named "Onboard_Install_XXX.zip"
+Onboard_Install_11-2-10-130_DRIVER_UPDATE_21JUN23SMRT.zip
+630.0 MB | 18/08/23
+Download
+Ask a question
+or
+Find a stockist
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

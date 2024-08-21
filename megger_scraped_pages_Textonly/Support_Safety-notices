@@ -1,0 +1,316 @@
+Electrical test equipment support, faqs and guides | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Safety notices
+Safety notices
+If you have any of the products listed below, please read and action the customer safety notices relating to your instrument.
+SAFETY ALERT - Low Battery Warning
+DCM 320/330/340/1500A – Clamp Meters
+AVO210 & 410 - Multi Meters
+SAFETY ALERT – Low Battery Warning
+Safety is always Megger’s highest priority and as such we wish to draw your attention to an issue that has been identified on the above products.
+Once the low battery indicator appears, readings may become unreliable to a point where the instrument can potentially show 0 V when a voltage is present, typically when the battery supply voltage drops below 50%. Accordingly:
+To avoid false readings that could lead to electric shock and injury, do not use the product for measurement when the low battery warning is on. Batteries must be replaced as soon as the low battery indicator appears to avoid unreliable or false readings.
+Please ensure you are using the latest version of the manual for the above instruments.
+If you have any questions regarding this matter please contact the Technical Support Team at Megger, Dover or your regional Technical Support Team, as detailed below.
+Europe, Middle East & Africa
++44 (0)1304 502102
+dovertechnicalsupport@megger.com
+Asia & Pacific
+Michael Evangelista
++63 977 856 7182
+michael.evangelista@megger.com
+Americas
+Brian Hammerschmidt
++1 610-676-8599
+brian.hammerschmidt@megger.com
+Jeff Jowett
++1 610-676-8539
+jeff.jowett@megger.com
+Piers Grumett
+Group Operations Director
+MFT1700 and MFT1800 series notice
+Through our programme of continuous improvement, we wish to draw your attention to loop impedance testing on very high earth resistances. This notice covers the MFT1700, 1800 and 1701 series multifunction testers from Megger Instruments Limited.
+Measurement affected: 3-wire non-trip loop impedance test.
+In the very unlikely situation that a 3-wire loop impedance test is applied to a circuit of between 3300 Ω to 100,000 Ω to earth, there is a possibility that the voltage appearing on the CPC could exceed 50V. Although this lasts for less than half a second, this may be momentarily experienced by someone touching exposed bonded metalwork during the test.
+This condition will not arise if the earthing and bonding has been verified as acceptable prior to performing a 3-wire earth loop impedance test.
+Our advice to customers.
+We consider the likelihood of this situation arising to be extremely rare and Megger has no record of any occurrence of this condition in the lifetime of this product range.
+Instruments will be automatically updated when returned for routine calibration or repair, or customers can call Megger Limited for a Returns Authorisation number and return their MFT as below:
+Megger Service and Repairs:
+Tel: +44 (0) 1304 502243
+Megger can provide a courier service.
+The Returns Authorisation (RA) number must be visible on the external packaging.
+Return address if using alternative courier:
+Megger Service and Repairs
+Archcliffe Road, Dover, Kent. CT17 9TP
+If customers are concerned about this condition, performing an RCD test on the circuit prior to the loop impedance test will alert the operator to any high resistance condition. This only affects the 3-wire non-trip loop impedance test. All other tests including other loop impedance tests are unaffected.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

@@ -1,0 +1,359 @@
+O teste de alta tensão danifica um motor? | Megger Baker
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Company
+Notícias Megger
+O teste de alta tensão danifica um motor?
+O teste de alta tensão danifica um motor?
+Drew Norman, Applications Engineer,
+Megger Baker
+Os profissionais de manutenção encarregados de manter a confiabilidade do motor elétrico costumam se preocupar com o teste de seus motores críticos em tensões bem acima dos níveis da placa de identificação. Certamente, pode parecer contraintuitivo testar um motor de 460 V a 2.000 V ou um motor de 4.160 V a 9.320 V. Afinal de contas, o motor é classificado apenas para essa tensão mais baixa, certo?
+Alguns podem até ter tido experiências com falha do motor após um teste de hipot ou de surto nessas tensões elevadas. Esses eventos podem gerar ainda mais hesitação em usar o teste de alta tensão como uma técnica de avaliação em serviço.
+Primeiro, vamos explorar as tensões operacionais que os sistemas de isolamento do motor devem suportar, e em seguida nos aprofundaremos numa descrição da natureza da deterioração e falha do isolamento, assim como uma visão geral das medidas de segurança projetadas em equipamentos modernos de teste de alta tensão para que os operadores de teste possam se sentir mais confortáveis aplicando estes métodos de teste.
+A Importância das especificações da placa de identificação
+Cada motor instalado em uma aplicação industrial tem uma placa de identificação com os critérios específicos de projeto. Estes parâmetros de placa definem as características operacionais adequadas do motor em serviço. É importante que os níveis de tensão e corrente do motor sejam mantidos dentro de uma faixa específica destas especificações da placa de identificação. Uma condição de sobretensão de 115 por cento pode levar à saturação do núcleo de ferro do estator e, por sua vez, criar um aquecimento excessivo do sistema de isolamento do motor, o que levará à falha do motor.
+Por outro lado, uma condição de subtensão resultará em fluxos de corrente superiores aos normais para uma determinada quantidade de potência do eixo fornecida. Isto também levará a um aquecimento excessivo e subsequente degradação do isolamento. Estes cenários são tão prejudiciais para o sistema de isolamento quanto uma condição de sobrecarga devido à tensão térmica adicional nos enrolamentos do motor. Por estas razões, é fundamental que o motor seja operado próximo ao nível de tensão da placa de identificação.
+"Pesquisas demonstraram que os níveis de tensão induzidos nos enrolamentos do motor podem ser até quatro vezes superiores aos níveis de tensão nominal do barramento".
+Interpretação da tensão da placa de identificação do motor
+É importante saber que a tensão da placa de identificação do motor não se refere à sua classificação de tensão de isolamento. A tensão de isolamento é na verdade baseada em sua tensão de ruptura.
+A tensão de ruptura do isolamento é a tensão acima da qual o isolamento se rompe eletricamente. Em sua tensão de ruptura, o isolamento não pode mais suportar o esforço na tensão através dele e a resistência cairá a zero. Uma corrente significativa agora fluirá através do material de isolamento, causando sua falha.
+A tensão de ruptura é uma classificação independente do isolamento e não está associada com a classificação da placa de identificação do motor. Quando um motor é projetado para uma tensão de operação específica, o isolamento é projetado para suportar uma tensão significativamente mais alta do que a tensão nominal do barramento.
+Há várias razões para isto, mas a mais importante é que a tensão imposta aos enrolamentos durante a abertura do contato pode ser até quatro vezes a tensão aplicada ao barramento. Se os motores fossem isolados apenas para suportar a tensão da placa de identificação, eles falhariam quase tão logo fossem colocados em serviço.
+Pesquisas científicas de campo mostraram que os níveis de tensão induzidos nos enrolamentos do motor durante os transientes de comutação podem ser até quatro vezes maiores que a tensão nominal da placa de identificação do motor.
+Figura 1:
+Esta tabela mostra os níveis de tensão relativos de tensão para diferentes classificações de tensão do barramento (Imagem cortesia da IEEE, 2002)
+Tensão de ruptura do isolamento
+Os motores começam sua vida útil com uma tensão de ruptura de isolamento muito alta. O sistema de isolamento de um motor de 460V terá tensões de ruptura de 28.000V à terra e 16.800V entre as curvas no início de sua vida útil. Isto dá ao isolamento muito espaço para se degradar com o tempo sem sacrificar a integridade do isolamento ou a confiabilidade do serviço.
+Ao longo do ciclo de vida operacional do motor, ele é exposto a vários fatores ambientais, incluindo atrito mecânico, exposição química e estresse térmico. Estas tensões deterioram o material de isolamento com o tempo. A taxa desta degradação depende da gravidade destes fatores ambientais, sendo o acionamento primário a tensão térmica.
+Figura 2:
+Curva da vida útil do isolamento
+Uma vez que a tensão de ruptura do isolamento do motor cai abaixo do nível máximo de tensão mostrado na Figura 2, o motor está em seu estágio final de vida útil. Neste ponto, o motor consumiu a maior parte de sua vida útil de isolamento e deve ser programado para ser substituído assim que possível.
+Importância dos testes do motor de alta tensão
+A capacidade de determinar a condição do isolamento e sua capacidade de suportar os esforços na tensão causados pela operação normal é fundamental para definir sua confiabilidade. É por isso que os testes de alta tensão são tão importantes. Ser capaz de determinar que um motor entrou em seu estágio final de vida útil é a chave para um programa eficaz de confiabilidade de motores elétricos. Sem este teste preditivo, a falha do motor virá sem conhecimento prévio, uma vez que se executa cegamente apenas testes de baixa tensão
+"Um teste também pode mostrar uma resposta de corrente não linear, indicando que o isolamento está se aproximando do fim da vida útil".
+Teste de Resistência do Isolamento
+O sistema de isolamento do motor tem duas barreiras primárias com as quais se preocupar, a parede do solo e as camadas de isolamento entre curvas. Ao realizar testes no isolamento, começa-se com uma série de testes de parede do terra CC. O primeiro deles é o teste de resistência do isolamento. Este é um teste de um minuto que permite quantificar o valor da resistência do isolamento e é realizado próximo ou abaixo da tensão da placa de identificação.
+O teste de resistência de isolamento é descrito na Norma 43 do Institute of Electrical and Electronics Engineers (IEEE). Este é um teste nominal e não foi projetado para forçar o isolamento de forma alguma. Nos casos de motores de tensão mais alta, este teste é conduzido a tensões inferiores às da placa de identificação. O objetivo é medir a corrente de fuga a um nível de tensão CC não estressante, medindo assim o valor da resistência de isolamento através de cálculo (Lei de Ohm R = V/I). Isto é útil no campo como um medidor dos efeitos da contaminação e umidade no circuito do motor.
+Este teste pode ser prolongado por até 10 minutos para avaliar melhor a contaminação, bem como a umidade e, no caso de enrolamentos limpos e secos, a capacidade de polarização do isolamento do motor, o que é uma indicação da idade de isolamento e deterioração.
+Figura 3:
+Níveis de esforço na tensão de teste
+1
+Teste de HiPot
+O próximo teste CC é o teste de alto potencial ou hipot. Este teste é regido pela norma IEEE 95 e vem em uma variedade de formas. O mais eficaz destes métodos é o teste de tensão de passo. Este teste é como um teste de resistência de isolamento, mas aumenta incrementalmente a tensão de teste em passos para avaliar a mudança resultante na corrente de fuga.
+A tensão de teste final recomendada para um teste de passo CC é 2X tensão de linha + 1000V, com pelo menos cinco passos durante o teste. Esses passos permitem a avaliação das respostas da corrente de fuga à tensão crescente. Como a tensão é aumentada em passos, a corrente de fuga também deve aumentar de forma linear. Isto valida que a resistência de isolamento se mantém constante nestas tensões mais elevadas. A tensão de teste sugerida varia de 5 por unidade a 2,5 por unidade, como visto na tabela da Figura 3.
+Se a resistência for estável em cada uma das etapas, pode-se ter certeza de que o isolamento à terra é adequado para um serviço confiável contínuo.
+Entretanto, o teste pode falhar devido a uma sobrecorrente ou condição de arco. Isto indicaria exatamente onde está a tensão de ruptura do isolamento em relação à tensão do barramento. Isto dá uma indicação clara de que o isolamento atingiu o fim de sua vida útil confiável.
+Um teste também pode mostrar uma resposta de corrente não linear, indicando que o isolamento está se aproximando do fim da vida útil. Isso permite que o planejador de manutenção tenha tempo de sobra para agendar a substituição do motor.
+2
+"
+O esforço na alta tensão do dia-a-dia causada ao motor pela atividade de comutação normal é muito mais destrutiva do que qualquer teste de hipot ou surto bem regulado."
+Teste de surto
+Além da isolação à terra, o motor também possui um sistema de isolamento entre curvas. Este é o isolamento entre os fios individuais de cabos em uma bobina, o isolamento entre bobinas adjacentes e o isolamento entre pontos de cruzamento de fase a fase dentro do sistema de enrolamento.
+Durante os surtos de comutação, estas barreiras de isolamento entre curvas são tensionadas devido à natureza da indução nos enrolamentos do motor. A queda de tensão entre as curvas não é linear em sua distribuição e coloca uma maior tensão nas curvas mais próximas aos cabos do motor. Essas curvas curtas produzem altas correntes induzidas nos circuitos fechados em curto-circuito que levam a falhas no isolamento no terra ou da fase.
+3
+Descobre-se com frequência que falhas no terra e falhas no enrolamento de fase a fase têm origem em curtos-circuitos no isolamento entre curvas. Isto faz dos testes de pico uma das indicações mais críticas de deterioração precoce do isolamento. O teste de sobretensão simula efetivamente a mesma tensão suportada pelo enrolamento do motor durante um ciclo de comutação típico. Pela avaliação constante da estabilidade da onda de surto, pode-se detectar a variação da frequência da onda de surto enquanto se limita o fluxo de energia uma vez que a fraqueza é detectada.
+Embora estes testes não sejam de forma alguma uma tecnologia nova, os métodos de teste, avaliação e controle são relativamente novos. As empresas de testes e medição elétrica podem agora testar instrumentos utilizando as capacidades de monitoramento de seus computadores de bordo para avaliar e controlar continuamente a tensão e corrente, bem como interromper os testes imediatamente quando forem detectadas irregularidades.
+No passado, os equipamentos de teste de surtos dependiam do técnico para interromper o teste quando surgiam condições anormais. Ao fornecer controles e supervisão constantes de testes, o instrumento minimiza automaticamente qualquer risco de carbonização potencial do isolamento que pode ocorrer durante os testes. Isto não só garante a mais alta precisão e repetibilidade, mas também elimina as preocupações relacionadas ao excesso de tensão no isolamento.
+"Partida excessiva do motor, baixa qualidade de energia e sobrecarga são métricas controláveis que podem ter efeitos destrutivos muito maiores nos equipamentos do que qualquer teste de alta tensão.
+"
+Os testes de Hipot e de surto são destrutivos?
+As pessoas frequentemente perguntam se os testes de hipot e surtos são destrutivos e muitas vezes ficam surpresas ao saber que a resposta é, sim, eles podem ser destrutivos se o enrolamento for degradado. No entanto, se o enrolamento não for degradado, a resposta é, não.
+A única forma de degradar o isolamento é através da carga excessiva que flui através do material enfraquecido. Isto não ocorre com um bom isolamento.
+Se o isolamento for degradado, então a corrente que flui através do isolamento pode potencialmente causar carbonização ainda maior à já degradada. Como o teste é regulado, qualquer carbonização potencial é minimizada e, portanto, o motor pode continuar a operar até que uma substituição adequada seja instalada. Se o isolamento for degradado, o teste de alta tensão não causará mais do que a degradação equivalente naturalmente causada por um único ciclo de partida.
+4
+"Os dados mostram claramente que não há absolutamente nenhuma correlação entre o valor da resistência de isolamento em tensões baixas e não estressantes e a capacidade do isolamento de suportar tensões elevadas".
+O ponto mais importante a ser lembrado é o seguinte: O esforço na alta tensão do dia-a-dia causada ao motor pela atividade de comutação normal é muito mais destrutiva do que qualquer teste de hipot ou surto bem regulado. Partida excessiva do motor, baixa qualidade de energia e sobrecarga são métricas controláveis que podem ter efeitos destrutivos muito maiores nos equipamentos do que qualquer teste de alta tensão.
+Testes de isolamento de rotina realizados com controle de precisão e com níveis reduzidos de energia são uma das coisas menos prejudiciais que o motor irá experimentar ao longo de seu ciclo de vida. É importante considerar que quando uma fraqueza no isolamento é enfatizada pela tensão de ignição indutivo causada pela operação do contator do motor, toda a energia do sistema de distribuição está disponível para carbonizar os enrolamentos.
+5
+Ao realizar testes de hipot e surtos, os níveis de energia são apenas uma pequena fração daqueles experimentados durante as operações normais de comutação do motor.
+Experimentos da tensão de ruptura
+Uma empresa de testes e medições elétricas realizou recentemente algumas experiências de tensão de ruptura como uma demonstração da resistência de vários materiais. Ela testou muitos itens comuns, tais como folhas de plantas, conduto e fita adesiva elétrica, materiais de isolamento e até mesmo papel higiênico. Ao realizar um teste de resistência de isolamento a 500V, descobriu que o papel higiênico de duas camadas tinha um valor de resistência de isolamento de 2.000 megohms e um cabo de alimentação comum de computador só tinha um valor de resistência de 260 megohms.
+Quando conduziu o hipot de tensão de passo, o papel higiênico tinha uma tensão de ruptura de 2.000V e o cabo de força foi capaz de segurar os 30.000V completos disponíveis a partir do bloco de alimentação e nunca quebrou.
+Os dados mostram claramente que não há absolutamente nenhuma correlação entre o valor da resistência de isolamento em tensões baixas e não estressantes e a capacidade do isolamento de suportar tensões elevadas. A capacidade do isolamento de suportar tensões de alta tensão, para a qual foi projetado, simplesmente não é avaliada por testes CC de baixa tensão.
+Condições de pseudo-testes
+Esteja ou não ciente disso, você está fazendo teste de hipot e de surto em seus motores com muito mais frequência do que você poderia imaginar. A partida e a parada de cada motor são efetivamente um teste hipot e de sobretensão com uma quantidade ilimitada de energia disponível para danificar o enrolamento. O teste com um testador estático é um meio de simular esta mesma tensão com baixa energia e de forma precisamente controlada.
+Embora o teste de resistência de isolamento de baixa tensão tenha um papel importante a desempenhar, ele é totalmente inadequado para avaliar a integridade do isolamento e validar a confiabilidade. Com todos estes fatos em mente, é fácil entender a importância dos testes de isolamento de alta tensão e sua capacidade de garantir a mais alta confiabilidade do equipamento.
+Referências
+1. Zotos, Peter. “Motor Failures Due to Steep Fronted Switching Surges: The Need for Surge Protection – User’s Experience.”
+IEEE Transactions on Industry Applications
+, Vol. 30, No. 6, Novembro/Dezembro 1994.
+2. The Institute of Electrical and Electronics Engineers. IEEE 95-2002 – IEEE Recommended Practice for Insulation Testing of AC Electric Machinery (2300 V and Above) With High Direct Voltage. 2002.
+3. Tallam, R.M., Habetler T.G. and Harley, R.G. “Transient Model for Induction Machines with Stator Winding Turn Faults.”
+IEEE Transactions on Industry Applications
+, Vol. 38, No. 3, Maio/Junho 2002.
+4. Gupta, B. K., Stone, G. C. and Stein, J. "Use of Machine Hipot Testing in Electric Utilities."
+Proceedings: Electrical Insulation Conference and Electrical Manufacturing and Coil Winding Conference
+, Cincinnati, OH, 2001, pp. 323-326.
+5. Wilson, John. “Stored Energy in a Motor.”
+Technical Note, Baker Instrument Company
+, 2006.
+Drew Norman
+é o engenheiro líder de suporte a aplicativos e treinamento de produtos da Megger Baker Instruments. Antes de ingressar na Megger Baker Instruments há 12 anos, Drew trabalhou na General Electric por oito anos em diversas funções, incluindo como técnico de manutenção preditiva, especialista em geradores de motores, gerente de operações de oficina e coordenador do programa de gerenciamento de equipamentos. Drew é veterano da Marinha dos Estados Unidos, servindo oito anos como eletricista de viagem e operador nuclear no serviço submarino.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

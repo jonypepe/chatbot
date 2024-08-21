@@ -1,0 +1,349 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Testing Set-ups, Sensors, and Sensibility
+May 2021
+5 facts about surge arresters
+5 facts about surge arresters
+28 May 2021
+The humble arrester is a simple electrical component that serves a critical role: to protect assets against unwanted electrical surges.
+Here are 5 important facts about these heroes of electrical power:
+1. Arresters are known by a few different terms, such as ‘surge arresters’, ‘lightning arresters’ and ‘surge protection devices’. While these all do the same thing and the terms are used interchangeably, there are some slight differences between certain types. For example, lightning arresters are specifically designed to redirect lightning, however they can also be referred to as surge arresters. What’s more confusing is that surge arresters can be referred to as lightning arresters, even if they’re not designed to redirect lightning!
+2. Arresters are categorised by voltage rating. Surge arresters can be rated as low as 30 V, while lightning arresters (and some other types of arresters) can be rated as low as 600 V and as high as 700 kV or more (see Figure 1). This rating is used as the baseline for what is an acceptable voltage for the asset, so if the arrester receives a voltage that exceeds that, it will treat is as a surge.
+Figure1: arresters arranged in order of voltage rating
+3. Inside modern arresters, there is a metal-oxide varistor (MOV) and this is what reacts to the applied voltage. The body of an arrester is usually made of strong porcelain or similar material, while the ‘fins’ are made of flexible silicone or similar material. These ‘fins’ are known as heat dissipation vents and cool the arrester during operation and keep away rain drops (see Figure 2). Some arresters have a ‘halo’ or other circular structure on top of it that helps capture lightning strikes and prevent them from causing power surges (see Figure 3).
+Figure 2: 11 kV arrester without a ‘halo’. You can see the ‘fins’ clearly here.
+Figure 3: High voltage 106 kV arrester with a lightning ‘halo’
+4. Arresters change their resistance based on the voltage they are subjected to. The graph below shows the typical conductivity characteristics (or V-I curve) of  MOV surge arresters at a constant temperature. MOV arresters have nonlinear conduction depending on the applied voltage and temperature they are subjected to.
+In the graph below, voltage U
+c
+is the continous operating voltage, U
+r
+is the rated arrester voltage, and U
+ref
+is the ‘knee point’ voltage. Beyond the knee point, in zone B, the resistance drops allowing the arrester to conduct higher than normal voltages, preventing damage to the asset.
+U
+pl
+is the peak permissiable voltage, and it is when the voltage goes beyond this point that damage may occur to the arrester (which could be permanent).
+5. If an arrester is damaged due to excessive voltage as described point 4, there are a number of things that can happen as a consequence. Firstly, the arrester itself is at risk of exploding (see Figure 4), secondly, the asset itself could be severely or permanently damaged, and finally, the knock-on effect of this would result in a brown out, or even a complete black-out, for that section of the grid.
+It is worth noting that if an arrester is faulty for other reasons, it won’t show any warning signs under normal conditions and puts assets at risk. It’s therefore crucial to test them regularly to ensure they are working correctly.
+Figure 4: blown out surge arrester
+As you can see from this list, arresters are a simple yet vital component of the power system, ensuring smooth and safe electrical power delivery. As such, it is essential they are maintained and regularly tested to prevent damage to assets and ultimately, loss of power.
+All images and graphs used in this post have been taken from the ABB
+Application Guideline - Overvoltage Protection in Medium Voltage Systems.
+Authors: Ahmed El-Rasheed and Léonie Alvey
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+May 2021(
+1
+)
+April 2021(
+1
+)
+December 2020(
+1
+)
+October 2020(
+1
+)
+September 2020(
+1
+)
+August 2020(
+1
+)
+July 2020(
+1
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+1
+)
+February 2020(
+3
+)
+January 2020(
+1
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

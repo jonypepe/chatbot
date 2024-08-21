@@ -1,0 +1,356 @@
+Frequently asked time domain reflectometry questions | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Frequently asked questions
+Time Domain Reflectometry
+Time Domain Reflectometry
+Are there different TDRs for different cable types?
+Perhaps not from a theoretical point of view, but from a real-world point of view the TDR should fit the cable/application.
+Are there limitations when testing a high resistance conductor next to a low resistance conductor (e.g. mineral insulated electrical heat trace)?
+The TDR, when used by itself is a LV device. So any adjacent conductors should not present any limitations (this is assuming the cable in question meets the TDR’s requirement for a shielded cable, or two parallel conductors).  However the Arc Reflection Method uses both the LV TDR in combination with a HV pulse (typically from a thumper). The HV ARM shot could impact adjacent cables.
+Can ARM be used on secondary concentric cables?
+Yes, the Arc Reflection Method is ideal for concentric secondary cables. The only caution is to make sure the operator does not apply more than the required voltage if using a high capacity unit.
+Can external signals affect a TDR test?
+None that we are aware of, particularly when dealing with MV power cables.
+Can I perform a TDR test after a VLF test?
+Absolutely. In fact on direct buried cables, if the cable fails the VLF test, one would typically use the TDR/ARM to find the fault.
+Can TDRs be used on mineral insulated cables?
+TDRs can sometimes be used on these type of cables if the two parallel conductor requirement is met.
+Can TDRs be used on oil filled paper type high voltage underground cable?
+TDRs can be used on straight runs of PLIC insulated cables.  However on faulted PLIC cables, the standard ARM methods may not work. In this case ARM-Plus, Decay and ICE are other TDR based pre-location methods that can be substituted for ARM.
+Note: None of these methods would be used oil filled pipe type transmission lines.
+Can TDRs determine how much of the concentric neutral remains good on the cable (e.g. >75% good or <50% good)?
+From a practical point of view, a TDR cannot accurately measure the amount of remaining neutral.  At best some TDRs can indicate some level of neutral damage or loss.  An exceptionally experienced operator might develop a general feel for neutral condition.
+Can TDRs distinguish between a fault in the cable and a poorly constructed splice?
+They cannot. A TDR simply reflects off of significant impedance differences.  To see a fault caused by failed insulation (pinhole fault) the TDR needs the HV Arc from a thumper (Arc Reflection Method, ARM). However there are two cases where the TDR can see a fault without an Arc:
+If the center conductor is severed in half
+If the center conductor is shorted (touching) the neutral concentric (bolted fault—rather uncommon)
+The TDR will see most splices as they typically have a large enough impedance reflection.  However to distinguish between a properly constructed verses a poorly constructed splice is not practical.
+Note: Partial Discharge testing can be used to identify poorly constructed splices.
+Can TDRs distinguish between water trees and electrical trees in cable insulation?
+TDRs cannot see any type of treeing, water or electrical, in any type insulation, PILC or solid dielectric.  However, one could argue that a fault is an electrical tree and in this case the ARM method will pre-locate this type of damage.
+Can TDRs work if the neutral is corroded?
+If a corroded neutral still has some electrical continuity then the TDR will work.  However if the neutral is severely corroded, say at 500 feet, then the TDR will see 500 feet, but not see anything past 500 feet.
+Can you use the EasyLoc for cable fault location?
+The
+EasyLoc
+is designed only for tracing the cable’s path.  However, if the cable is completely cut, you might be able to determine this "fault" location from a massive drop in signal strength with the transmitter is connected to the cable.  While the EasyLoc might be able to locate faults in very specific cases, it was not designed to pre-locate a faulted/cut cable.
+Do I need to know the approximate length of the cable prior to using a TDR for fault locating?
+No, but it can help save time if you have an expected cable length in mind before beginning.  However, even if you do not have this information, there are independent ways (e.g. ground/unground the far end) to verify actual distance seen by the TDR.
+How do I connect TDR test leads for phase to phase testing?
+When your TDR is connected into a thumper system there are three hook-up leads:
+HV Output
+HV Return
+Safety/Equipment Ground
+When connected to a thumper, the TDR uses the HV Output and HV Return as its two leads.  For phase to phase testing, the HV Output is connected to one phase and the HV Return is connected to the other phase.
+Note: During phase to phase TDR testing/comparisons you typically do not use any HV from the thumper.  The exception would be if you had pre-determined you are working a phase to phase fault, then you might attempt a standard HV ARM pre-locate.
+Is it safe to thump through a transformer coil?
+Yes, this has been field measured and shown to be safe.  When using ARM through transformers for power restoration, each primary coil "sees" a LV-high frequency pulse (TDR) combined with a HV- high frequency pulse (single thump).  Each primary coil acts like a large inductive choke to these high frequency pulses. This means that the high frequency pulse does not excite the primary (60 Hz) coil, but rather passes on down the circuit, looking for a path to ground through the actual fault.
+The conductors I want to test are not concentric but travel through various metallic wireways. Will this affect TDR readings?
+TDRs basically require two parallel wires. Usually this is a center conductor and shield (or neutral), which is most comonly a cable with concentric construction. However any set of parallel wires can work, phase to phase (leg to leg) etc. It is usually fairly straight forward to verify if a TDR will or will not work in most applications.
+What are the differences between TDR and time domain partial discharge techniques (IEEE 400.3)?
+This is a rather complex topic but in short:
+TDRs generate and send a pulse down/back in the cable being tested
+When doing PD testing, the pulse in question comes from actual PD inception. We can localize the point of inception using TDR techniques
+What do I do if my cable splits at some point down the line?
+If there is only one single split (e.g. one buried Y splice) you can use standard ARM fault location. There could be some extra but simple steps needed to determine which leg the fault is down. &nbsp;However, if there is more than one Y splice TDRs quickly become problematic.
+Note: TDRs are not generally used in through network systems unless the network can be quickly/easily broken down to straight runs.
+What is the benefit of using TDRs over resistance testing, such as Ohm Check, for testing the integrity of the concentric neutral?
+The Ohm Check (a unit that uses the bridge method) requires a reference wire be run above ground, along the length of the cable to be tested.  Barring this operational constraint, it is currently the best way to accurately gage the condition of neutral concentric.
+The TDR's advantage would be that it does not require an above ground reference wire, but from a practical point of view, a TDR cannot accurately measure the amount of remaining neutral.  At best some TDRs can indicate some level of neutral damage or loss.  An exceptionally experienced operator might develop a general feel for neutral condition.
+What is the initial downward trace I see when starting a TDR test?
+This downward trace on the very left hand side of the display screen is the reflection for the test lead hook up (characteristic hook-up impedance change).
+Note: Some TDRs will automatically shift this initial reflection off to the right, thereby removing it from view.
+What is the maximum length of cable that I can use with a TDR?
+Different TDRs have different maximum ranges.  For example, a common Megger cable fault locating TDR (for URD work) has a maximum range of 25,000 or 100,000 feet.  Other fault locating models offer maximum ranges of 34 miles, 100 miles and one unit offers up to 790 miles.
+What is the maximum thump level with a filter connected?
+The filter is normally sized to the thumper. In this case the maximum HV thump level for the filter and thumper are equal. However if you have added a filter to a thumper, then the maximum thump is dependent on the on filter’s rated maximum limit.
+When do I use the Arc Reflection Method (ARM)?
+Arc Reflection Method (ARM) is ideal for MV URD type power cables. However ARM can be used on other class cables.  In essence what’s required is simply a shielded cable. Megger offers ARM units that operate at 3-4 kV maximum output for lower voltage class shielded cables.
+When fault locating on very long cables, do I ground the other end of cable in order to use a thumper?
+Regardless of cable length, the far end is never grounded while actually thumping or doing single ARM shots. Doing so would provide a direct path to ground for the HV pulse.
+Where can I find cable velocities not already programmed into the TDR?
+A web search or contacting the manufacturer of your cable or test instrument might produce a usable number.  However the best way would be to define the actual propagation velocity using a known length of cable.
+Where can I get a cable velocity list?
+You can download one
+here
+. Please remember that generic cable velocity lists should be considered guidelines only.
+Will ARM cause more damage to the cable being tested e.g. a 69 kV underground cable? Have there been any studies done on this?
+From a practical point of view no, ARM would not cause more damage to a faulted 69 kV class cable.  Remember, ARM pre-locates the fault with one or so impulses.  This pre-location distance then reduces the number of thumper impulses required to pinpoint the fault.
+A paper examining the effects of thumping is Hartlein, R.A, et. al. Effects of voltage surges on extruded dielectric cable life project update, IEEE Transactions on Power Delivery (Vol 9, Iss 2), 1994.
+Will ARM work on a high impedance fault?
+Generally yes, ARM is ideal for most high impedance faults.  However there are exceptions, for example, when a neutral is separated far enough to cause a very high resistance tracking path for the HV Arc, ARM may not work.
+Will ARM work on cables with the neutral separated from it?
+Within reason yes. However if the separation is far enough to cause a very high resistance tracking path for the HV Arc then ARM may not work. An example of this a faulted splice, where the neutral was pulled well away from the splice body during construction.
+Will TDRs work on a complex network underground system with primary side taps?
+TDRs should work on the first zone, before the side tap.  TDRs are not typically used through networks and work best on straight runs of cables.
+Note: TDRs easily see down single phase loop feed circuits with splices and transformers.  TDR’s do work well through networks or junction boxes that split the cable path.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

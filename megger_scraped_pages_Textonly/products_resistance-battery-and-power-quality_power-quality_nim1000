@@ -1,0 +1,322 @@
+NIM1000 - Impedance meter
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Products
+Resistance, battery and power quality
+Power quality
+NIM1000
+NIM1000
+Impedance meter
+Product Documents
+Data sheet -  NIM1000
+User guide -  NIM1000
+Overview
+Technical
+Software
+High test current up to 1000 A
+Measures the grid impedance of the phase and neutral conductor up to the 10th harmonic
+Displays all measured parameters
+Tests in accordance with DIN EN 61557-3; VDE 0413-3
+Triggers load-sensitive and neutral faults
+Performs multi-phase measurements and switches automatically between the test points
+Highly accurate and simple to operate
+With a test current of up to 1 kA, the NIM1000 impedance meter measures the network impedance of the phase and neutral conductors to the 10th harmonic.
+This impedance meter triggers load-sensitive and neutral faults, detects weak contacts, and exposes hidden flaws. Depending on the earthing/grounding conditions of the tested grid, a multi-phase measurement calculates the impedance of the neutral conductor to detect defects that can cause severe safety issues.
+The NIM1000 is a versatile device: it measures the current capacity under real-life conditions, determines the voltage dip resulting from a given load, and performs tests on cables, power supply lines, and busbars. Those tests help determine the correct dimensioning of installations, ensure a consistently good power quality, and prevent downtimes. The collected data provides a comprehensive and reliable evaluation of the power grid in terms of current load capacity and voltage fluctuations under load.
+With its simple operation, handy size, and bright colour display, NIM1000 is a user-friendly tester, developed specifically for the needs of low voltage utilities and their testing technicians who work in today’s demanding and competitive market conditions.
+EasyProt
+Version for use with:
+MFM10
+ETray
+Easytester 10/20kV
+NIM 1000
+VLF Sinus 28/30/34/51/54
+VLF Sinus 45/62 (TDM 45/62-P)
+Installation instructions:
+Download the zip archive.
+Open the zip archive.
+Copy the EasyProt62 folder to the desired installation folder.
+Open the installation folder.
+Double-click on EasyPro.exe, if you want to import log files from any aforementioned product other than VLF Sinus 62.
+otherwise....
+Double-click on EasyProt_62.exe, if you want to import VLF Sinus 62 log files.
+EasyProt version update
+EasyProt_V1-37.zip
+19.7 MB | 07/08/23
+Download
+NIM1000
+Software update v1.30
+NIM-1000_App-v-1-30.zip
+7.4 MB | 28/07/23
+Download
+Ask a question
+or
+Find a stockist
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

@@ -1,0 +1,302 @@
+Electrical test equipment application solutions from Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Applications
+Power Transformer
+Transformer bushings
+Transformer bushings
+A transformer bushing is an insulating structure that facilitates the passage of an energized, current-carrying conductor through the grounded tank of the transformer.  The conductor may be built in to the bushing, i.e., a bottom-connected bushing, or the bushing may be built with the provision for a separate conductor to be drawn through its centre, a.k.a., a draw-lead or draw-rod bushing.
+The two principal types of bushing construction are solid or bulk type and capacitance-graded (sometimes called condenser type). The bushings used for the low voltage winding(s) of a transformer are often solid type with a porcelain or epoxy insulator.  Capacitance-graded bushings, designed for higher voltage ratings, are used for a transformer’s high voltage winding.
+Unlike a solid type construction, in a capacitance-graded transformer bushing, conducting layers are inserted at predetermined radial intervals within the insulation that separates the centre conductor from the insulator (housing) of the bushing.  These multiple conductive inserts create capacitive elements linking the centre conductor of the bushing to ground.  Their purpose is to control the voltage field around the center conductor so that the voltage distributes more uniformly across the surrounding insulation system in the bushing.
+In solid type bushings, electrical grade mineral oil is often used between the conductor and the insulator, which may be contained within the bushing or shared with the transformer. Typical insulation used in a capacitance-graded bushing is oil-impregnated paper (OIP), resin-impregnated paper (RIP), and resin bonded paper (RBP).  Capacitance-graded bushings also use mineral oil, usually contained within the bushing.
+Transformer bushing failures are often credited as one of the top causes of transformer failures so the condition of the bushings is of high interest to transformer asset owners.   Typical bushing failure modes include moisture ingress, electrical flashover, lightning strike, short-circuited capacitance-graded layer(s), bushing misapplication, corrosive sulphur, broken connection between ground sleeve and flange, and a broken tap connection.  The following electrical field tests provide information about the integrity of the bushings.
+Bushing diagnosis
+Tan delta/Power factor/dissipation factor/capacitance (@ line frequency)
+:
+Tan delta/power factor/dissipation factor assesses the integrity of the insulation system of the bushing.  C1 and C2 tests should be performed on a capacitance-graded bushing.  A C1 power factor/dissipation factor test checks the health of the bushing’s main core insulation, while the C2 measurement is used to assess the bushing tap compartment’s insulation plus the outermost main core insulating wraps and surrounding filler material.  Often, C2 serves as early detection for moisture ingress or other contaminants that collect around the flange area because of a deteriorated or faulty top terminal gasket, for example.
+Capacitance
+:
+measured concurrently, assesses the physical integrity of the bushing.  An increase in C1 capacitance for example may indicate short-circuited capacitance-graded layers in the bushing, a diagnosis which warrants the bushing’s immediate replacement.
+Tan delta/Power factor/dissipation factor tip-up
+:
+Tan delta/power factor/dissipation factor tip-up (which checks to see whether power factor/dissipation factor changes when the test voltage changes) may be useful in the detection of loose connections or localized defects; may be effective in detecting aging effects when combined with DFR.
+Ask us how…
+Variable frequency power factor/dissipation factor (VFPF)
+:
+This test is a collection of power factor/dissipation factor measurements performed across a  subset of the frequencies included in a DFR measurement (e.g., 15 – 500 Hz).  Conductive contaminants are easily seen at low frequencies (15 Hz and below) while problems such as top terminal looseness and PD inducing type issues may be detected at higher frequencies (500 Hz).
+Hot collar test
+:
+A hot collar test is used routinely for solid type bushings without taps and is effective in revealing deterioration, contamination, low compound or liquid levels, and voids in the compound (if applicable).  It may also be effective as a supplementary test to C1 and C2 tests on capacitance-graded bushings with taps.
+Dielectric frequency response (DFR)
+:
+In bushing diagnostics, a pronounced temperature dependence (i.e., increased power factor/dissipation factor at high temperatures) is a strong indicator of bushing insulation deterioration.  DFR measurements provide the capability of performing individual temperature correction of measured 50/ 60 Hz power factor/dissipation factor at various temperatures to values at a reference temperature (20ᵒC).  Comparing this measured temperature dependence with the bushing manufacturer’s data for temperature correction will tell if the bushing is good or not.  DFR measurements can be used for moisture assessment of bushings.
+Partial discharge (PD)
+DGA: some asset owners sample oil from a capacitance graded bushing for the purpose of performing dissolved gas analysis tests. This is not a popular practice.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

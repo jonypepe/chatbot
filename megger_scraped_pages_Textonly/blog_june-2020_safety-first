@@ -1,0 +1,360 @@
+Safety First
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Testing Set-ups, Sensors, and Sensibility
+June 2020
+Safety First
+Safety First
+18 June 2020
+This week, we’re bringing you some great news. The Electrical Safety Foundation International (ESFI) just published a report on electrical injuries for 2018.
+The good news? In the US, in 2018, there was a record low number of non-fatal electrical injuries – 1,560, which was a 29% decrease from 2017. Of course, 1,500 injuries aren’t exactly something to be proud of. If we could prevent those in the first place, that’d be ideal.
+On the other hand, we have a bit of bad news to share. Of all fatalities in 2018, 3% were caused by exposure or contact with electric current. Not great, considering it was just 2.6% in 2016.
+So where can we go from here?
+When it comes to safety, there’s nowhere to go but up! We obviously are always striving to bring these numbers down, regardless of whether there are fatalities or not. And when lives are at-risk, you can never be too proactive about safety.
+Let’s first chat about why these injuries occur.
+There’s a lot of reasons, of course, but they all come down to exposure to electric current. You know that voltage doesn’t kill you right? It’s the current. If you didn’t know this, go check out our
+high voltage blog.
+We can also refer to this as electrical shock.
+As for the nonfatal electrical injuries, electrical shocks accounted for about a thousand of the injuries, while burns were attributed to the other nearly five hundred injuries.
+It’s important to note that electrical injury can occur across a wide range of industries – from utilities to construction to mining to agriculture and other private industries.
+Today, we’re just going to talk about electrical safety when it comes to electrical testing though.
+What did you expect? This is an electrical testing blog, right?
+By the way, we apologize that this is not the most uplifting of blogs. We’re getting there though.
+How can you stay safe while testing your systems?
+Well, electrical safety should be the first thing on your to-do list when you get to your job site. There are three things to consider – your equipment, the procedure, and the item under test. Leave one of these out, and you could be facing an incredibly dangerous situation.
+Let’s start with
+arc flash protection.
+Protection against arc flash involves your equipment, the test item, and the procedure itself, so it’s basically an all-around win. The arc flash rating will define the level of spike or surge transient that the instrument is designed to withstand. Voltage spikes can cause test instruments – that are connected at the time – to arc internally, producing heat and violent expansion of air in a small space. If you’re not imagining this yet, think – exploding instrument. Not good. If this happens, you could be dealing with serious burns, shock waves, and flying particles. Ideally, the equipment manufacturer will design the equipment to prevent internal arcing. However, that’s not enough. The operator needs to also understand the rating system and use the instrument accordingly. Got it?
+So, what’s this rating system all about?
+Really great question. The degree of protection is interpreted as a Category (CAT) rating and a voltage limitation. You’ve probably (most definitely) seen CAT ratings. These are assigned from I to IV, although CAT I isn’t really used anymore. The rating indicates the position of the circuit under test, relative to the transformer serving the area. Since energy dissipates as you move further away, the risk does too. So, here are the ratings:
+CAT IV – the utility feed from the transformer to the service entrance
+CAT III – from the fuse panel to an outlet
+CAT II – downstream of the outlet
+Make sense? Makes sense to me. I mean, I’ve been writing CAT _ in product descriptions for a little over a year now, and I never actually stopped and asked what it meant. This is truly very eye opening to me. Not sure about you all. Everything makes sense now!
+Anyways, that’s not all folks. There’s more to the rating. After the CAT rating, you’ll see a voltage limit for the rated voltage of any system being tested. You’ll want to use an instrument with a CAT rating that matches or exceeds the system you’re working on.
+It doesn’t stop at CAT rating though. Testers now come with additional safety features, that didn’t always exist.
+What are these added safeguards?
+While insulation testing is always performed on de-energized equipment, it’s important to recognize the hidden dangers that still exist, despite this false sense of security. The test item can store a lethal static charge in its capacitance and polarization of molecules in the insulation material. When you finish the test, the field gradient provided by the tester is removed, so the charged item will now generate a relaxation current. As the operator, you do not want to be caught in this discharge circuit!
+So, modern testers are equipped with automatic safe discharge – presenting visual and audible warning signals when extraneous voltage is detected. Pretty handy right? It gets better though, then a discharge circuit will safely dissipate the stored charge.
+What else? Let’s see…
+Well-designed testers will also disable the test circuit in the presence of extraneous voltage. This will prevent you from accidentally “cooking” your tester by connecting it to a live high voltage circuit.
+The opportunity for contact with live metal has been reduced thanks to recessed terminals and shrouded lead terminations. Now, the tip of the lead is the only source of exposed metal. Finger guards also prevent the hand from slipping onto the live test item, while locking terminals prevent leads from being accidentally pulled out.
+It’s not all up to the instrument though. You’ve got some responsibility here too, folks. You need to inspect those leads too! Small cracks or worn spots on lead can expose you to live metal, so routine inspection is a great idea.
+But it all comes down to this – a
+well-designed instrument
+will not replace a well-trained and alert operator, when it comes to safety. The safety features of an instrument will simply provide the necessary redundancy to support your proper electrical safety protocol.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+May 2021(
+1
+)
+April 2021(
+1
+)
+December 2020(
+1
+)
+October 2020(
+1
+)
+September 2020(
+1
+)
+August 2020(
+1
+)
+July 2020(
+1
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+1
+)
+February 2020(
+3
+)
+January 2020(
+1
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

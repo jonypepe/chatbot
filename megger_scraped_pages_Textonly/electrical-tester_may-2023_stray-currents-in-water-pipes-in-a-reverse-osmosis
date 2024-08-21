@@ -1,0 +1,637 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+May 2023
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Stray currents in water pipes in a reverse osmosis (RO) plant
+12 May 2023
+Author:
+David Stockin, E&S Grounding Solutions
+This article has been contributed by David Stockin, President of E&S Grounding Solutions, a company with extensive expertise in the development, design, and implementation of grounding systems.
+About reverse osmosis
+Reverse osmosis (RO) water plants rely on high pressure and an electrochemical process, or more accurately, an electrochemical gradient, to clean and desalinate water. It’s called an electrochemical process because it involves both chemistry and electricity. In this article, we will limit details of the process to say that too much electrical flow can not only interfere with the desalination and cleaning of the water, but can also increase the corrosion rates of the steel infrastructure at the plant.
+A good rule of thumb regarding the use of seawater RO treatment to clean and desalinate water is that you will need a 480 V three-phase system supplying motors with an aggregate power rating of 300 hp (250 kW) to treat about 500 000 gallons (2 million litres) per day, which is around 20 000 gallons (80 000 litres) per hour. This treatment system, with a variable frequency drive (VFD), will draw between 400 and 450 A just to supply the pump motors!
+The advantages of adding a VFD to an electric motor cannot be overstated. Not only can it improve electrical efficiency, it can provide programmable speed changes, improved torque ratings, soft starts, soft stops, smooth operations at lower speeds, improved consistency, higher braking torque, and many other benefits. But there is a downside to VFDs. While all electric motors generate some electrical noise and large electromagnetic fields that can induce unwanted currents into the surrounding steel infrastructure, VFDs are known to introduce additional objectionable resonant, harmonic, and switching frequencies into the electrical system.
+Many of these objectionable frequencies will end up on the armature and shaft of the motor, which happens to be right where the impeller for the water pump is connected. This is the perfect place for stray currents to enter into the raw water side of the RO system.
+There are many ways to reduce the electrical noise generated by VFDs, including the use of passive harmonic filters (a combination of reactors and capacitors), active harmonic filters, pulse width modulation (PWM) technology, isolation transformers, electromagnetic compatibility (EMC) filters, grounding bushings for motor shafts, isolated grounding electrodes, and more. This article will not examine the electrical engineering needed to reduce the impacts of a VFD, other than to say that if you are using VFDs, you probably have objectionable electrical noise, which means you should look into improving your grounding systems and using some sort of filtering technology.
+Based on these factors, one might start to think that many water processing facilities seem to be almost intentionally designed to inject stray currents into the water being processed. Many folks know that clean water does not conduct electricity very well, but saltwater is highly conductive and ‘raw’ water – that is the water before it has passed through the treatment membranes – is typically also conductive. Once stray currents start flowing through the water, they must escape somewhere before the water becomes clean and non-conductive.
+If that escape point is where the membranes are situated, these stray currents could interfere with the electrochemical processes occurring between the layers of the membranes, causing a loss of efficiency. If that escape point is only through the steel filter casings or steel piping, and currents are forced to travel great distances before they can find a path-to-ground, that longitudinal flow of current can dramatically increase the rate of corrosion on the steel structural members of the RO plant.
+About grounding/earthing
+There are generally two types of grounding or earthing systems: those that are designed to handle unwanted currents, and those that are designed to protect systems from those currents. Consider a high voltage electrical substation or lightning protection system; both are designed to handle objectionable electrical currents and safely conduct those currents to the earth. In these cases, we want to design a grounding system with lots of connections and parallel paths so that we can ‘divide and conquer’ the current. However, in the case of a sensitive electronic device inside a substation, we will only want to install single-point or ‘isolated ground’ connections to prevent objectionable currents from damaging the sensitive equipment. In the case of an RO plant, we want to divide and conquer the current with lots of connections from the steel components down to the earth.
+Note:
+The term ‘objectionable current’ is often used by the National Electrical Code (NEC) to indicate normal neutral currents that return to the transformer via the grounding system rather than via the neutral wire. In this article, we are using the term more broadly for all kinds of stray currents, harmonic currents, switching currents, transient currents, etc. Similar concepts are employed in the various IEC standards in relation to earthing.
+This might be a good time to cover a few basic principles:
+First, electricity relies on the movement of free electrons and ions, which are contributed by atoms. Where do we happen to have a lot of atoms? In the earth! So, if we have a well-designed grounding system, we can ‘dump’ objectionable currents into the earth to get rid of them by providing a conducting path for them.
+Second, copper is 12 to 17 times more conductive than steel. Copper is also diamagnetic so the magnetic field can penetrate it to a depth some 250 to 6000 times greater than in steel, so high-frequency currents are conducted with less concentration on the surface of the conductor. This positive effect is multiplied at the high switching speeds and harmonics of VFD noise, making a direct ground system bond to the VFD an effective way of conducting objectionable currents directly to the earth and away from sensitive systems.
+Third, the longitudinal flow of current on steel (and other metals) can increase the rate of corrosion. Providing an alternative and more conductive path to earth, in the form of copper, aluminum, or stainless-steel conductors, will help balance the difference in potential within the facility. It is one of the best ways to protect your facility from the hazards of objectionable currents.
+So, what have we learned? First, it is very important to install electrical measures at the VFD to reduce the amount of objectionable and stray currents entering the water system during the initial pumping stage. Second, a sound well-bonded grounding system will remove the remaining currents, helping to improve the efficiency of the membranes and to reduce the rates of corrosion.
+Testing grounding systems
+How can we make measurements to see if we have stray currents in our water system? For this, the best tool is a Megger DET14C or DET24C Ground Resistance Clamp Tester. Similar functionality is provided by the DET2/3 and DET4 products with the so-called “stakeless” method, which uses two separate clamps. These instruments contain two transducing transformers capable of accurately measuring alternating currents as low as 0.5 mA. They can also measure resistance by inducing a test signal via one of the coils. The first coil is an active coil that injects a known test signal into whatever object is placed between its jaws. The second coil is a passive coil capable of measuring the return signal and any losses that may have occurred during its travels through the circuit, thereby allowing the instrument to calculate a resistance value for the circuit under test. We can use this instrument to test whether our RO plant has stray and objectionable currents.
+There are several places around our facility where we will want to make measurements. First of all, let’s measure current by setting the instrument in the ammeter mode (dial in the “A” position). In the current measuring mode, the active transducer is turned off, and the passive current transformer is turned on.
+There are some key areas where we will want to make measurements:
+The Grounding Electrode Conductor (GEC) at the main electrical panel
+The GEC (X0) at the supply transformer, if possible
+The GEC to the main grounding electrode system
+The GEC, if installed, at the Variable Frequency Drive (VFD)
+The Equipment Grounding Conductor (EGC) going to the VFD
+All of the equipotential ground grid connections to the RO plant structural steel
+Any plastic water pipe you can clamp, especially on the raw water side
+Megger DET14C and DET24C Ground Resistance Clamp Testers have a built-in automatic noise-current warning feature that will detect whether there is electrical noise (transients, harmonics, and other frequencies) on the circuit being tested. Make sure to note the current for each object tested and also whether or not the noisecurrent warning feature is activated. All of the measured currents should be less than 1 A, and they should ideally be less than 100 mA.
+While it would be nearly impossible in this article to discuss all of the possible causes of higher currents, here are few examples:
+High current on the XO of the transformer – you could have an erroneous neutral-toground bond in a subpanel (see NEC 250.6) 
+High current on the GEC or EGC of the VFD – you may need an electrical noise filtration device, as discussed earlier in this article 
+High current on your grounding electrode or at the equipotential steel structural bonds – you may have an underrated grounding electrode system that is not capable of conducting the current load placed on it into the earth 
+High current on your plastic water pipe – you could have stray currents in your water system
+Resistance tests: practical examples
+To conduct a few example tests, let’s place our Megger DET14C or DET24C Ground Resistance Clamp Tester in resistance mode by setting the instrument in the ohmmeter mode (dial in the “Ω” position). As you will recall, this meter has two transducing transformers, one active and one passive. In resistance mode, both coils will be turned on; the active coil will induce a known signal into the conductor the meter is clamped around and the passive coil will read the returning signal to provide a resistance measurement up to the limitations of the instrument. If no signal is returned, the instrument will read open circuit (that is, a resistance higher than it can measure). With the instrument in resistance mode, we will want to measure the following items:
+The GEC to the main grounding electrode system 
+The Equipment Grounding Conductor (EGC) going to the VFD 
+All of the equipotential ground grid connections to the RO plant’s structural steel
+The expected results will vary greatly depending upon how the system was built, and which of the circuits we are measuring. Here are a few examples to help you evaluate your results:
+CASE 1 – Loop In some cases, when we clamp the meter around a conductor, the signal from the active transducer will travel through the conductive path of the loop back through the passive transducer, passing entirely through metal components. In this case, we are measuring ‘continuity’ (the resistance of an unknown metallic circuit) and we want to see a very low resistance, much less than 0.1 ohms. This confirms that there is at least one full set of conductive metallic paths (one loop) with effective bonds in that immediate area. 
+CASE 2 – Resistance-to-ground In other cases, when we clamp the instrument around the conductor, the signal will travel down the conductor, through a grounding electrode, into and across the earth (which will present itself as a resistance), up another grounding electrode, then through a metallic path, thus completing the loop back to the instrument. In this case, we would expect to see a resistance of, say, 25 ohms and in some cases much more. 
+CASE 3 – Single-point or isolated ground In yet another case, when we clamp the meter around the conductor, the signal will travel into a conductor that is bonded to an electrically floating object with no return path. Imagine a wood monopole with a single ground wire bonded to a metal box. In this case, we would expect the meter to return an open circuit reading, confirming that the connection is in fact single point. An ordinary ohmmeter with test leads should be used to confirm continuity back to the facility’s grounding system in these cases.
+In most instances in an RO plant scenario, we would want to see CASE 1 so we can confirm that continuity exists on our equipotential grounding system and that the bonds are in good condition.
+E&S Grounding Solutions highly recommends using a site plan (map) of the facility and placing the results of the tests on the plan so that you can visually see where high current and/or bad resistance readings occur. Only then can you make an educated decision about how to fix any issues that have been found.
+Is your RO plant mostly composed of plastic piping and do you have stray currents in the water that are causing equipment failures and corrosion? Perhaps you need to install a short stretch of stainless steel pipe that is bonded to your grounding system so that your stray currents flowing through the water will have a path-to-ground that is not via the membrane filters. 
+Does the grounding system tied to the VFD have high levels of noise and current on it? Perhaps you need an electronic filtering system and an improved Grounding Electrode Conductor (GEC) connection to your belowgrade grounding electrode system. 
+Do you seem to have higher than desired currents on just about everything you measured? Perhaps you need a better grounding electrode system and a good panel inspection to see if you have objectionable neutral currents traveling back to the transformer on your exposed conductive metallic parts (see NEC 250.6).
+We spoke to Alan Davies, the President of HydroDynamic Solutions, a leading installer of industrial-grade reverse osmosis systems. He tells the story of a client who spends over $100 000 USD each year on water pump losses alone, due to stray currents in the RO plant raw water system. A nearby electrical substation owned by the utility company is believed to be the culprit as he has inspected his own system carefully. Stray currents from a ‘leaky’ transformer at the substation are believed to be entering the water supply and damaging his client’s RO plant. He is currently investigating the use of a buried anti-EMI copper curtain to protect the plant from these hazards. Of course, what he really needs is for the utility company to replace the faulty electrical gear at the substation!
+Conclusion
+Stray electrical currents in water are a big problem for many people, not only in industry but also in the residential environment. Over the years, we have heard from numerous homeowners about stray currents coming up from the water main and into their home causing issues not only with the water pipes, but also with cable televisioin (CATV) systems, telephone systems, and more.
+An electrical isolator on the incoming water main is typically a good idea as long as you’re not using your water pipe as your main grounding electrode. (Note: you need a bond to your copper water pipe to your grounding system, however you really should use a dedicated grounding electrode as your fault current path, and not use your water pipe as an electrode). Measuring the currents in the water with a Megger DET14C or DET24C Ground Resistance Clamp Tester by clamping around a plastic water pipe can be a great way to quickly see if you have alternating currents travelling through the water supply (direct currents cannot be measured using such transducers).
+A properly bonded water supply system that complies with the National Electrical Code (NEC) Article 250.52(A) (1), 250.53(D), 250.68(C), 250.104(A), and other industrial codes, is always a great starting point for reducing the impacts of electrochemical issues in your water system.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

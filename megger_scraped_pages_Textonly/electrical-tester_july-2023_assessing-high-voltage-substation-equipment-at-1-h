@@ -1,0 +1,663 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+July 2023
+Assessing high voltage substation equipment at 1 Hz
+Assessing high voltage substation equipment at 1 Hz
+07 July 2023
+Authors: Dr Diego Robalino, Vince Oppedisano, and Ken Petroff
+It is common practice to evaluate the average insulation condition of high voltage (HV) substation equipment in the field by measuring dielectric losses. This practice involves applying an AC signal to an insulation system at a frequency close to the line-frequency (60 or 50 Hz) and measuring the current and the angle between current and applied voltage to determine the insulation dissipation factor (tan delta) or power factor.
+Line-frequency (LF) insulation dissipation factor (DF) or power factor (PF) depends on the frequency of the applied signal, the dielectric properties of the insulation material, the insulation temperature, and the geometrical design, as well as aging and contamination that might be present within the insulating medium.
+Field experience suggests that tables of factors for temperature correction do not reflect the true thermal behaviour of the insulation system and, consequently, a DF or PF trend analysis may be misleading due to incorrectly temperature-compensated test results. Throughout the service life of an electrical asset, line-frequency dissipation factor (LF DF) may stay the same, may increase or sometimes may even decrease and the reason for these changes is not always clear.
+Research carried out by the authors shows that even an apparently ‘good’ line-frequency DF is not always ‘good’, and that to reliably determine the condition of the insulation system, assessment of the insulation should also consider an additional DF value obtained at another, very specific, frequency.
+This article provides a clear demonstration of the benefit of measuring insulation DF at LF (50 or 60 Hz) and at 1 Hz. This simple combination of procedures carried out at the same time and with the same test instrument provides a more reliable and more efficient way to evaluate the condition of critical high voltage substation equipment, including power transformers, bushings, and instrument transformers.
+Theoretical background:
+Dielectric response in the frequency domain
+Non-invasive and non-destructive methods for determining the dielectric characteristics of insulation systems have evolved significantly in the last two decades. The methods typically involve applying a sinusoidal signal to the insulation system. This is not done to stress the insulation but to measure its dielectric properties: capacitance, dissipation factor (DF), complex permittivity, and conductivity. The ratio of imaginary to real components of the complex permittivity is the insulation DF (tan delta, δ).
+Equation 1
+Physical and/or chemical properties of organic and inorganic materials can change due to aging and due to thermal, chemical, electrical, or mechanical stress. A non-invasive and non-destructive method to trend these changes in insulating materials is the measurement of dielectric losses performed over wide ranges of frequencies or temperatures. The dielectric frequency response provides an instantaneous image of the condition of the insulation system, and it therefore allows on-site assessment and comparison against historical values – but only if accurate temperature correction is carried out in line with the Arrhenius equation (Equation 2), which defines the relationship between frequency and temperature.
+Equation 2
+Where Ea is the activation energy of the insulation material in eV, kB is the Boltzmann constant (8.617 x 10-5 eV/K), and T is the Kelvin temperature of the object. Activation energies are in the range of 0.70 - 1.18 eV for oil impregnated cellulose insulations.
+Figure 1:  Dielectric response of OIP insulation (new oil and paper with 2 % moisture) tested from 0 °C to 40 °C
+The Arrhenius equation allows normalisation of the dielectric response to a reference temperature, which
+is typically 20 °C. This approach is known as individual temperature correction (ITC). The effect of temperature on an oil-impregnated paper (OIP) sample is shown in Figure 1.
+Line-frequency dissipation factor (LF DF)
+The measured LF DF value by itself does not provide much information unless it is properly corrected to 20 °C. In a power or distribution transformer, the interwinding insulation, as well as the winding-to-ground insulation systems, are tested using an applied voltage of 10 kV (or below rated voltage of the winding under test) at line frequency. The resulting normalised values are subject to at least one of three typical evaluations: comparative analysis, trending analysis, and acceptance within limits established by international standards. It is not only the LF DF value that is of importance but also the capacitance value. Field experience has, however, shown that HV equipment may fail even after an LF DF test with apparently acceptable results.
+Reasons for not detecting insulation problems with LF DF are related to the temperature dependence of DF and the very marginal effect of emerging contaminants at LF. Carrying out the test at an additional frequency is a practical approach to improving the assessment by providing two measurement points within the dielectric response spectrum.
+Dissipation factor at 1 Hz
+More than 25 years of information that was obtained using full spectrum (1 mHz to 1 kHz) dielectric frequency response (DFR) in the field to assess the condition of power transformers has been thoroughly analysed at various frequencies.
+As can be seen in Figure 1, at LF (60 Hz) the variation of DF as a function of temperature is very small compared to the variation observed at 1 Hz. The differences at LF are quite difficult to observe, particularly for a specimen in very good condition, with no contamination, less than 0.5 % moisture in the solid insulation, and very low oil conductivity.
+Here is the where the importance of the 1 Hz test comes in. As shown in Figure 1, the higher frequency region of the response represents a relatively linear low-loss system. At a resonant frequency ωr, the dielectric response transitions into a lower frequency region represented by higher losses and greater dispersion of the dielectric response. The resonant frequency will shift to higher values when temperature increases and lower values when temperature decreases, as shown in Figure 2. It is important to know to what degree a change in test temperature has caused the resonant frequency to shift because changes in the vertical or horizontal axis imply a change in the dielectric condition. Therefore, to eliminate temperature as a factor for an observed change, the entire response must be properly normalised to 20 °C every time a measurement is made at a non-20 °C temperature.
+Figure 2: Resonant frequency shift in a dielectric response at different temperatures
+Field applications:
+Bushings
+Condenser-type bushings, more commonly known as capacitance graded bushings, have been in service for
+a long time and have been tested in many ways. The dielectric response of a bushing in the time or frequency domain is mainly dominated by its construction, the temperature during the test, and the properties of the materials. In most HV and EHV (extra high voltage) bushings, a geometric design for the main insulation replicating a graded capacitor is commonly used. Oil-impregnated paper (OIP) insulation is used in the vast majority of field-installed bushings, wherein the liquid insulation is mineral oil, and the solid insulation is typically kraft paper with a 55 °C rise thermal rating. Both materials possess well known and excellent mechanical and dielectric characteristics. Other common types of HV bushings are resin-impregnated paper (RIP) and resin-impregnated synthetic (RIS).
+Because the failure of bushings has a large impact on transformers, the condition assessment of HV bushings has been extensively investigated and CIGRE has recently published a very detailed document describing the reliability of HV and EHV bushings [1]. Several of the methods used for testing HV bushings are sometimes ineffective and the results inconclusive. Off-line testing of capacitance and dissipation factor is generally carried out at line frequency as part of acceptance, commissioning, routine testing and troubleshooting, or after corrective maintenance work. Changes in capacitance may be indicative of a short between capacitive layers in C1 (the main core insulation) and changes in dissipation factor (or power factor or tan delta) may indicate insulation degradation and/or contamination. Contamination of the insulation due to overheating or excessive generation of partial discharge (PD) and consequently of PD by-products such as X-wax, has a clear influence on dielectric response [2].
+As presented in [3], the influence of contamination on dielectric response may be significantly more pronounced at non-line frequencies than at LF. Assuming accurate temperature correction using the ITC algorithm, the authors suggest that the insulation condition of OIP bushings can be assessed as shown in Table 1.
+Table 1: OIP bushings assessment for 1 Hz DF at 20 °C
+Transformers
+The dielectric response of power and distribution transformers over a wide range of frequencies has been
+Figure 3:  Randomly selected OIP transformers - LF DF within acceptable limits
+investigated for the last 25 years. In the last decade, several accelerated aging experiments have been carried out and published, particularly for distribution transformers [4]. Aging of distribution transformers has been shown to have very little effect on the LF DF value, but much greater changes were observed at lower frequencies, specifically at 1 Hz.
+Assuming accurate temperature correction using the ITC algorithm, the authors suggest assessing the insulation condition of OIP transformers as shown in Table 2.
+Table 2:  OIP Transformers assessment for 1 Hz DF at 20 °C
+Instrument transformers (CTs, VTs, and CVTs)
+Instrument transformers monitor power flow and serve several purposes, including metering (for revenue purposes), protection, and control. For current transformers (CTs), the insulation system is like that of HV bushings, and an assessment is made on the dissipation factor of the overall insulation. Voltage transformers
+(VTs) and capacitive voltage transformers (CVTs) also have something in common with CTs and HV bushings. Instrument transformers usually have insulation consisting of kraft paper and mineral oil, and the volume of paper insulation is dominant. The measured capacitance of instrument transformers and HV bushings is typically less than 800 pF. Therefore, to make measurements at low frequencies, an HV source may be required to offset the negative influence of EMI and to increase the signal-to-noise ratio (SNR).
+Dielectric frequency response (DFR) testing has been used to monitor the dry-out process of CTs and CVTs in the factory [5], down to levels below 1 % moisture in the solid insulation. For CTs, DF at 1 Hz and LF should reach values below 0.3 % at 20 °C. Similar values apply to CVTs. It is shown in [6] that the insulation condition of HV and EHV CTs can be readily evaluated in the field by using LF DF values in conjunction with 1 Hz DF values. The authors suggest that the assessments shown in Table 1 for OIP bushings can also be applied to instrument transformers.
+Field experience:
+Commissioning new 69 kV RIP bushings
+Commissioning tests conducted in the field in early 2021 involved dielectric assessment of new 69 kV RIP bushings. Nameplate data is provided in Table 3.
+Table 3:  New RIP bushings C1 nameplate information
+An LF DF test was performed at 3 °C. The curves provided in section 5.2.2.2 of [1] were used for LF DF temperature correction.
+Table 4: Tertiary winding new RIP “Y” bushings LF DF results
+The results, as presented in Table 4, fall within the ‘acceptable’ limits prescribed in CIGRE guidelines [1] for new RIP bushings – (see Table 5).
+Table 5:  Limiting values LF DF at 20 °C [2]
+During commissioning, a Megger DELTA 4310A dissipation factor test set was used for DF tests at LF and at 1 Hz. The application software corrected the % DF values from 3 °C to 20 °C using the individual temperature correction (ITC) algorithm. The results are shown in Table 6.
+Table 6:  RIP LF and 1 Hz DF values corrected by ITC
+The results in Table 6 show a significant difference in the temperature correction of the 60 Hz % DF results for bushing Y2 compared with bushings Y1 and Y3: the correction decreases the value for Y2 but increases the values for Y1 and Y3. With a good bushing, temperature correction would be expected to decrease the value obtained at 3 ºC to yield its 20 ºC equivalent value, as was the case for Y2. Tests conducted on a sister transformer did, in fact, confirm that temperature correction decreased the values for all three bushings, as expected.
+After applying ITC to the results, the Y1 and Y3 bushing LF DF values at 20 °C are above the acceptance limit (> 2 times nameplate DF value according to IEEE guidelines). These two bushings were therefore assessed as ‘investigate’. The large difference observed between the corrected DF values at 1 Hz for bushings Y1 and Y3, which are more than five times higher than the value for Y2, is clear indication of an insulation issue.
+When the results were discussed with the commissioning team, it was reported that the Y bushings had been improperly seated during transport and water had been observed in the plastic wrapped around them. They asked for action to be taken to remedy the problem and the transformer manufacturer decided to have the bushings returned to a maintenance facility for inspection, repair, and drying out. To confirm improvement, when the bushings were returned to the site (approximately six weeks after the original tests) they were retested at 5 °C. The results are shown in Table 7.
+Table 7:  Reconditioned RIP bushings – LF DF and 1 Hz DF results
+Drying out improved Y1 and Y3, resulting in all Y bushings coming within 0.02 % of nameplate values. These tests allowed the Y bushings to be approved for use in this new transformer.
+New transformer (2019) – 16 MVA 138 kV – elevated moisture
+The presence of moisture in power and distribution transformers has a negligible effect on the LF DF value obtained at 20 °C. It is only when the moisture concentration is typically greater than 2 % that significant changes are seen in this value.
+A new transformer was tested after assembly and before energisation. Dryness of the solid insulation is critical to ensure the longevity of the transformer and reliability during operation. Figure 4 shows the influence of temperature and moisture on the service life of a typical transformer [7], while Table 8 shows the LF DF and 1 Hz DF results obtained for the new transformer under test.
+Table 8:  Interwinding insulation DF results
+The LF DF values corrected to 20 °C using ITC are excellent. Nevertheless, reference to Table 2 will show that the 1 Hz temperature-corrected DF ITC corresponds to a ‘good’ transformer rather than a ‘new’ transformer as expected.
+Full-spectrum DFR confirmed the presence of 1.6 % moisture in the solid insulation, and the need to dry out the unit before energisation. After seeing the LF,  1 Hz, and DFR test results, the customer requested a complete oil analysis. The physical-chemical analysis of the oil confirmed the presence of moisture (see Table 9) exceeding the acceptance level of 10 ppm suggested in IEEE Std. C57.106 Table 2.
+Table 9: ASTM D1533 results
+EHV Capacitive voltage transformer (CVT) – 765 kV
+Instrument transformers and, more specifically, CVTs have no monitoring instrumentation mounted on them to detect any changes in the insulation condition. Oil sampling is only an option during planned outages, and it is not a simple process. EHV CVTs typically have no oil sampling ports available for each capacitive section (stack) and therefore accurate assessment of the insulation condition through non-invasive and non-destructive methods is extremely important for utility operators.
+In this example, during planned maintenance on an A-phase CVT, a small oil stain was seen on the surface of the adjacent B-phase CVT C1-1 stack. As shown in Table 10, LF DF results are higher than the results for sister stacks, but these results on their own are not necessarily enough to take decisive action.
+Figure 4:  Influence of temperature and moisture on solid insulation lifetime [8]
+Table 10: LF and 1 Hz DF values obtained from B-phase EHV CVT
+Once again, however, 1 Hz DF results confirm that the C1-1 insulation is degrading. Such degradation may result in catastrophic failure affecting adjacent equipment, the environment, and personnel working in the area. The unit was removed from service for investigation. Upon disassembly, a puncture was found in the C1-1 stack, which was allowing the oil to leak.
+Conclusions and recommendations:
+Insulation condition is the most important factor in determining the life expectancy of a transformer. The ability to make early and conclusive decisions about insulation condition is critical for the reliability of HV electrical power systems. The use of LF DF together with 1 Hz DF results, all properly corrected to 20 °C using the Individual Temperature Correction (ITC) algorithm, provides high sensitivity to changes in the insulation system of HV equipment.
+The combined analysis of LF DF plus 1 Hz DF (ITC corrected) allows quantitative condition assessment of new and service-aged transformers and bushings as suggested by the authors in Tables 1 and 2. The 1 Hz DF with ITC assessment does not require trend analysis, although it is also possible to trend the results.
+Traditional line frequency measurements and reference temperature correction tables based on averages may be misleading and using them may sometimes make it impossible to carry out reliable assessments in both hot and cold environments.
+Supplementing traditional 10 kV LF DF measurements with 1 Hz DF (ITC corrected) testing marginally increases the overall time required for testing – usually by less than one minute – but it helps to extend the life of HV and EHV assets by providing reliable support for sound technical and financial decisions, or for future investigations and definitive analyses using DFR technology.
+REFERENCES
+[1]    CIGRE TB 755, ‘Transformer bushing reliability’, CIGRE WG A2-43, 2019
+[2]    Güner I., Robalino D. M., Werelius P., ‘HV and EHV bushing condition assessment – field experience’, Proceedings of the 2016 CIGRE-IEC Colloquium, Montreal, Canada, 2016
+[3]    Robalino D., Alvarez R., ‘Advances of Dielectric Frequency Response Testing for HV OIP Bushings’, Proceedings of the CIGRE Session 48, paper A2-206, Paris 2020x
+[4]    Robalino D. M., Breazeal R… C., ‘Evaluation of Distribution Class Transformers Using Narrowband Dielectric Frequency Response Mea-surements’. Proceedings of the IEEE 2020 Electrical Insulation Conference, 2020
+[5]    Perrier C., Roman Z., Kieffel Y., ‘Monitoring of active part drying for instrument transformers by dielectric measurements’, Proceedings of the CIGRE Session 48, paper D1-122, Paris 2020
+[6]    Robalino D., Güner I.,’HV and EHV current transformer dielectric condition assessment and root cause analysis’, Proceedings of the 2019 CIGRE Canada Conference, paper CIGRE-133, Montreal, 2019
+[7]    CIGRE TB 445, ‘Guide for Transformer Maintenance’, CIGRE WG A2-34, 2011
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

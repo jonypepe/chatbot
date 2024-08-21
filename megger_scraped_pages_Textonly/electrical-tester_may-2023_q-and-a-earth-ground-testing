@@ -1,0 +1,606 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+May 2023
+Q&A: Earth/ground testing
+Q&A: Earth/ground testing
+26 May 2023
+It’s a common expression that “the devil is in the detail” and this is especially true of electrical testing. Often, a technician or operator will familiarise themselves with a new field of testing, will learn the theory, the accepted procedures, and master the fundamentals until they fully understand how and why the test is done. Then, they’ll acquire the correct instruments, read the instruction manuals and head out into the field to set up the test and - oops! Something unanticipated and unexplained stops the testing or creates an ambiguity that undermines confidence in the results. Answers are needed, and in this issue we look at the most commonly asked questions about earth/ground testing in the field.
+Q: Do I just run the leads out, push in the spikes, and run the test?
+A: Yes and no. That would be convenient, but it doesn’t always work. It might give you the correct reading, but you don’t know. Ground testing is more procedure dependent than many other types of electrical testing. That’s because the test item isn’t a discrete object; you’re making a connection to the planet. You may indeed be able to run the lead set provided out to full length, make a test, and get the right answer. But it’s purely a matter of luck (test leads often conform to the 62 % rule, so you’ll have a pretty good chance, but it’s not a sure thing). You can’t be confident in the result, and a client would never accept it. You could still be within the electrical field of the ground you’re trying to test, there could be a water main or live buried cable right underneath the test probe, or any of numerous other deviations from the ideal. The standard test procedures that have been devised for the industry can sort out a bad test from a good one.
+Q: How far do I extend the test leads?
+A: There’s no simple answer to this. It depends on the variables of the test site and can only be effectively determined by trial and error. Some standard procedures – but not all of them – have a built-in proof, and your chances of clearing the proof on the first test are enhanced by following a standard table that relates the size of the electrode under test (diagonal of a ground grid, length of a deep-driven rod, etc) to lead length. These tables occur quite frequently in the literature and their recommendations may vary. This is because they are practical, not scientific. If you don’t have the working space (remember, this can easily be hundreds of yards for large grids), it doesn’t mean you can’t test. Work within the available space and if you’ve followed a rigorous procedure and the results seem reasonable, all’s good.
+Q: What is meant by proofing a test result?
+A: Numerous test procedures have been devised by field operators over the years to meet different objectives. Some are meant to overcome difficult physical conditions, some to save time, and some to provide assurance about the accuracy and reliability of the measurement. Be sure to understand the purpose of the procedure and which of these objectives it is meant to address. The most basic, accepted, and reliable of all procedures, fall of potential, provides a graph of measurements versus distance. This graph will clearly distinguish between a poorly conceived or executed test and a well-spaced and well-performed one. Other procedures use mathematics to weed out bad results. The math exercise tells the operator the accuracy of the reading and therefore its reliability. In worst-case instances, the mathematics may not calculate at all.
+Q: How deep do I drive the probes?
+A: Like alligator clips in more common test procedures, metal spikes provide the connection needed to execute the test. For ground tests, the connection is with the earth. It is generally not necessary to pound the probes in as far as they will go. Exceptions do exist, mainly in poor grounding soil, but in most instances, probes can be pushed in by hand. Modern testers require only minimal amounts of current and voltage to make highly accurate measurements. What’s more, a quality tester will have indicators that tell the operator if there is any problem with the probes. Pounding probes all the way in is extra work and can also be a hazard to one’s back and knees when pulling them out.
+Q: If the probe contact is inadequate, what can I do?
+A: In the ‘old days’, operators had to rely much more on experience and intuition in diagnosing problems when test results were questionable. There was a lot of educated guesswork. As explained above, modern testers tell you what’s wrong. But it’s easy to focus on those big digits – or on where they should be – and overlook the small details around the edge of the display. Always scan the whole display for potential issues. Indicators will typically tell you, for example, if the test probes aren’t making sufficient contact with the soil. This is more likely to be an issue with the current probe, as it must inject the test current, but it could be with the voltage probe – or both. Probe resistance should never defeat your test. Quality testers can tolerate thousands of ohms in the test circuit. If the resistance between the probe and surrounding soil does go over limit, just reduce it by pounding the probes in deeper, tamping the soil, or possibly adding water. Remember, you are not falsifying or rigging the test by adding water to the probes. The test does not measure the resistance of the probes; it measures the test ground. If you were to water the ground rod that you’re trying to measure rather than the probe, then you would be influencing the result.
+Q: What about testing in a noisy environment?
+A: In the ‘old days’, when you couldn’t get the pointer to stop swinging, you averaged the swings. It’s better now. Modern testers have several weapons against noise, including filtering, higher test currents, and frequency adjustment. Quality testers will tell you when there is noise, so that you know what the issue is and are therefore in a better position to address it. Some testers automatically initiate corrective measures, some leave it to the operator, and some do both. Note that there are noise threats from both above and below; that is to say, air and ground. Testers are better equipped against ground noise, which is mostly composed of wandering currents trying to get back to the utility source. But don’t forget that noise sources can be overhead, as from power lines, and these can be more difficult to suppress. Definitely don’t run test leads parallel to power lines; try to run them at right angles if possible. Snaking leads instead of having them running parallel to each other helps, as does the use of shielded leads.
+Q: Does the facility have to be de-energised during testing?
+A: No. You don’t have to shut down a whole switchyard in order to test! Modern testers use so little current (a couple milliamps) and such low voltage (less than 50 V) that they do not trip protective devices or damage loads.
+Q: Can ground testers/testing be dangerous?
+A: No and yes. There is nothing about ground testing itself that is inherently dangerous, nor are the testers. In the ‘old days’, yes. Higher voltages and currents were used in bygone times. Modern quality testers, with microprocessor calculation, do not require so much power and so it is not used. Be aware, though, that equipment for specialty applications – deep prospecting for oil, minerals, geologic layers, and so forth – does need higher power and so such specialty instrumentation may require an extra level of awareness and caution.
+Q: But what about the test item?
+A: Aha! As in much of electrical testing, that’s another story. We can make testers and procedures infinitely safe, but they still get connected to potentially faulty equipment and circuitry. For ground testing, the risk is that of an ‘event’ occurring in the utility or on the premises while the test is in progress. The chances of this are rather remote, but still, play it safe and follow industry standard safe-working practices and employ personal protective equipment like gloves, boots, and mats. In addition, note that substantial current may be flowing on the grounding conductor even when an ‘event’ is not occurring. This originates from unbalanced loads and wiring shortfalls. There usually isn’t enough voltage to be a risk, but there have been exceptions. It is a good idea to always have a clamp-on ammeter and check the ground current before testing starts.
+Q: Do I have to lift the utility ground?
+A: Yes. Usually, the on-site ground is paralleled with the utility ground feeding the site by a jumper from ground bus to neutral bus at the service. A perfectly good test can be run without lifting the jumper and you’ll get a perfectly good measurement, but it is of the entire system, not just the on-site. You can lift the jumper long enough to run the test, but this leaves the facility unprotected, however briefly. A temporary ground can be installed, but that still leaves the physical hassle of breaking the connection, which is often a welded jumper. Some testers include a current clamp that can separate test current going to ground on-site from that going back to the utility, and the tester make its calculation only on the on-site current. This solution doesn’t always work, as the utility ground resistance may be so low that it hogs nearly all the test current, but this solution does provide a viable option in many cases.
+Q: Speaking of clamps, my clamp-on ground tester keeps reading over-range or open; is something wrong?
+A: Probably not. When a clamp-on ground tester reads open circuit, you are probably trying to measure an open circuit! For the clamp-on technique to work, there must be a path that the test current induced by the clamp onto the rod can find to complete the circuit. If you’re clamping over an isolated ground, such as one just installed on a site not yet connected to the utility, this type of tester cannot be used.
+Q: My clamp-on ground tester keeps reading impractically low measurements; is something wrong?
+A Probably not with the tester. Unlike a traditional lead-and-probe tester, where the operator is in complete control by probe placement, the clamp-on controls the test. It induces a current onto the clamped rod, and that current finds its own way back. The operator has nothing to do with it. If the readings are suspiciously low – a tenth or two of an ohm – the current has probably found an alternative path through metal, not the earth. Examine the circuit. The tester is likely to be reading continuity, not earth resistance. Don’t let lack of knowledge make you a victim of sloppy work. Ground testing requires more technique and operator involvement than many more familiar types of electrical test. Make sure you can dot the i’s and cross the t’s.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

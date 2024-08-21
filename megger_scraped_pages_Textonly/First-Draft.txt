@@ -1,0 +1,1851 @@
+﻿Main Website- https://megger.com
+
+
+
+content from the "Products" page of the Megger website:
+
+
+ Electrical test equipment:
+- Cable fault, test, and diagnostics
+- Cable fault and test system vans
+- Circuit breaker testing
+  - Circuit breaker analysis systems
+  - Contact resistance test sets
+  - Insulating oil testing
+  - Primary injection test systems
+  - PD testing on switchgear (AIS/GIS/GIL)
+  - PD testing on bushings, spacer, and insulators
+- Electricians' testers
+  - Earth testing
+  - Electricians' accessories
+  - Loop and RCD testing
+  - Motor and generator testing
+  - Multifunction installation testers
+  - Multimeters and clampmeters
+  - Portable appliance testing (PATs)
+  - Electrical certification software
+  - Utility service detection
+  - Battery testing equipment
+  - Voltage detectors
+  - Low resistance ohmmeters
+  - Time domain reflectometers
+  - Insulation resistance testing < 1 kV
+  - Thermal cameras
+  - Instrument transformer testing
+  - Current and voltage transformer testing
+  - Insulation testing
+  - VLF insulation testing
+  - DC Hipot testing
+  - DC overvoltage or withstand testing
+  - AC insulation testing
+  - Insulation resistance testing < 1 kV
+  - DC diagnostic insulation testing
+  - PD test of insulating materials and electronic components
+
+
+ Monitoring:
+- PD in insulation
+- Motor monitoring
+- Powerline monitoring
+- Motor and generator testing
+  - Static electric motor analyzers
+  - Dynamic electric motor analyzers
+  - Electric motor QC systems
+  - PD testing on motors and generators
+
+
+ Relay and protection testing:
+- Multi-phase relay testing
+- Primary injection test systems
+- Protection system tools
+- Relay software
+- Single-phase relay testing
+- IEC 61850 solutions
+
+
+ Resistance, battery, and power quality:
+- Leak and corona detectors
+- Watthour meter testing
+- Battery testing equipment
+- Earth testing
+- Low resistance ohmmeters
+- Power quality
+- Software
+
+
+ Utility service and leak detection:
+- Power transformer testing
+  - PD testing on bushings, spacer, and insulators
+  - Turns ratio testing
+  - Transformer resistance testing
+  - Insulating oil testing
+  - Transformer insulation testing
+  - Complete transformer test systems
+  - PD testing on transformers
+
+
+ Partial discharge testing:
+- PD testing on switchgear (AIS/GIS/GIL)
+- PD test of insulating materials and electronic components
+- PD testing on bushings, spacer, and insulators
+- PD testing on motors and generators
+- PD testing on transformers
+
+
+Water leak detection and monitoring
+
+
+This is a comprehensive list of products and services offered by Megger in the domain of electrical testing and monitoring. Would you like to proceed with scraping the content from the "Applications" page or any other specific page?
+Individual Products Details-:
+
+
+Here's a detailed breakdown of the product category "Cable fault, test and diagnostics" 
+ Cable fault, test and diagnostics:
+- Cable fault and test system vans: These are systems designed for state-of-the-art cable fault location, cable testing, and cable diagnostics. Specific products or systems under this category include:
+  - Centrix Evolution: A centrally controlled and automated cable fault location and cable testing system.
+  - PRIMEON: Described as the most powerful cable fault location vehicle.
+  - R 30 test van system: Used for high voltage cable fault testing and diagnostics.
+
+
+- Cable fault locating equipment: Equipment specifically designed to locate faults in cables.
+
+
+- Cable testing and diagnostics: Tools and equipment designed to test cables and provide diagnostic information.
+
+
+- Telecom testing: Equipment designed to test telecom infrastructure.
+
+
+- Diagnostic laboratory equipment: Equipment used in labs for diagnosing issues with cables.
+
+
+ High voltage cable fault testing and diagnostics:
+High voltage cable testing is crucial for the informed life management of an asset owner's cable infrastructure. Regular analysis and reporting can significantly improve a utility's reliability. Megger offers solutions for cable fault location, cable diagnostics, packaged cable test vans, and telecom/datacom assessment.
+
+
+- Cable fault location: Helps in completing the steps of the fault location process quickly and safely to minimize downtime for the customer.
+
+
+- Cable diagnostics: Provides all the information needed to make informed cable management decisions throughout the stages of the cable’s use.
+
+
+- Cable test vans: Streamlines on-site condition assessment of cables with a test van equipped with a selection of instruments.
+
+
+- Telecom/Datacom: Ensures that the physical transmission layer, connectors, and interconnection devices work correctly and gathers essential connectivity information.
+
+
+
+
+
+
+
+
+
+
+
+
+Circuit Breaking-
+Circuit breaker analyser and test systems
+Circuit Breakers are the metaphorical “safety-valves” of electrical systems; a means of giving harmless vent to excessive energy in a circuit, thereby minimizing the risk of damage to equipment that would otherwise be subjected to non-design conditions. Various power system components depend on the proper operation of a circuit breaker including, for example, expensive power transformers (e.g., in the case of HV and MV circuit breakers) or critical processes in a nuclear power plant (as in the case of LV moulded case breakers).
+Testing provides assurances that a circuit breaker will operate and, moreover, will act within expected tolerances. Testing also informs circuit breaker maintenance decisions so that maintenance dollars are spent most wisely and stretch further. Maintenance, of course, is essential to maintain maximum reliability of a circuit breaker.
+
+
+Confidence in test conclusions
+
+
+Accurate and well-organized testing maximizes confidence in testing conclusions by facilitating a meaningful comparison to previous/ benchmark test results. Tests must be conducted in exactly the same way and under the same conditions as previous tests to validate a comparison. Deviations and changes then reliably indicate whether the circuit breaker should be kept in operation or taken out of service for further investigation.
+
+
+Analytical tools for historical trending and comparison of measurements contribute to efficient testing and boost confidence in testing conclusions as well. These are all hallmarks of Megger’s circuit breaker testing solutions such as the TM1700 and TM1800 test instruments, the EGIL test set, and CABA Win software program.
+
+
+A legacy of innovation
+
+
+Megger’s circuit breaker test solutions highlight our legacy of innovation and reveal our focus on safety, reliability and testing efficiency. For example, our record of “firsts” include DCM, DRM, and vibration.
+
+
+Dynamic Capacitance Measurement (DCM):
+
+
+This is Megger’s patented DualGround™ timing technology, which gives repeatable and reliable timing results with both sides grounded on any type of breaker, including specific gas-insulated switchgear (GIS). Testing between grounds is the safest way to perform circuit breaker testing. With our very simple DCM testing hookup, accurate test results are obtained quickly and safely.
+
+
+Dynamic Resistance Measurement (DRM):
+
+
+DRM measurements are made to evaluate the arcing contacts on SF6 circuit breakers. Performing this test adds little time to already planned circuit breaker tests and provides a picture of the arcing contacts inside your breaker without having to pull the gas out and tear the interrupter apart in order to inspect them visually. This quick, non-destructive test saves at least a day or more of work depending on the breaker. DRM testing is another Megger “first”. Today our analyzers are supplied with Megger’s fifth generation of this technology, which far exceeds others’ DRM measuring attempts thanks to Megger’s abundant experience and application knowledge with DRM testing.
+
+
+Comprehensive test solutions
+
+
+From online testing (first trip and vibration) to basic testing (time and travel) to advanced applications that are delivered with a very basic feel (DCM and DRM, vibration), Megger has the circuit breaker testing solution so that you can supply power with confidence.
+
+
+Proven Reliability
+
+
+Megger’s legacy of innovation is matched by our history of proven quality and consistency. We have sold over 11,000 analyzers worldwide and many e.g. TM1600s, over 20 years old, are still providing reliable use. Megger’s latest software not only supports present-day circuit breaker analyzer offerings but can be used with older instruments, e.g., the TM1600, as well.
+
+
+AC, DC and VLF insulation test equipment
+INSULATION TESTING
+Electrical insulation testing needs have existed as long as electrical assets themselves. Well-chronicled deficiencies of early insulation systems became apparent almost immediately after first lighting systems were laid over 125 years ago. Although insulation systems have evolved significantly since then, the need to test them never goes away. The consequences of failure are too high.
+
+
+DC INSULATION TESTS
+
+
+Earliest tests on insulation systems involved applying a DC voltage across the insulation and measuring the leakage, or resistive current, through it. The origins of DC bridges date back to 1833 and to Samuel Hunter Christie, who invented the first bridge – known as the Wheatstone Bridge after Charles Wheatstone who simply described Christie's circuit and its advantages much more clearly. The first DC portable insulation tester was developed in 1889 by our founders, Sydney Evershed and Ernest Vignoles, and by 1903 was being sold as a Megger® insulation tester.
+
+
+The insulation resistance test, a.k.a., the “Megger test”, is as relevant as ever and, in many applications, is preferred to other insulation test methods. Today Megger offers the finest line of 5 kV, 10 kV and 15 kV (dc) insulation resistance testers available anywhere. In particular, our line of S1 Series Insulation Testers offers unparalleled capability including battery or line operation, best measurement ranges, highest noise resistance, five automatic tests, data storage, RS232 or USB download and MUCH MORE.
+
+
+AC INSULATION TESTS
+
+
+In the early 1900’s, as insulation systems improved, the necessity to detect different types of dielectric failure modes emerged. For example, a power factor test (also known as tan delta or dissipation test) materialized as an important dielectric test because of its unique ability to detect localized contamination in a multi-layer insulation system. A capacitive graded bushing, historically known as a condenser bushing and introduced circa 1910, is the most recognizable asset with such an insulation system; the widespread use of these bushings consequently anchored the popularity of the power factor test. Meanwhile, the literature suggests that cable manufacturers have used power factor insulation tests in the laboratory since the very early 1900s.
+
+
+The Delta 4XXX series is Megger’s dedicated power factor/ dissipation factor (PF/DF) and capacitance test instrument for field use. The TRAX coupled with a TDX also provides PF/DF test capabilities. These are no ordinary power factor sets. They uniquely correct for temperature influences on PF/DF test results (ref ITC TLM bulletin) – a must to solidify confidence in your testing conclusions – and allow for narrowband dielectric frequency response (NB DFR) measurements – the next step forward in power factor testing.
+
+
+FREQUENCY DOMAIN TESTS
+
+
+Experience and research have shown that a traditional power factor test is not acutely sensitive to all-dielectric fault mechanisms. For example, agents of conductive loss (e.g., water), when present at low levels, will practically go undetected if reliant on a single power factor measurement. By repeating power factor tests at multiple, prescribed frequencies (a.k.a. dielectric frequency response or DFR), this deficiency can be filled.
+
+
+Megger’s legacy as leaders in dielectric assessment continues today as we have been at the front of DFR test equipment development, introducing the first commercially available DFR instrument over 20 years ago – the IDAX. Most postgraduate research scientists studying dielectrics have expanded their knowledge through their use of an IDAX.
+
+
+The field of dielectrics is large. Assessment methods are broad because there are many dimensions to testing, such as the level of stress (i.e., the test source magnitude) to which the test specimen should be subjected during test and the particularities of the application in which insulation systems are used. Cables, for example, present challenges to AC testing because they are very large capacitive specimens, particularly as cable runs become quite long.
+
+
+CABLE INSULATION – AC, DC and VLF TESTING
+
+
+In the specific application of cable assessment, in addition to DFR testing capabilities, Megger offers various AC, DC and VLF insulation test solutions. VLF testing combines the benefits of AC testing with the advantages inherent to a DC test source.
+
+
+Monitoring
+Monitoring solutions make the power generation, transmission, and distribution more reliable and enable improved visibility of the gird’s condition and performance.
+
+
+Due to permanent observation, condition-based maintenance is amplified with predictability which opens the opportunities of pursing a proactive, rather than reactive, approach. Failures can be detected and resolved in advance and even total breakdowns can be prevented.
+
+
+Monitoring solutions not only collect data of the assets, but also enhance your knowledge of them.
+
+
+Especially in times with new various types of energy resources, stress on the entire grid, including all assets, is growing.
+
+
+To get the most out of your electrical assets and ensure maximum health, monitoring solutions are recommended - Supporting the safety, efficiency, and reliability of the grid’s performance.
+
+
+Baker Instruments’ electric motor analysers fall into three categories:
+
+
+Static analysers are used on off-line motors and generators to test motor circuit and insulation condition.
+Dynamic analysers are used for monitoring on-line motors to capture power quality, motor condition and load issues.
+Electric motor QC systems are designed for motor, generator and coil manufacturers to test the insulation and other parameters of coils, stators and armatures rapidly and repeatably in a production context.
+
+
+Baker Instruments is a leading provider of test equipment for the electrical condition monitoring of motors, generators and coils. Whether you are testing in a motor repair shop, in an industrial plant, on a ship or up a wind turbine, Baker Instruments motor test equipment allows you to fully understand the condition of the motor, the power supply and the load. Comprehensive motor testing allows you to reduce costs and avoid unplanned motor and machine downtime.
+
+
+Baker have the expertise to fully support our customers with on-site demonstrations of all equipment prior to purchase, product training, application support, calibration and repair.
+
+
+The business was acquired by Megger from the SKF Group on the 19th August 2018. 
+Technical support
+
+
+Baker equipment users can contact our highly-regarded technical support team for questions and problem resolution. Hours are 7am to 3:30pm US Mountain Time (UTC -7 hrs). Emails may be submitted at any time. To contact the Baker Instruments Technical Support Group:
+
+
+Email: baker.tech-support@megger.com
+Telephone: 1-800-752-8272 Option 1 for tech support, or +1 970-282-6080
+
+
+Equipment service
+
+
+Megger Baker Instruments offers in-warranty and post-warranty repair and calibration services for current and older models. Our main service location is in Fort Collins, CO, USA, and our expanding network of authorised service centers means that your equipment may be serviced much nearer to your location for a quicker turnaround and lower shipping costs.
+
+
+Email: baker.service@megger.com
+Telephone: 1-800-752-8272 Option 4 for service / calibration support, or +1 970-282-6088
+To submit a return authorisation (RA) for Baker equipment: megger.com/baker/ra
+Primary and secondary injection test equipment for protection and testing
+The power protection system is the guardian of the grid. It watches and safeguards via detection, automated decision-making, and (ability to) control. A protection component’s intelligence to discern when an anomaly is actionable and how to react is given by component settings and system design. Proper selection and application of protection components, such as relays, directly impact their dependability to function as planned. A relay’s ongoing performance is affected by the reliability and health of mechanical components (in the case of electromechanical relays), electronic circuits or components (static relays) and software (numerical relays). Testing provides a measure of a protection component(s)’s performance during commissioning and of its continued reliability throughout its use. Ultimately, testing gives assurances that vulnerabilities of the power grid and its components are not left exposed.
+
+
+Given the diverse functional requirements of the grid’s protection system, testing capabilities require a new level of sophisticated test hardware and software with which to analyse the entire protection system’s (or individual protection component’s) operation in "real life" situations. It is further necessary that these expanding testing capabilities be met with a similar improvement in the simplification of a test instrument’s user interface and software control. Rest assured that every facet of relay testing, no matter the complexity, can be handled simply with the comprehensive line of relay test equipment from Megger. Moreover, whether you are testing legacy electromechanical relays or modern IEC 61850 networked devices , our rugged products output the high power you need while still being portable for real world testing.
+
+
+Megger developed the first software-driven protective relay test system in 1984, and we continue to provide models ranging from computer-controlled (with comprehensive yet simple, built-in, touch screen user interfaces) to manually operated test sets in portable and laboratory styles for every relay testing need. Relay test solutions may be expensive propositions when software is charged separately but with Megger solutions, the software required to test most relays is included with the test set so you don’t incur additional expenses.
+
+
+Our rich legacy in manufacturing relay and primary injection test solutions is nurtured by the company’s extensive relay testing experience. This experience also fuels the success of our worldwide support system – always here to help you wherever you are!
+Robust equipment for resistance, continuity and power quality testing
+Many agree that attention to detail is the key to success and when one is dealing with an entity as vast and as critical to the sustainment of modern-day life as the electric power grid, its peripheral aspects (a.k.a., details) are hardly incidental. Tending to the various intricacies and derivatives of this so-k nown “largest interconnected machine on Earth” is an extremely important facet of its wellbeing and efficiency and critical towards preservation of the safety, expectations, and happiness of its energy consumers.
+
+
+Examples of details to which attention must be paid are:
+
+
+battery assessment to guarantee continuity of supply
+earth resistance testing to check, for example, the earthing systems of solar and wind energy schemes
+continuity (or low resistance) testing to prevent overheating, energy loss, and failure
+power quality assessment for the proper operation and efficiency of customer load and/or processes
+and meter testing
+Megger offers a range of test instruments with which to make complete assessments in each of these areas. Precision, safety and reliability are hallmarks that unify these, and all, Megger test products. These test sets are robust and work wherever you are – even in the harshest environments – and whenever you need them. Further, because it is easy to become “bogged down in details”, these test instruments are designed to boost efficiency and productivity to make simplest, shortest, and successful work for you.
+
+
+Robust equipment for resistance, continuity and power quality testing
+Many agree that attention to detail is the key to success and when one is dealing with an entity as vast and as critical to the sustainment of modern-day life as the electric power grid, its peripheral aspects (a.k.a., details) are hardly incidental. Tending to the various intricacies and derivatives of this so-known “largest interconnected machine on Earth” is an extremely important facet of its wellbeing and efficiency and critical towards preservation of the safety, expectations, and happiness of its energy consumers.
+
+
+Examples of details to which attention must be paid are:
+
+
+battery assessment to guarantee continuity of supply
+earth resistance testing to check, for example, the earthing systems of solar and wind energy schemes
+continuity (or low resistance) testing to prevent overheating, energy loss, and failure
+power quality assessment for the proper operation and efficiency of customer load and/or processes
+and meter testing
+Megger offers a range of test instruments with which to make complete assessments in each of these areas. Precision, safety and reliability are hallmarks that unify these, and all, Megger test products. These test sets are robust and work wherever you are – even in the harshest environments – and whenever you need them. Further, because it is easy to become “bogged down in details”, these test instruments are designed to boost efficiency and productivity to make simplest, shortest, and successful work for you.
+
+
+
+
+Applications-:
+
+
+1. Low Voltage and PAT testing
+
+
+Megger offers a wide range of tough, high quality hand-held instruments which are used to test electrical wiring and other components in domestic, commercial and industrial facilities and other general business operations to the 18th Edition of the wiring regulations. Applications for these instruments include insulation testing, continuity testing, earth testing, loop testing and RCD testing.
+
+
+To assist you in testing appliances to the 4th Edition of the code of practice for in-service inspection and testing of electrical equipment there is a range simple and complex portable appliance tester (PAT). Additionally there is a range of accessories to make jobs more convenient. With the broadest, most diverse choice of instruments in the industry, Megger is truly your single source for electrical testing needs.
+
+
+2. Battery
+
+
+In the event of power failure in a power plant or transformer substation, batteries are there to provide backup power. However, the battery capacity can drop significantly long before its calculated life expectancy is reached, and the battery can have weak cells that can cause costly service interruptions. Regular capacity and impedance testing is essential for predictive maintenance and protection of assets, and it need not be time-consuming or expensive.
+
+
+To find out more about battery testing, read our Battery Testing Guide
+
+
+Selecting right test equipment for the specific application will reduce your battery maintenance and testing costs. With both capacity and impedance testers available, Megger can provide a battery tester tuned to your specific need.
+
+
+Take a look at all our products in our Battery brochure
+
+
+Capacity test equipment
+
+
+The only reliable way of measuring battery capacity is to conduct a discharge test and our TORKEL series of test instruments enables you to perform discharge tests at constant current, constant power or constant resistance. You can even test the batteries on-line and get extra load units if you need a higher load current.
+
+
+Megger’s BVM is a battery voltage measurement device that’s used for the capacity testing of large battery banks. It can also be used in conjunction with the TORKEL to perform a completely automated battery bank capacity test.
+
+
+
+
+Impedance test equipment 
+
+
+The battery impedance test helps to identify weak cells before they cause problems, however taking the battery off-line for testing is time-consuming and risky. You don’t need to do this with the on-line testing capabilities of Megger’s battery test equipment.
+
+
+For example, the BITE3 is an on-line tester that can determine the health of lead-acid cells up to 2000 Ah. It measures cell impedance, an internal ohmic test, cell voltage, intercell connection resistance and ripple current, to name a few.
+
+
+Whether you are testing flooded lead-acid, VRLA or Ni-Cd cells, Megger have the right impedance testers for you.
+
+
+Ground fault tracing equipment
+
+
+An earth fault can cause the earth monitor on the battery to trip out, resulting in the loss of battery supply. Ground fault tracing is therefore essential to prevent this from occurring.
+
+
+Thankfully, Megger also provide solutions for tracing ground faults around batteries. We have the Geolux GL 660-1 earth fault locator, which is ideal for control, signal and supply systems and the Battery Ground Fault Tracer (BGFT), which is designed for use in ungrounded DC systems and is ideal for environments with high electrical noise.
+
+
+3. Cable Test
+
+
+Electricity networks have had to become more flexible, reacting more quickly to the changes and needs of higher performance. This demand for flexibility is especially true where multiple generation sources occur, such as the intermittent power from renewables like solar and wind energy. While modern SMART grid technology can quickly identify faults in sub-station and generating units, cable faults can still occur anywhere on the network. Quickly locating a cable fault for repair is the top priority for avoiding lengthy restoration times. In the first place, this will be especially impactful on electrical utility reliability indices. These indices include SAIDI, the System Average Interruption Duration Index, which measures the total duration of an interruption for the average customer during a certain time period, and SAIFI, the System Average Interruption Frequency Index, which is found by dividing the total number of customers interrupted by the total number of customers served.
+
+
+Activities centred on cable-related maintenance include:
+
+
+Cable fault location: where a cable has failed and testing is done to locate the fault
+High voltage testing; proof testing (withstand testing) is used to determine whether the cable can withstand an applied test voltage (usually greater than the operating voltage) for a specified period of time without any breakdown of the insulation
+Cable diagnostics; predictive testing – used to recognise the aging and general quality of the cable’s overall insulation
+ 
+
+
+Minimising cable failures
+ 
+
+
+A cable test program encompasses high voltage testing and diagnostics. The key objective with cable testing and diagnostics is to increase system reliability by preemptively identifying defects in the cable that might result in its eventual failure. One of several additional benefits is the cost: it is more economical to fix defects early rather than repair a cable when it fails. In order to conduct a successful cable test program, the following must be identified
+
+
+The goal of the program (e.g. assessing individual circuit reliability or prioritising cable replacement as part of a system-wide upgrade programme)
+Cable types to be tested (PILC, XLPE, EPR, etc.)
+Test methods to be used (some test methods cannot be applied to all types of cables; for example, a DC hi-pot should not be performed on XLPE cable because of the further aging and or damage it can cause.)
+Cable problems can be generally characterised as local or global (e.g. affecting the entire cable span). Local problems include those at terminations, joints and in the insulation itself. A local insulation problem may be caused by a cable weak spot, but can also be man-made. Insulation may also be faulty on a global scale, such as general age related degradation, water trees throughout extruded type cables, etc.
+
+
+If planning system-wide cable replacement and attempting to order which cable runs to replace first, one should make a global cable insulation condition assessment. Here the focus is on cable insulation on a macro scale (e.g. how deteriorated is it?). This assessment calls for diagnostic tests. If the cable run tests well, it receives the lowest replacement priority. Should a service failure occur, the it should be repaired and put back into service. On the other hand, if the cable run tests poorly, it receives highest replacement priority. If a service failure occurs, conduct an emergency repair as necessary or ideally replace the cable immediately.
+
+
+If assessing individual circuit reliability, this requires both a global insulation condition assessment (to check for a condition that affects the cable insulation throughout, such as general degradation and aging of the cable or water trees) and local condition assessment (such as a critical water tree combined with electrical tree somewhere in the insulation, or a problem with a termination or splice). Global diagnostic methods include Tan Delta measurements and IRC/RVM measurements. Local diagnostic methods include partial discharge (PD) measurements. Depending on the situation either both or only one method is needed. For quality control on newly installed cables it is only recommended to perform a local PD diagnosis. A global diagnosis is not required because the cable insulation is new.
+
+
+Cable Diagnostics-
+
+
+When a high voltage test is  carried out on a new or in-service cable, it is normally being applied as a preventative measure to investigate or find any damage that may have occurred. Also known as proof testing or withstand testing, this go/no-go test, is a diagnostic or preventative measurement for the cable being investigated. If other tests such as Tan Delta tests are implemented, the overall test becomes a high quality diagnostic/predictive measurement procedure as well.
+
+
+The cable under test is deemed to be of ‘sound’ insulation if the insulation does not break down when applied with a voltage greater than the rated voltage of the cable.
+
+
+High voltage testing will also check for local faults. For example, an XLPE cable  will tend to turn critical water trees into electrical trees and subsequently cause a failure. Having been subjected to adverse impulses/surges during its service lifetime, testing will be necessary to find and avert imminent in-service failures in the future.
+
+
+If cable testing highlights a subsequent failure, this indicates that the cable is already in a highly compromised condition. Company staff should be prepared at this stage to make any necessary repairs to the cable at the position indicated by previous tests. After repair, the cable is tested again until it passes the required withstand tests.
+
+
+This testing may include a DC withstand or hi-pot (though not to be used on XLPE cables); a line frequency AC hi-pot; a 0.1 Hz AC VLF hi-pot; or a damped AC (DAC), where electrical stresses are created at a frequency ranging from around 50 Hz to several hundred Hertz depending on the test object capacitance.
+
+
+A critical application of cable testing is to verify the quality of the cable’s insulation and ensure all safety requirements are met after the cable has been installed in the field. Another use is to confirm the integrity of an existing cable after repairs have been applied, or new through-joints or tee-off joints have been installed.
+
+
+Cable Fault Location-: 
+
+
+Cable fault location is required anywhere where the fault cannot be seen, this is a multi-step process that must be performed as safely and as quickly as possible because customers will be without power.
+
+
+Step 1 - Cable Isolation & Safety Procedures: A cable fault is nearly always a permanent fault. This means that the cable in question will be in a condition where the protection devices at one or both ends of the cable will have tripped, leaving the cable isolated but NOT earthed (grounded).
+The first task is for the Authorised Person for the site to make the cable safe by isolating and then earthing (grounding) one or both ends preferably. Only after the appropriate procedures have been carried out can any testing personnel be allowed to approach the cable and prepare for testing. 
+
+
+Step 2 - Cable Identification: Where multiple cables exist, cable identification testing will identify the correct cable to work on. Clear identification before a cable is cut is intrinsic to safe maintenance work.  Any mistakes here can be fatal, and may cause much longer outages for the connected customers
+
+
+Step 3 - Cable tracing: When an underground cable is first laid it rarely runs in a straight line, but rather meanders in depth and direction. Cable tracing is done to determine that the route of the cable is following the expected path.
+
+
+Step 4 - Fault identification: The first major procedure is to determine the phase on which the fault has occurred, and if it is of low or high resistance.
+This test determines the correct technique and equipment to diagnose the fault.  Typically, if the fault is found to be below 100 Ohms, a low voltage pulse (e.g., 40 V) from a TDR (time domain reflectometer) can be used. If the fault is a higher resistance (> 100 Ohm), a low voltage pulse will likely not see it.  For these types of faults, an Impulse generator (shock discharge) will be necessary.
+
+
+Step 5 – Fault prelocation: A reliable and precise pre-location method is necessary to locate a cable fault quickly and efficiently. Good pre-location can determine the fault position to within a few percent of the cable length and will reduce pinpointing time to a few minutes.
+Remember:
+a) If it is a low resistance fault, pre-location was likely to be the only means necessary for location.
+b). For high resistance faults, ARM (arc reflection) or ICE (impulse current) techniques on an SWG (surge wave generator) should be used. Alternatively, the decay method with an HV DC tester (bridge), can be used for pre-location.
+
+
+Step 6 - Pinpointing: The aforementioned test methods will get the operator with 5% distance of the fault, acoustic pinpointing techniques must be employed to narrow the margin of error to 0.1%. In most cases, shock discharge generators are used for pinpointing in conjunction with acoustic methods. The discharge creates a loud noise, which is pinpointed precisely using an acoustic pinpointing device. This device evaluates the time difference between the acoustic signal (speed of sound) and the electromagnetic (nearly the speed of light) impulse of the shock discharge. When the shortest time difference is indicated, the exact fault location is revealed.
+
+
+Step 7 - Re-energisation of the cable: Once all testing and repairs are completed, the Safety/Testing Documentation is cancelled. the cable is then handed back to the appropriate operators to reinstate the cable and re-energise the loads on the newly repaired cable. 
+
+
+Important advice when using the ARM/ICE Equipment:
+It is important to find the lowest voltage that will cause the fault to appear during the above-applied testing procedure. The idea of ‘Thumping the cable with the maximum available voltage (Joules) should not be condoned. For example if a cable fault has left damage in the faulted phase that when applying a gradually increasing ARM voltage that it appears at 6kV then once this is established then only 10% more voltage, say 7kV need be applied for the fault location position show up clearly. What is fundamentally important is that the energy that is used is proportional to a square of the voltage(V2). If the cable is repeatedly ‘Thumped with very high over working voltages’, other lessor points of damage could be initiated into insulation failure, thus giving more jointing/repairs to become necessary on the cable.
+
+
+High voltage cable testing
+
+
+Cable diagnostic testing is predictive in nature, determining the relative degradation level of a cable against it’s newly manufactured condition. It establishes the likelihood that the cable will continue to perform properly at any point in the cables lifetime. For asset managers, assessing aging and the overall condition of service-aged cable systems is instrumental for planning purposes such as determining what needs to be replaced or what upgrade work should be carried out on the network.
+
+
+Principal cable diagnostic tests include partial discharge (PD), Tan Delta (and variations of Tan Delta), return voltage method (RVM), and isothermal relaxation current (IRC) tests. Tan Delta tests and their variants can be categorised as tests sensitive to global or local problems, whereas  PD is a measurement sensitive to local problems only. It should be noted that PD is not detectable in the field as a result of water trees directly. However “Water trees cause electrical trees, which are detectable as a result of system voltage impulses and operational switching surges occurring, or when excessive test voltage levels are applied.” (IEEE 400.2 – 2013)
+
+
+Megger employs some of the world’s greatest experts in cable test and diagnostics; with such a variety of possible testing and diagnostic methods, Megger can help you determine the appropriate techniques and equipment for your cable assessment needs.
+
+
+Communication Systems
+
+
+A network in its simplest form consists of two computers using specialised cabling to enable communication between the two, allowing both machines to send and receive data. This cabling is often referred to as structured cabling because it is built in to the structure of the building. To ensure these cables meet specified standards, a number of different test instruments must be used to carry out the required tests. These instruments can include wiremap testers, continuity testers and more advanced instruments, which combine these tests and also include others such as signal delay, length and crosstalk. Megger has a wide range of telecommunication and data communication applications to help you manage your networks efficiently and cost effectively. Available test instruments include TDRs, copper wire analysers, insulation and continuity testers, battery testers, earth testers and hand-held network performance testers.
+
+
+
+
+Circuit Breakers-
+Circuit breakers are mechanically sophisticated devices designed to carry load current under normal power system conditions, direct current flow between desired sections of an electric power system, and interrupt current flow under abnormal power system events and conditions, such as faults.
+
+
+The proper functioning of a circuit breaker is reliant on a number of individual components, including the interrupter, the operating mechanism, and the auxiliary contacts and coils, which have to be tested at regular intervals.
+
+
+Mechanical wear and lubrication often affects the performance of breakers, so being able to trend mission critical parameters and compare these with factory thresholds helps to verify proper breaker function.
+
+
+Recommended circuit breaker tests include tests common to all types of circuit breakers (such as time & travel, contact resistance, minimum pick-up, and coil current), tests that depend on the circuit breaker technology being implemented, (pre/post insertion resistors, grading capacitors, dynamic resistance), the medium that insulates the breaker contacts, including air/gas, vacuum, and oil (such as gas density, air pressure, etc), and tests that depend on network design which ultimately dictates the necessity and presence of pre-insertion resistors or synchronous switching as well as shunt capacitors for the circuit breaker. 
+
+
+Interrupter
+The interrupter of a circuit breaker is responsible for extinguishing the arc. It is typically comprised of a fixed contact and a moving contact.
+
+
+The main contact in a circuit breaker is the mechanical part within the interrupter that carries the load when closed and provides the electrical isolation in the open position.  When in the closed position, a very low resistance [typically less than 300 µΩ on transmission breakers or less than 10 µΩ (!) on generator circuit breakers] is essential for a long service lifetime.
+
+
+An arcing contact can be a separate contact or an integral part of the main contact. In SF6 circuit breakers the arcing and main contact are two different contacts whereas in vacuum CBs you have only one contact that serves as both the arcing and the main (current carrying) contact.  For SF6 CBs where you have separate main and arcing contacts the arcing contact is the first to make on a closing operation and the last to part on an opening operation.  The purpose of the arcing contact is to withstand the energy during switching and protect the main contact from damage during arcing. If the arcing contact is too short or otherwise in bad condition, the breaker becomes unreliable. The main contact surfaces can be degraded by arcing, resulting in increased resistance, excessive heating and in extreme cases, explosion.
+
+
+According to a 2005 CIGRE CB survey, out of all faults identified in circuit breaker components, 14 percent were associated with the interrupter. (See recommended circuit breaker tests for testing designed to assess the condition of the main/arcing contacts.)
+
+
+Oil circuit breakers
+Bulk oil circuit breakers (OCBs) are most popular in North America when used in HV applications. These types of circuit breakers are of the dead tank design and are regarded as old technology.  For the past 30 + years, grid asset managers have been steadily replacing these with newer SF6 Dead Tank Circuit Breakers. OCBs have been more widely used at the distribution level but they demand a lot of maintenance on the main contacts and on the mechanism.
+
+
+The current interruption takes place in a large volume, oil-filled tank. The arcing in oil creates gases (hydrocarbons). Through the use of a vented interrupter chamber, gas bubbles create pressure that force the arc to expand further into the vents, until it is able to extinguish itself at a zero crossing current. The interrupter chambers are particularly prone to moisture contamination.  In addition to its use as the arc extinguishing media, the oil serves as the insulating media between current-carrying contacts and grounded parts of the breaker.
+
+
+Bulk oil circuit breakers often use oil- or resin-impregnated-paper capacitive-graded bushings that are equipped with tap electrodes and have CTs mounted on the lower ground sleeve. In addition to recommended circuit breaker tests, these bushings should be isolated and tested.  The integrated CTs may be tested as well.  Power factor/dissipation factor/tan delta tests are particularly recommended for oil circuit breakers.
+ 
+Minimum oil circuit breakers:  Minimum oil circuit breakers operate very fast and are used in transmission networks and substations. These types of circuit breakers are of the live-tank design and require only a small amount of oil. The oil is utilized primarily as the interrupting media, unlike in a bulk oil circuit breaker where the oil is utilised as an insulating media as well.  In a minimum oil circuit breaker, the interrupter is enclosed in an oil-filled chamber at live potential.
+
+
+It is essential that the insulation properties of the oil are monitored, click here to see appropriate equipment
+
+
+Operating mechanism
+The operating mechanism creates and stores energy to operate the circuit breaker.  It must always be able to trip the circuit breaker. Depending on the force required to operate the breaker, the circuit breaker may be equipped with one operating mechanism per phase or one mechanism for all three phases. The operating mechanism includes the energy storage medium, actuating circuit and interlocking systems. 
+
+
+Types:
+
+
+Spring; a spring-operated mechanism is one driven by the mechanical energy stored in springs. Typically, the “closing spring” is mechanically charged by a motor and is held in its compressed position by a closing latch. When a close signal releases this latch, this spring pushes against a mechanical linkage to force the breaker contacts closed and, at once, charges the trip spring. The closing spring is then immediately recharged by the motor. Another latch will hold the tripping spring in the compressed position until an open signal releases this latch.
+Hydraulic; a hydraulic-operated mechanism uses pressurised gas to direct the flow of oil, thus actuating the linkage(s) connected to the interrupter(s).
+Pneumatic; a pneumatic-operated mechanism uses compressed air as the energy source for closing and tripping.
+Magnetic; uses a solenoid, or electromagnet, whose pulling force increases with the current. Certain designs utilize electromagnetic forces in addition to those of the solenoid. The circuit breaker contacts are held closed by a latch. As the current in the solenoid increases beyond the rating of the circuit breaker, the solenoid's pull releases the latch, which lets the contacts open by spring action.
+ 
+
+
+According to a 2005 CIGRE CB survey, out of total faults identified in circuit breaker components, 70 percent were associated with the operating mechanism and over 50 percent of major circuit breaker failures were identified as originating with the operating mechanism. (See recommended circuit breaker analysers for testing designed to assess the condition of the operating mechanism.)
+
+
+Operating mechanism
+The operating mechanism creates and stores energy to operate the circuit breaker.  It must always be able to trip the circuit breaker. Depending on the force required to operate the breaker, the circuit breaker may be equipped with one operating mechanism per phase or one mechanism for all three phases. The operating mechanism includes the energy storage medium, actuating circuit and interlocking systems. 
+
+
+Types:
+
+
+Spring; a spring-operated mechanism is one driven by the mechanical energy stored in springs. Typically, the “closing spring” is mechanically charged by a motor and is held in its compressed position by a closing latch. When a close signal releases this latch, this spring pushes against a mechanical linkage to force the breaker contacts closed and, at once, charges the trip spring. The closing spring is then immediately recharged by the motor. Another latch will hold the tripping spring in the compressed position until an open signal releases this latch.
+Hydraulic; a hydraulic-operated mechanism uses pressurised gas to direct the flow of oil, thus actuating the linkage(s) connected to the interrupter(s).
+Pneumatic; a pneumatic-operated mechanism uses compressed air as the energy source for closing and tripping.
+Magnetic; uses a solenoid, or electromagnet, whose pulling force increases with the current. Certain designs utilize electromagnetic forces in addition to those of the solenoid. The circuit breaker contacts are held closed by a latch. As the current in the solenoid increases beyond the rating of the circuit breaker, the solenoid's pull releases the latch, which lets the contacts open by spring action.
+ 
+
+
+According to a 2005 CIGRE CB survey, out of total faults identified in circuit breaker components, 70 percent were associated with the operating mechanism and over 50 percent of major circuit breaker failures were identified as originating with the operating mechanism. (See recommended circuit breaker analysers for testing designed to assess the condition of the operating mechanism.)
+Recommended circuit breaker tests
+The following is a list of comprehensive circuit breaker tests recommended for use on all circuit breaker types except as indicated. 
+
+
+Timing and Travel; testing used to determine and validate the performance characteristics of circuit breakers. For example, the changing state of main and resistor contacts (open- close, close-open, etc.) and auxiliary contacts (e.g., 52a and 52b) versus time, varying defined distances traveled by the main contacts (e.g., total travel, over travel, rebound, stroke, and contact wipe), velocity (average and instantaneous), dwell-time and dead-time, are primary circuit breaker characteristics measured.
+Motion; see timing and travel above. The contact travel motion is captured by connecting a travel transducer on the moving part of the circuit breaker’s operating mechanism or interrupter and is used to assess the condition of the interrupter, damping units and identify mechanical issues with the operating mechanism. The motion is presented as a curve displaying distance vs. time. Several parameters are measured. For example, over travel is the distance traveled by the contacts that exceeds their final resting position and is measured to verify the proper operation of the damping assemblies within the breaker.  Measured values from the motion curves are compared to reference data provided by the circuit breaker manufacturer.
+Coil current; this measurement can be performed online or offline and is used to detect potential mechanical and/or electrical problems in actuating coils well in advance of their emergence as actual faults, and extract information about lubrication and latch operation. The quality of the control voltage supply is also detectable from these tests. This diagnostic is perhaps most effective when it is performed as a "First Trip" activity. First Trip is performed when the circuit breaker is in-service, and has not been operated for a long time. Lubrication problems are easiest to identify in this scenario. Comparison to previous results is the best method of analysis.
+Static (contact) resistance measurements (SRM); micro-Ohm measurement of the main contacts. This test is conducted by injecting DC current through the breaker main contact system when the circuit breaker is closed, and measuring the voltage drop so that the resistance can be calculated. The resistance reflects the condition of the conducting parts.
+Dynamic (contact) resistance measurements (DRM); this test is used to determine the length and condition of the current carrying part of the arcing contacts in SF6 puffer type circuit breakers.  DRM tests are conducted by injecting DC current through the breaker main contacts while the breaker is operated. The breaker analyser then calculates and plots resistance as a function of time. If contact movement is recorded simultaneously, the resistance can be determined at each contact position. With DRM measurement, the arcing contact length can be reliably estimated. The only other means to do this is by dismantling the circuit breaker. In SF6 breakers, the arcing contact is commonly made of a tungsten/copper alloy and is burned off and becomes shorter for each interruption of current.
+Vibration; non-invasive testing that is based on the premise that all mechanical movements produce sounds and/or vibrations, and that by measuring them and comparing the results with previous test results, the condition of the equipment in question can be evaluated. The breaker can stay in service during the test. Using an accelerometer, an Open-Close operation is analysed. The first operation can be different than the second and third because of corrosion and other metal to metal contact issues. The vibration method detects faults that may barely be indicated with conventional methods and is published in CIGRE and IEEE papers.
+Motor current; applicability of this test is dependent on the circuit breaker’s operating mechanism.  A measure of motor current is only applicable on spring drives.
+Minimum pick-up measurement (minimum voltage to operate circuit breaker); this test is intended to determine the minimum voltage at which the breaker is able to operate – the contact timing parameters are not of interest, only whether the breaker operates or not. It is a measure of how much force is needed to move the coil armature. Testing begins at a low voltage, sending a control pulse to the breaker. The voltage is increased by small increments (5 V) until the breaker operates; this voltage is recorded and is expected to remain unchanged through future dates.
+Minimum voltage; this test is specified and recommended in international standards. The objective of this test is to make sure that the breaker can operate at the lowest voltage level provided by the station battery when the breaker has to operate during a power outage.  The test is performed by applying the lowest specified operating voltage and verifying that the breaker operates within specified operation parameters. Standard test voltage is 85% (and 70%) of nominal voltage for close (and open).
+Station voltage; it is recommended to measure the voltage level of the battery or power supply while operating the circuit breaker in order to verify that the CB is performing to desired specifications.  If the voltage level is low or not correct, one might accidentally adjust parameters on the breaker when the cause of malfunction is the power supply.
+Power factor/dissipation factor/ tan delta and capacitance; provides means for verifying the integrity of the insulation for circuit breaker components.
+Vacuum bottle test; applicable for vacuum circuit breakers. The vacuum bottle is tested with high voltage AC or DC to check that the integrity of the vacuum is intact.
+SF6 leakage; applicable for SF6 circuit breakers. Using gas leak detectors (sniffers) or thermal imaging, SF6 leaks are sought. These may occur in any part of the breaker but are more commonly found where two parts are joined together such as valve fittings, bushings and flanges. There may be porosity leaks as well, whereby the actual tank is leaking, but this does not happen often.
+Moisture/Purity; a small amount of SF6 gas is vented from the breaker through a moisture/purity analyser to determine the moisture and concentration of the gas. It is important that the moisture content inside an SF6 breaker is kept to a minimum as it can cause corrosion and flashovers inside the breaker.  When there is arcing (i.e., faults or normal interruptions) inside of the circuit breaker, the SF6 combines with water to produce corrosive by-products.
+Air pressure test; applicable for air-blast breakers. Air pressure level, pressure drop rate and air flow are measured during various operations.
+ 
+
+
+Megger offers a selection of circuit breaker testers to monitor these properties, click here
+
+
+Recommended circuit breaker tests
+The following is a list of comprehensive circuit breaker tests recommended for use on all circuit breaker types except as indicated. 
+
+
+Timing and Travel; testing used to determine and validate the performance characteristics of circuit breakers. For example, the changing state of main and resistor contacts (open- close, close-open, etc.) and auxiliary contacts (e.g., 52a and 52b) versus time, varying defined distances traveled by the main contacts (e.g., total travel, over travel, rebound, stroke, and contact wipe), velocity (average and instantaneous), dwell-time and dead-time, are primary circuit breaker characteristics measured.
+Motion; see timing and travel above. The contact travel motion is captured by connecting a travel transducer on the moving part of the circuit breaker’s operating mechanism or interrupter and is used to assess the condition of the interrupter, damping units and identify mechanical issues with the operating mechanism. The motion is presented as a curve displaying distance vs. time. Several parameters are measured. For example, over travel is the distance traveled by the contacts that exceeds their final resting position and is measured to verify the proper operation of the damping assemblies within the breaker.  Measured values from the motion curves are compared to reference data provided by the circuit breaker manufacturer.
+Coil current; this measurement can be performed online or offline and is used to detect potential mechanical and/or electrical problems in actuating coils well in advance of their emergence as actual faults, and extract information about lubrication and latch operation. The quality of the control voltage supply is also detectable from these tests. This diagnostic is perhaps most effective when it is performed as a "First Trip" activity. First Trip is performed when the circuit breaker is in-service, and has not been operated for a long time. Lubrication problems are easiest to identify in this scenario. Comparison to previous results is the best method of analysis.
+Static (contact) resistance measurements (SRM); micro-Ohm measurement of the main contacts. This test is conducted by injecting DC current through the breaker main contact system when the circuit breaker is closed, and measuring the voltage drop so that the resistance can be calculated. The resistance reflects the condition of the conducting parts.
+Dynamic (contact) resistance measurements (DRM); this test is used to determine the length and condition of the current carrying part of the arcing contacts in SF6 puffer type circuit breakers.  DRM tests are conducted by injecting DC current through the breaker main contacts while the breaker is operated. The breaker analyser then calculates and plots resistance as a function of time. If contact movement is recorded simultaneously, the resistance can be determined at each contact position. With DRM measurement, the arcing contact length can be reliably estimated. The only other means to do this is by dismantling the circuit breaker. In SF6 breakers, the arcing contact is commonly made of a tungsten/copper alloy and is burned off and becomes shorter for each interruption of current.
+Vibration; non-invasive testing that is based on the premise that all mechanical movements produce sounds and/or vibrations, and that by measuring them and comparing the results with previous test results, the condition of the equipment in question can be evaluated. The breaker can stay in service during the test. Using an accelerometer, an Open-Close operation is analysed. The first operation can be different than the second and third because of corrosion and other metal to metal contact issues. The vibration method detects faults that may barely be indicated with conventional methods and is published in CIGRE and IEEE papers.
+Motor current; applicability of this test is dependent on the circuit breaker’s operating mechanism.  A measure of motor current is only applicable on spring drives.
+Minimum pick-up measurement (minimum voltage to operate circuit breaker); this test is intended to determine the minimum voltage at which the breaker is able to operate – the contact timing parameters are not of interest, only whether the breaker operates or not. It is a measure of how much force is needed to move the coil armature. Testing begins at a low voltage, sending a control pulse to the breaker. The voltage is increased by small increments (5 V) until the breaker operates; this voltage is recorded and is expected to remain unchanged through future dates.
+Minimum voltage; this test is specified and recommended in international standards. The objective of this test is to make sure that the breaker can operate at the lowest voltage level provided by the station battery when the breaker has to operate during a power outage.  The test is performed by applying the lowest specified operating voltage and verifying that the breaker operates within specified operation parameters. Standard test voltage is 85% (and 70%) of nominal voltage for close (and open).
+Station voltage; it is recommended to measure the voltage level of the battery or power supply while operating the circuit breaker in order to verify that the CB is performing to desired specifications.  If the voltage level is low or not correct, one might accidentally adjust parameters on the breaker when the cause of malfunction is the power supply.
+Power factor/dissipation factor/ tan delta and capacitance; provides means for verifying the integrity of the insulation for circuit breaker components.
+Vacuum bottle test; applicable for vacuum circuit breakers. The vacuum bottle is tested with high voltage AC or DC to check that the integrity of the vacuum is intact.
+SF6 leakage; applicable for SF6 circuit breakers. Using gas leak detectors (sniffers) or thermal imaging, SF6 leaks are sought. These may occur in any part of the breaker but are more commonly found where two parts are joined together such as valve fittings, bushings and flanges. There may be porosity leaks as well, whereby the actual tank is leaking, but this does not happen often.
+Moisture/Purity; a small amount of SF6 gas is vented from the breaker through a moisture/purity analyser to determine the moisture and concentration of the gas. It is important that the moisture content inside an SF6 breaker is kept to a minimum as it can cause corrosion and flashovers inside the breaker.  When there is arcing (i.e., faults or normal interruptions) inside of the circuit breaker, the SF6 combines with water to produce corrosive by-products.
+Air pressure test; applicable for air-blast breakers. Air pressure level, pressure drop rate and air flow are measured during various operations.
+ 
+Vacuum circuit breakers
+With new improvements in vacuum breaker design, vacuum circuit breakers are becoming more common at the lower voltage ranges of transmission networks. Today they can handle voltages up to 252 kV but are still very expensive. Vacuum circuit breakers are more commonly used at system voltage levels up to 72 kV.  Because there is no gas to ionize to form the arc, the insulating gap is smaller than in other circuit breakers.  An arc does form from the vaporized contact material.  The insulation distance in a vacuum circuit breaker is about 11 – 17 mm between plates.  Normally there is one break per phase but there can be two or more interrupters in series for higher voltages. 
+
+
+The contact plates are formed to conduct the current in a way that creates a magnetic field that causes the arc to rotate and extinguish. A benefit with a rotating arc is uniform heat distribution resulting in more even contact erosion. Other advantages with vacuum breakers are their relatively long operational life time and their relatively limited impact on the environment since they are designed without greenhouse gases and with relatively few components. Vacuum circuit breakers also suffer less wear on the main contact than air and oil circuit breakers.
+
+
+
+
+Instrument transformer
+Instrument transformers (ITs) are designed to transform voltage or current from the high values in the transmission and distribution systems to the low values that can be utilized by low voltage metering devices. There are three primary applications for which ITs are used: metering (for energy billing and transaction purposes); protection control (for system protection and protective relaying purposes); and load survey (for economic management of industrial loads).
+
+
+Depending on the requirements for those applications, the IT design and construction can be quite different. Generally, the metering ITs require high accuracy in the range of normal operating voltage and current. Protection ITs require linearity in a wide range of voltages and currents. During a disturbance, such as system fault or overvoltage transients, the output of the IT is used by a protective relay to initiate an appropriate action (open or close a breaker, reconfigure the system, etc.) to mitigate the disturbance and protect the rest of the power system. Instrument transformers are the most common and economic way to detect a disturbance. Typical output levels of instrument transformers are 1-5 amperes and 115-120 volts for CTs and VTs, respectively. There are several classes of accuracy for instrument transformers defined by the IEEE, CSA, IEC, and ANSI standards.
+
+
+Low power instrument transformers (LPITs) or Non-conventional instrument transformers (NCITs).
+
+
+LPITs or NCITs, or similarly sensors, are near process devices based on alternative principles, and have been introduced as successors to conventional instrument transformers with iron-core and in connection with microprocessor-based intelligent electronic devices in power distribution applications. They could use optical techniques to measure. These sensors enable benefits, such as compact size and optimized design (weighing a few hundred grams), and is part of the concept of digital switchgear.
+
+
+Some of the NCITs is converting the primary current to a data stream output known as sampled values and based on the standard IEC 61850-9.2, either direct from the device or through a merging unit which is a separate unit that converts an analogue value to the standardized data stream.
+
+
+
+
+Bushing CT’s
+A bushing CT (BCT) is a window-type current transformer mounted around the bushing’s flange.  They exist both on dead-tank circuit breakers and on power transformers. On the later they may be inside the main tank (under the cover) or mounted externally. A bushing type CT consists only of a toroidal-shaped core with a secondary winding. The bushing’s centre conductor forms the single turn primary of the BCT.  More than one ratio is provided by tapping the secondary winding at multiple increments along the winding.  The secondary winding terminals of the BCT (and the BCT’s nameplate) are accessible on the asset nameplate.
+
+
+BCTs are typically used for protective relaying purposes. Whether used for protection or metering, the saturation of a CT is undesirable.  When operating in saturation, the secondary output current is no longer a miniaturized replica of the primary current but rather a distorted version with a lower than expected amplitude.  This may result in the possible misoperation of the protection system. 
+
+
+If used for protective purposes, a current transformer is designed to saturate at extremely high current levels so that the transformer bushing CT can successfully perform its important intended function of accurately capturing (high) fault current information. However, if the CT has excessive residual magnetism, it will saturate sooner than expected. Remanence flux is dissipated very little in service and requires demagnetization of the core to remove.
+
+
+Testing is important to verify a BCT’s accuracy and performance characteristics, to validate that a very low level of remanence flux exists in the BCT, and to demagnetize its core if not.
+ 
+
+
+Bushing CTs its circuits diagnosis
+
+
+ 
+
+
+Ratio/phase analysis; an assessment of the CT’s accuracy
+
+
+Saturation test; identification of core type; protection or meter
+
+
+Residual magnetisation/demagnetisation; a test to determine the level of residual magnetism in the CT and to demagnetize
+
+
+Winding resistance; used for calculations of saturation voltage and accuracy with specific burden
+
+
+CT burden test; ensures that burden is within the CT’s VA limits
+
+
+Current transformer
+Current transformerA current transformer (CT) is, in many respects, different from other transformers. The primary is connected in series with the network, which means that the primary and secondary currents are stiff and completely unaffected by the secondary burden. The currents are the prime quantities and the voltage drops are only of interest regarding exciting current and measuring cores.
+
+
+One of the fundamental tests of CTs is the ratio and phase error test. Traditionally this test has been performed by injecting a current on the high voltage side and measured the secondary current. However, with modern test equipment it is possible to make this test from the secondary side of the CT.  The advantage is that the test equipment is smaller and lighter since it requires less power.
+
+
+Low-power current transformers (LPCTs)
+
+
+The most common sensors for medium voltage applications use low-power passive current transformers. These do not contain any active interior electronics, thus not requiring any additional power supply, and set reliable and highly accurate devices with a broad dynamic range of measurements. The best technology for current measurement, given its size and wide range of measured current, is the Rogowski coil technology.
+
+
+A Rogowski coil is a toroidal coil, without an iron core, placed around the primary conductor which can either be part of the sensor or be represented by other equipment (e.g., medium voltage cable or bus bar). The output signal of a Rogowski coil is a voltage that is then processed and integrated by the connected intelligent electronic devices. The requirements of low-power current transformers (LPCT) were firstly described in the standard IEC 60044-8, released in 2002, which has been progressively replaced by a new set of standards under IEC 61869 standard family. The new standard IEC 61869-10 covers the LPCTs without active electronics.
+
+
+CTs its circuits diagnosis  
+
+
+Ratio/phase analysis; an assessment of the CT’s accuracy
+
+
+Saturation test; identification of core type; protection or meter
+
+
+Residual magnetisation/demagnetisation; a test to determine the level of residual magnetism in the CT and to demagnetize
+
+
+Winding resistance; used for calculations of saturation voltage and accuracy with specific burden
+
+
+CT burden test; ensures that burden is within the CT’s VA limits
+
+
+Voltage transformer
+current-voltage-transformers.jpgThe voltage transformers (VTs) primary side is connected to the power network with the purpose to take the voltage down to a low voltage level where it safely can be connected to measurement devices. The most common VTs are magnetic (inductive) types and the typical connections for these VTs are (1) secondary phase-and-ground voltage with three double secondary VTs connected phase-to-ground and (2) secondary phase voltage with two single secondary VTs connected open delta.
+
+
+ 
+
+
+Protective relays utilizing voltage are usually connected phase-to-phase, so the transformers are normally rated 120 V or 110 V line-to-line. Taps may be provided to obtain either 69.3/120 V or 63.5/110 V line-to-neutral. When available, double secondaries provide the means of obtaining zero-sequence voltage for ground relays (figure a). If only a single transformer secondary winding is available, an auxiliary wye ground-broken delta auxiliary VT can be connected to the secondary (figure b).
+
+
+ 
+
+
+
+
+
+
+Capacitor voltage transformers (CVT) or coupling capacitor voltage transformer (CCVT)
+
+
+Another way to measure the primary voltage is to make it through a capacitor voltage divider — CVD, which contains capacitors connected in series where the secondary is measured over the last capacitor in the CVD. For high voltage CVTs, it is common that CCVTs are used where the last capacitor in the CVD is connected to an electromagnetic unit (EMU), which contains sufficient inductance for compensation of the capacitance in the CVD. The typical connection for this is secondary phase-and-ground voltage with three CCVTs connected phase-to-ground.
+
+
+Low-power voltage transformers (LPVTs)
+
+
+For voltage measurement in most medium-voltage low-power voltage transformers, is based on two principles: the resistive and the capacitive dividers. The output voltage of a voltage divider is directly proportional to the input voltage thus reproducing the actual waveform of the primary voltage signal. Due to its compactness, voltage sensors can be allocated into other equipment that are already placed in an existing switchgear (e.g., bushing, post insulator or insulating plug of cable connector). The requirements of the LPVTs were first described in the standard IEC 60044-7, released in 1999, that has been progressively replaced by a new set of standards under the IEC 61869 standard family. The new standard IEC 61869-11 covers the LPVTs without active electronics.
+
+
+VTs and its circuits diagnosisRatio/phase analysis; an assessment of the VT’s accuracy
+
+
+
+
+Ratio/phase analysis; an assessment of the VT’s accuracy
+
+
+Saturation test; identification of core type; protection or meter
+
+
+Short-Circuit Impedance test; a test to determine of the transformer impedance and losses
+
+
+Winding resistance; used for calculations of saturation voltage and accuracy with specific burden
+
+
+VT burden test; ensures that burden is within the VT’s VA limits
+
+
+Fuse test; ensures that the cable and fuse to the relay has low resistance
+
+
+Power Transformer
+Transformer insulation and diagnostic equipment | Megger
+
+
+There are several facets to a transformer’s overall health (dielectric, magnetic, mechanical and thermal) and many components that must be tested to verify the transformer’s whole condition. These include: windings and winding leads, transformer insulation, transformer core, and accessories (tap changers, bushings, bushing CTs and surge arresters).  For the assessment of each transformer component, a varying suite of electrical field tests is recommended. Each test in an individual component’s diagnosis test group has a characteristic strength(s) but also deficiencies. However together, with each test contributing unique diagnostic value, the group provides a robust representation of that transformer component’s health.
+
+
+Many of the electrical field tests appearing in these suggested groups provide assessment information for several transformer components at once. So when the individual component test lists are merged, a thoughtful and smart overall test recommendation for transformers emerges. As some transformer tests are better suited as commissioning and diagnostic tests, the reason for testing (e.g., commissioning, routine screening and diagnostic test situations) will influence the electrical test recommendation for transformers. 
+
+
+Power transformers as well as their components face a normal aging process during their service life. Power frequency (50 / 60 Hz) power factor / tan delta testing has been the standard for evaluating the dielectric condition of transformers. Time has shown that power frequency assessment can be greatly improved with the addition of 1 Hz power factor / tan delta. 1 Hz is fundamental to assess the true condition of bushings and transformers and validates the results of power frequency tests, providing confidence for technical and financial decisions and peace of mind to manage the operation of transformers. 
+
+
+ Learn more about how to test at 1 Hz by clicking here.
+
+
+Discover the Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Electrical test recommendations for transformers
+
+
+A primary part of commissioning a transformer involves testing it after its installation in the field.  This amounts to a rigorous examination of the transformer intended to:
+
+
+1) uncover problem(s), if any, with the transformer’s components, as a transformer is exposed to great stresses on its journey to site and is vulnerable to moisture ingress during installation and other unplanned maladies,
+2) validate that the transformer tests the same as it did when last tested at the manufacturer’s facility,
+3) establish a baseline with which to compare results of future tests.  For many tests, this will be almost essential to diagnose problems effectively in the future.
+
+
+The electrical tests recommended for commissioning a transformer include:
+
+
+Transformer turns ratio
+Bushing CT ratio
+Tan delta/ Power factor/ dissipation factor (50/60 Hz)
+NB DFR (narrow band dielectric frequency response), 1 – 500 HZ
+Dielectric frequency response (DFR)
+Surge arrester loss (Watts) and current
+Exciting current
+Leakage reactance (short circuit impedance)
+Winding resistance
+Sweep frequency response analysis (SFRA)
+Frequency response of stray losses
+Dynamic winding resistance (on-load tap changing transformers)
+Core ground
+Dielectric breakdown on oil sample
+ 
+
+
+Routine Screening
+
+
+Transformers should be tested periodically through their lifetime.  However, limitless testing is not a good use of budget and manpower and not necessary.  Some tests are well suited as screening tools while others make sense only under suspicion of specific problems.  For example, unless there is reason to be concerned about winding deformation, a leakage reactance test is probably not necessary.
+
+
+Megger provides thoughtfully equipped transformer test instruments for routine screening needs.  The electrical field tests recommended for routinely testing a transformer include:
+
+
+Transformer turns ratio
+Bushing CT ratio
+Power factor/ dissipation factor (50/60 Hz)
+NB DFR (narrow band dielectric frequency response), 1 – 500 HZ
+Surge arrester loss (Watts) and current
+Exciting current
+Winding resistance
+Dielectric breakdown on oil sample
+ 
+Diagnostic
+
+
+The list of electrical tests that should be used to diagnose a transformer is all inconclusive.  Here it makes sense to intelligently choose, or at a minimum order, the tests to be performed based on symptoms of the transformer, operating and test history, etc.
+
+
+Megger can help with this. The electrical field tests available to diagnose a transformer include:
+
+
+Tan delta/power factor/ dissipation factor (50/60 Hz)
+NB DFR (narrow band dielectric frequency response), 1 – 500 HZ
+Dielectric frequency response (DFR)
+Tan delta/power factor/dissipation factor tip-up test
+Exciting current
+Leakage reactance
+Frequency response of stray losses
+Winding resistance
+Dynamic winding resistance
+Sweep frequency response analysis (SFRA)
+DC insulation resistance (core insulation and unintentional core ground)
+Partial Discharge
+Transformer turns ratio
+Dielectric Breakdown on oil sample (main tank and LTC)
+Surge arresters
+Surge arresters are installed on a transformer to protect it from over-voltage transients. A surge arrester is connected to each phase conductor just before it enters the transformer. The surge arrester is grounded, thereby providing a low impedance path to ground for energy from an over-voltage transient if one occurs. At normal operating voltages, the surge arrester must behave like an insulator, isolating the phase conductor from ground. These opposing characteristics are typically achieved through the use of a Varistor (MOV arresters), which has different resistances at different voltages.
+
+
+There are two principal styles of surge arresters. Today, only Metal Oxide (ZnO) Varistor (MOV) arresters are applied. The older type is the silicon carbide gapped arrester and there are many still in service today. Note, however, that gapped arresters more than 25 years old are recommended for replacement because of their age; some propose an even more stringent policy that replaces silicon carbide gapped arresters after 13 years due to their propensity for moisture ingress (Dr. M Darveniza, IEEE Transaction on Power Delivery, October 1996).
+
+
+ 
+
+
+Surge Arresters diagnosis
+(Watts) loss & current measurement: The losses (in Watts) and current measured in a power factor/dissipation factor test on an arrester are reliable indicators of contamination (particularly moisture ingress) or deterioration and are useful in determining physical changes in an arrester.  The test is intended to assess the arrester’s insulating characteristics since it will “see” operating voltages for the majority of its service life.  While the measurement does not test an arrester’s fault-to-ground directing characteristics, it has statistically proven more times true that when a surge arrester’s ability to isolate phase voltage from ground becomes compromised, that its operating characteristics have failed as well. Higher than normal losses may indicate contamination (e.g., moisture) or corroded gaps (in silicon carbide or early design MOV arresters).  Lower than normal losses may indicate poor contact or open circuits between elements, and broken shunting resistors in a silicon carbide arrester, and discontinuities in the internal electrical construct of an MOV arrester.
+Visual inspection; an arrester should be examined to detect cracks in the porcelain, staining, and any other abnormal physical condition
+Infrared Test; gaining in popularity as the arresters are scanned together with the rest of the substation apparatus.  
+Tap changers
+The purpose of a tap changer is to regulate the output voltage of a transformer. It does this by altering the number of turns in one winding and thereby changing the turns ratio of the transformer. There are two types of transformer tap changers: an on-load tap changer (OLTC) and a deenergised tap changer (DETC). Note that not all transformers have tap changers. 
+
+
+An OLTC varies the transformer ratio while the transformer is energized and carrying load. The switching principle uses the “make before break” contact concept. An adjacent tap is bridged before breaking contact with the load carrying tap for the purpose of transferring load from one tap to the other without interrupting or appreciably changing the load current. While in a bridging position (i.e., contact is made with two taps), some form of impedance (resistive or reactive) is present to limit circulating current. A high speed resistive type OLTC uses a resistor pair to absorb energy and does not use the bridging position as a service position. A reactive type OLTC uses a reactor that is designed for continuous loading, e.g., a preventative autotransformer, and therefore uses the bridging position as a service position.
+
+
+There are two primary OLTC designs. A diverter design, used for higher voltages and power, has both a tap selector and a separate diverter switch (also called arcing switch). The switching arc may occur in oil or may be contained in a vacuum bottle. A non-diverter design, used for lower voltage ratings, simply uses a so-called selector switch (also called arcing tap switch) that combines the functions of a diverter switch and tap selector. 
+
+
+A DETC is a tap changer that cannot be moved while the transformer is energized. It often has 5 positions (A,B,C,D,E, or 1,2,3,4,5). If a DETC is not exercised on a regular basis, there is increased risk that the DETC will not make properly when next moved.    
+
+
+Tap changers have historically been one of the top causes of transformer failures (Cigre_WG 12-05 “An international survey on failures in large power transformers in service“, Electra No. 88, 1983, and ANSI/IEEE, 1985). Faults in OLTC’s can be classified as dielectric failures (oil quality or clearance related), thermal failures (due to coking or crimp problems), or mechanical failures (contact wear and misalignment, limit switches, sheared pins on the linkage that operates the reversing switch, lubrication problems, etc). The following electrical field tests provide information about the integrity of a transformer tap changer.
+
+
+ 
+
+
+OLTC diagnosis
+Electrical field tests:
+
+
+Exciting current; exciting current tests have the ability to detect a myriad of transformer tap changer problems (DETC and OLTC), including: misalignment, coking and wear of contacts, loose moveable contacts, improper wiring from the tap winding to the OLTC, reversed connections to the preventative autotransformer (PA) of an OLTC, open- or short-circuited turns or high resistance connections in the OLTC PA, series autotransformer or series transformer, and more.
+DC winding resistance; a DC winding resistance test is used to detect any problem which impacts the integrity of the current carrying path between terminals of a winding, including the tap changer.  It is particularly adept in identifying partial open-circuited conditions.
+Dynamic winding resistance; a dynamic winding resistance test is the measure of the DC current and resistance (as a function of time) as the OLTC changes tap position.  It is particularly effective at identifying problems with the diverter switch, diverter switch contacts and transition resistors of a resistive style OLTC.  Generally, the test assesses the integrity of any component which makes, carries or breaks current during an OLTC operation.
+Sweep frequency response analysis (SFRA); the mechanical integrity of the tap windings and their leads are assessed in the mid- to upper-frequency ranges of an FRA test on a transformer
+ 
+
+
+Oil Tests:
+
+
+DGA; normal gassing patterns (produced as insulating materials deteriorate) vary for each family of OLTCs.  DGA on a sample of oil from the OLTC is an effective tool for identifying problems such as localised overheating or excessive arcing, which will result in a change in the OLTC’s typical gassing behaviour (for example, the ratio of the hydrocarbon gasses change).
+Dielectric Strength; checks that the dielectric breakdown voltage of the oil in the OLTC is above a minimum threshold.  This is influenced by the relative saturation of water in oil and presence of conductive particles (number and size). 
+Moisture; a test for excessive water in the tap changer, which reduces the dielectric breakdown strength of the oil and can accelerate aging of the contacts
+ 
+
+
+Other Tests:
+
+
+Infrared; checks for a temperature difference between the transformer’s main tank and tap compartment; it is atypical for the tap compartment to be as hot or hotter than the main tank,
+Acoustics
+Inspection
+
+
+Tap changers
+The purpose of a tap changer is to regulate the output voltage of a transformer. It does this by altering the number of turns in one winding and thereby changing the turns ratio of the transformer. There are two types of transformer tap changers: an on-load tap changer (OLTC) and a deenergised tap changer (DETC). Note that not all transformers have tap changers. 
+
+
+An OLTC varies the transformer ratio while the transformer is energized and carrying load. The switching principle uses the “make before break” contact concept. An adjacent tap is bridged before breaking contact with the load carrying tap for the purpose of transferring load from one tap to the other without interrupting or appreciably changing the load current. While in a bridging position (i.e., contact is made with two taps), some form of impedance (resistive or reactive) is present to limit circulating current. A high speed resistive type OLTC uses a resistor pair to absorb energy and does not use the bridging position as a service position. A reactive type OLTC uses a reactor that is designed for continuous loading, e.g., a preventative autotransformer, and therefore uses the bridging position as a service position.
+
+
+There are two primary OLTC designs. A diverter design, used for higher voltages and power, has both a tap selector and a separate diverter switch (also called arcing switch). The switching arc may occur in oil or may be contained in a vacuum bottle. A non-diverter design, used for lower voltage ratings, simply uses a so-called selector switch (also called arcing tap switch) that combines the functions of a diverter switch and tap selector. 
+
+
+A DETC is a tap changer that cannot be moved while the transformer is energized. It often has 5 positions (A,B,C,D,E, or 1,2,3,4,5). If a DETC is not exercised on a regular basis, there is increased risk that the DETC will not make properly when next moved.    
+
+
+Tap changers have historically been one of the top causes of transformer failures (Cigre_WG 12-05 “An international survey on failures in large power transformers in service“, Electra No. 88, 1983, and ANSI/IEEE, 1985). Faults in OLTC’s can be classified as dielectric failures (oil quality or clearance related), thermal failures (due to coking or crimp problems), or mechanical failures (contact wear and misalignment, limit switches, sheared pins on the linkage that operates the reversing switch, lubrication problems, etc). The following electrical field tests provide information about the integrity of a transformer tap changer.
+
+
+ 
+
+
+OLTC diagnosis
+Electrical field tests:
+
+
+Exciting current; exciting current tests have the ability to detect a myriad of transformer tap changer problems (DETC and OLTC), including: misalignment, coking and wear of contacts, loose moveable contacts, improper wiring from the tap winding to the OLTC, reversed connections to the preventative autotransformer (PA) of an OLTC, open- or short-circuited turns or high resistance connections in the OLTC PA, series autotransformer or series transformer, and more.
+DC winding resistance; a DC winding resistance test is used to detect any problem which impacts the integrity of the current carrying path between terminals of a winding, including the tap changer.  It is particularly adept in identifying partial open-circuited conditions.
+Dynamic winding resistance; a dynamic winding resistance test is the measure of the DC current and resistance (as a function of time) as the OLTC changes tap position.  It is particularly effective at identifying problems with the diverter switch, diverter switch contacts and transition resistors of a resistive style OLTC.  Generally, the test assesses the integrity of any component which makes, carries or breaks current during an OLTC operation.
+Sweep frequency response analysis (SFRA); the mechanical integrity of the tap windings and their leads are assessed in the mid- to upper-frequency ranges of an FRA test on a transformer
+ 
+
+
+Oil Tests:
+
+
+DGA; normal gassing patterns (produced as insulating materials deteriorate) vary for each family of OLTCs.  DGA on a sample of oil from the OLTC is an effective tool for identifying problems such as localised overheating or excessive arcing, which will result in a change in the OLTC’s typical gassing behaviour (for example, the ratio of the hydrocarbon gasses change).
+Dielectric Strength; checks that the dielectric breakdown voltage of the oil in the OLTC is above a minimum threshold.  This is influenced by the relative saturation of water in oil and presence of conductive particles (number and size). 
+Moisture; a test for excessive water in the tap changer, which reduces the dielectric breakdown strength of the oil and can accelerate aging of the contacts
+ 
+
+
+Other Tests:
+
+
+Infrared; checks for a temperature difference between the transformer’s main tank and tap compartment; it is atypical for the tap compartment to be as hot or hotter than the main tank,
+Acoustics
+Inspection
+
+
+Transformer bushing CTs
+A transformer bushing CT (BCT) is a window-type current transformer mounted around the bushing’s flange.  They may be inside the main tank (under the cover) or mounted externally. A bushing type CT consists only of a toroidal-shaped core with a secondary winding. The bushing’s centre conductor forms the single turn primary of the BCT.  More than one ratio is provided by tapping the secondary winding at multiple increments along the winding.  The secondary winding terminals of the BCT (and the BCT’s nameplate) are accessible in the transformer’s control cabinet. 
+
+
+BCTs are typically used for protective relaying purposes. Whether used for protection or metering, the saturation of a CT is undesirable.  When operating in saturation, the secondary output current is no longer a miniaturized replica of the primary current but rather a distorted version with a lower than expected amplitude.  This may result in the possible misoperation of the protection system. 
+
+
+If used for protective purposes, a current transformer is designed to saturate at extremely high current levels so that the transformer bushing CT can successfully perform its important intended function of accurately capturing (high) fault current information. However, if the CT has excessive residual magnetism, it will saturate sooner than expected. Remanence flux is dissipated very little in service and requires demagnetization of the core to remove.
+
+
+Testing is important to verify a BCT’s accuracy and performance characteristics, to validate that a very low level of remanence flux exists in the BCT, and to demagnetize its core if not.
+ 
+
+
+Bushing CTs diagnosis
+ 
+Ratio/phase analysis; an assessment of the CT’s accuracy
+Saturation test;
+Residual magnetisation/demagnetisation; a test to determine the level of residual magnetism in the CT and to demagnetize
+Winding resistance;
+CT burden test;
+
+
+Transformer bushings
+A transformer bushing is an insulating structure that facilitates the passage of an energized, current-carrying conductor through the grounded tank of the transformer.  The conductor may be built in to the bushing, i.e., a bottom-connected bushing, or the bushing may be built with the provision for a separate conductor to be drawn through its centre, a.k.a., a draw-lead or draw-rod bushing.
+
+
+The two principal types of bushing construction are solid or bulk type and capacitance-graded (sometimes called condenser type). The bushings used for the low voltage winding(s) of a transformer are often solid type with a porcelain or epoxy insulator.  Capacitance-graded bushings, designed for higher voltage ratings, are used for a transformer’s high voltage winding. 
+
+
+Unlike a solid type construction, in a capacitance-graded transformer bushing, conducting layers are inserted at predetermined radial intervals within the insulation that separates the centre conductor from the insulator (housing) of the bushing.  These multiple conductive inserts create capacitive elements linking the centre conductor of the bushing to ground.  Their purpose is to control the voltage field around the center conductor so that the voltage distributes more uniformly across the surrounding insulation system in the bushing.
+
+
+In solid type bushings, electrical grade mineral oil is often used between the conductor and the insulator, which may be contained within the bushing or shared with the transformer. Typical insulation used in a capacitance-graded bushing is oil-impregnated paper (OIP), resin-impregnated paper (RIP), and resin bonded paper (RBP).  Capacitance-graded bushings also use mineral oil, usually contained within the bushing.
+
+
+Transformer bushing failures are often credited as one of the top causes of transformer failures so the condition of the bushings is of high interest to transformer asset owners.   Typical bushing failure modes include moisture ingress, electrical flashover, lightning strike, short-circuited capacitance-graded layer(s), bushing misapplication, corrosive sulphur, broken connection between ground sleeve and flange, and a broken tap connection.  The following electrical field tests provide information about the integrity of the bushings.
+ 
+
+
+Bushing diagnosis
+Tan delta/Power factor/dissipation factor/capacitance (@ line frequency): Tan delta/power factor/dissipation factor assesses the integrity of the insulation system of the bushing.  C1 and C2 tests should be performed on a capacitance-graded bushing.  A C1 power factor/dissipation factor test checks the health of the bushing’s main core insulation, while the C2 measurement is used to assess the bushing tap compartment’s insulation plus the outermost main core insulating wraps and surrounding filler material.  Often, C2 serves as early detection for moisture ingress or other contaminants that collect around the flange area because of a deteriorated or faulty top terminal gasket, for example.
+Capacitance: measured concurrently, assesses the physical integrity of the bushing.  An increase in C1 capacitance for example may indicate short-circuited capacitance-graded layers in the bushing, a diagnosis which warrants the bushing’s immediate replacement.
+Tan delta/Power factor/dissipation factor tip-up: Tan delta/power factor/dissipation factor tip-up (which checks to see whether power factor/dissipation factor changes when the test voltage changes) may be useful in the detection of loose connections or localized defects; may be effective in detecting aging effects when combined with DFR.  Ask us how…  
+Variable frequency power factor/dissipation factor (VFPF): This test is a collection of power factor/dissipation factor measurements performed across a  subset of the frequencies included in a DFR measurement (e.g., 15 – 500 Hz).  Conductive contaminants are easily seen at low frequencies (15 Hz and below) while problems such as top terminal looseness and PD inducing type issues may be detected at higher frequencies (500 Hz).
+Hot collar test: A hot collar test is used routinely for solid type bushings without taps and is effective in revealing deterioration, contamination, low compound or liquid levels, and voids in the compound (if applicable).  It may also be effective as a supplementary test to C1 and C2 tests on capacitance-graded bushings with taps.
+Dielectric frequency response (DFR):  In bushing diagnostics, a pronounced temperature dependence (i.e., increased power factor/dissipation factor at high temperatures) is a strong indicator of bushing insulation deterioration.  DFR measurements provide the capability of performing individual temperature correction of measured 50/ 60 Hz power factor/dissipation factor at various temperatures to values at a reference temperature (20ᵒC).  Comparing this measured temperature dependence with the bushing manufacturer’s data for temperature correction will tell if the bushing is good or not.  DFR measurements can be used for moisture assessment of bushings.
+Partial discharge (PD)
+DGA: some asset owners sample oil from a capacitance graded bushing for the purpose of performing dissolved gas analysis tests. This is not a popular practice.
+
+
+Transformer core
+The transformer core provides a magnetic path to channel flux. The use of highly permeable material (which describes the material’s ability to carry flux), as well as better core construction techniques, helps provide a desirable, low reluctance flux path and confine lines of flux to the core.  The core is constructed of numerous thin strips of grain-oriented silicone steel, called laminations, which are electrically isolated (yet still magnetically coupled) from each other by thin coatings of insulating material.  This is important to reduce the no-load losses of the transformer.  The core is a source of heat in the transformer and as a core increases in size, cooling ducts within the core may become necessary.  Problems such as short-circuited core laminations will result in increased losses and possibly overheating of the transformer core.   
+
+
+The core is insulated from the grounded mechanical structures that hold it together and support it and is then intentionally grounded to a single point.  Larger transformer cores that have multiple core sections isolated from one another by cooling ducts may implement core jumpers to bond the sections of the core together and a single lead to solidly connect the bonded group to earth.  The core, which is effectively a conductor that is not intended as a current-carrying path, may acquire some potential through capacitive coupling with the innermost winding when the transformer is energised (resulting in partial discharges that may damage the transformer) and induced potential when the transformer is carrying load unless the core is solidly connected to earth. The core ground also assures protective device operation in the event of a winding to core insulation failure.  For such a fault to be recognised by the protective system of the power supply/line (and quickly disconnect the line), the transformer core must be grounded to provide an electrical (fault) path back to the source. A core is typically grounded at a single point only, as multiple core grounds may result in circulating currents and overheating (and gassing) in the core.
+
+
+The magnetic health of a transformer is of paramount importance to a transformer’s proper operation. Most common core problems encountered in the field include core ground problems, poor core construction, shorted laminations and overheating. The following electrical field tests used in conjunction with our range of transformer test equipment provide information about the integrity of the transformer core. 
+ 
+
+
+Core diagnosis
+ 
+
+
+Exciting current: detects most transformer core problems including shorted laminations and other problems that significantly affect the reluctance of the flux in the core, such as a partially shifted or open core joint, poor workmanship in the assembly of the core, etc.; sensitive to core magnetisation
+DC insulation resistance (core ground): checks for unintentional core grounds (best tool for this) and problems involving the core ground insulation.  Low insulation resistance values between the core and ground can be caused by shifting of the core laminations and by conductive contamination or foreign objects that bridge the core-to-ground insulation.
+Capacitance/power factor/dissipation factor: the capacitance of the low voltage winding (CL) measured during a power factor/dissipation factor test is sensitive to the deterioration of or complete loss of the core ground connection
+Sweep frequency response analysis (SFRA): sensitive to changes in the magnetic core and core magnetization in the lower frequency range while loss of core grounding may be detected in the higher frequencies (e.g., ≥ 50 kHz).
+
+
+Transformer insulation
+The insulation in the majority of power transformers consists of both oil and cellulose (paper/pressboard). The solid insulation is divided into major and minor insulation structures. The major insulation system includes barriers, spacers and clamps while the minor insulation consists of winding insulation. 
+
+
+Cellulosic transformer insulation serves three functions. Foremost, it acts as a dielectric by storing electrical charge when the transformer is energised and, thereby, isolates transformer components that exist at different voltages. It also fulfils a mechanical function by supporting the windings, and contributes to better thermal health of the transformer by creating cooling ducts for the oil.
+
+
+The oil must provide sufficient dielectric strength, provide sufficient cooling, preserve the core and coil assembly by filling voids in the insulating materials, and minimise contact of oxygen with cellulose and other materials that are at risk for oxidation.
+
+
+Insulation performs its roles best when it is clean, dry, relatively void-free, and utilised within a certain temperature bandwidth. The following electrical field tests provide information about the integrity of the transformer insulation.
+ 
+
+
+Insulation diagnosis
+ 
+
+
+Power factor/Tan delta/dissipation factor/capacitance (@ line frequency); a power factor/dissipation factor test provides a general sense of how clean, dry, and relatively void-free the insulation system is, confirmation that the system’s electrical characteristics have not deteriorated with age and operating stresses, and therefore an overall impression of how efficiently the insulation is performing in providing electrical isolation.  Capacitance reflects the amount of electrical charge being effectively stored by the insulation and is influenced by changes in the physical attributes of the insulation system being tested.
+Variable frequency power factor/dissipation factor (VFPF); a variable frequency power factor test provides context to a line-frequency power factor/dissipation factor measurement so that a more informed assessment of the insulation system can be made.  Specifically, by performing power factor/dissipation factor measurements at additional frequencies, the tester confirms that a seemingly good line-frequency power factor/dissipation factor is indeed good (which sometimes may not be the case), detects problems earlier than they would in a 50/60 Hz power factor/dissipation factor test, and more.
+Tan delta/Power factor/dissipation factor tip-up; used to determine whether a voltage sensitive problem exists in the dielectric of a transformer.  A positive indication may suggest the presence of a localised problem, such as tracking (as long as the insulation system under test is not prohibitively large which undermines the sensitivity of the test), or partial discharge type activity.
+Dielectric frequency response (DFR/FDS); dielectric response measurements provide a moisture and oil conductivity assessment of transformers. This is an internationally accepted test that is growing in use. Of the two principal dielectric response methods, an AC method called Dielectric Frequency Response (DFR, also Frequency Domain Spectroscopy, FDS) is preferred due to its robustness against noise.
+Exciting current; an exciting current test provides information regarding the integrity of the turn-to-turn winding insulation and electrical tracking problems in the transformer insulation (for example, tracking somewhere along a winding turn(s) to ground or phase-to-phase electrical tracking). 
+Partial discharge (PD); 
+DC insulation resistance;
+Dielectric breakdown test on oil; as an insulating liquid, oil’s most important property is a high dielectric strength.  The dielectric breakdown voltage is an important measurement of the electrical stress which an insulating oil can withstand without failure.  This test checks that the dielectric breakdown voltage of the oil in the main tank is above a minimum threshold.  This may be done in the laboratory or in the field.
+DGA;
+
+
+Transformer windings and leads
+Transformer windings consist of paper-insulated, current carrying conductors wound around sections of the core; a winding lead is an insulated conductor that connects a winding to another winding, to a tap changer, or to an exit terminal (bushing).  To withstand operational conditions, windings and leads must be properly insulated, supported and cooled.
+
+
+Transformer winding failures have statistically been attributed as the most frequent cause for transformer faults (ANSI/IEEE, 1985), followed by load tap changers, and bushings.  A major reason for winding failure is insulation deterioration.  Factors that contribute to deterioration include moisture, voltage surges, overheating, vibration and mechanical stress created during transformer through faults.
+
+
+The following electrical field tests provide information about the integrity of the transformer windings.
+ 
+
+
+Winding diagnosis
+ 
+
+
+Three-Phase Transformer Turns Ratio Test Set - TTR300 seriesTransformer turns ratio; checks the fundamental operational characteristic of a transformer, e.g., that it is transforming voltage as expected, and may help to identify short-circuited turns, open-circuited conditions, and incorrect winding connections. Some Unknown Facts
+Exciting current; particularly adept in the detection of partial turn-to-turn short circuits in a winding (sensitive to the deterioration of the turn-to-turn insulation that is not tested in a power factor measurement).
+DC winding resistance; assesses the integrity of the current-carrying path between transformer bushing terminals; detects problems such as loose or defective connections, broken strands, open-circuit conditions, or high contact resistance in tap changers.
+Leakage reactance/short circuit impedance; the premier test to identify or confirm winding deformation
+Frequency response of stray losses (FRSL); alone in its ability to detect strand-to-strand short-circuits in a conductor bundle; also sensitive to problems that have resulted in increased losses of conductive structural components such as the transformer tank, clamping structure and tie plates.
+Sweep frequency response analysis (SFRA); sensitive to short-circuited turn(s), open-circuited winding conditions and winding deformation
+12 kV Insulation Diagnostic System - DELTA4000 SeriesPower factor/Tan delta/dissipation factor/capacitance (@ line frequency); assesses the ability of the insulation that isolates HV or LV windings from ground potentials, or HV windings from LV windings, to efficiently store the energy placed across it; detects moisture and other contaminants, and increase in voids in the insulation.  Capacitance is sensitive to extreme winding deformation.
+Narrowband Dielectric Frequency Response (NB DFR); provides confidence in the interpretation of the power factor/dissipation factor results above and more discerning information about elevated power factor/dissipation results
+Dielectric frequency response (DFR);
+ 
+
+
+Winding leads diagnosis
+ 
+
+
+Insulation diagnostic analyser - IDAX300/350DC winding resistance; very effective in the detection of problems such as loose or defective connections, broken strands, and full or partial open-circuit conditions.
+Sweep frequency response analysis (SFRA); assesses mechanical health; sensitive to open or partially-open connections of a lead and even a situation whereby a lead is incorrectly and inconsistently routed to a bushing terminal as compared to the lead routing associated with the other two phases of the transformer.
+Partial discharge testing
+Partial Discharge Test equipment catalogue
+Download Partial Discharge Test equipment catalogue
+
+
+PD testing on bushings, spacer and insulators
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on transformers
+PD testing on motors and generators
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+PD testing on switchgear (AIS/GIS/GIL)
+PD testing on transformers
+On-line PD handheld scanner 
+On-line PD handheld scanner
+PD Scan
+Handheld on-line PD substation surveying system 
+Handheld on-line PD substation surveying system
+UHF PD Detector
+Power Diagnostix Systems GmbH, Aachen, Germany
+Power Diagnostix Systems GmbH, Aachen, Germany
+Rotating machines
+
+
+The unplanned failure of critical motors (and generators) in a manufacturing process can have severe economic and safety consequences. Partial discharge testing allows for early warning of potential failure, allowing time to plan maintenance. Tests can be conducted on-line, on a continuous basis or during maintenance to provide all round condition monitoring of the asset.
+
+
+Power, distribution and instrument transformers
+
+
+Partial discharge testing is an essential, proven tool that can locate and identify flaws in the insulation of cables, bushings, windings, tap changers and a myriad of other assets and accessories. In the early stage of ageing of insulated materials, detection of deteriorating performance may be difficult to detect by traditional test methods. However partial discharge still occurs and can be monitored its source identified. Power Diagnostix offers a wide range of test equipment for onsite on- and off-line tests and PD monitoring, as well as PD acceptance testers for factory testing laboratories.
+
+
+Switchgear
+
+
+At the end of a production line, or when commissioning gas insulated switchgears and lines (GIS, GIL), partial discharge tests are used to confirm the integrity of the insulation system. Additionally, on-line PD measurements that use acoustic and UHF sensors help keep aged GIS equipment in service, which is essential to reduce the increasing number of these assets that have reached the end of their projected lifespans. PD measurements that use acoustic and UHF sensors offer further benefits. In the case of acoustic measurements, so-called ‘bouncing particles’ provide high sensitivity, whereas external ring antennas, window sensors and embedded sensors enable survey measurements to be taken and partial discharge activity in the UHF range to be monitored. Due to these benefits, Power Diagnostix has created instruments that combine UHF and accoustic measurements.
+
+
+MV, HV, EHV Cables and accessories
+
+
+As polyethylene is a ‘non-forgiving’ form of insulation, close attention needs to be paid to any partial discharge activity during factory testing, commissioning and online servicing. When performing on-site PD measurements, the equipment used must cover the needs of an ageing polymeric cable distribution network as well as cope with the increasing application of polyethene extra high voltage cables.
+
+
+Bushing, Spacers, Insulators, etc
+
+
+Quality control is essential when it comes to pre-testing the accessories of high voltage transformers, switchgears or other important assets. Indeed, this increasing need for quality control has pushed the responsibility onto sub-suppliers and their quality management systems. As a result, manufacturing sites have built their own partial discharge test benches for the final acceptance testing of these essential assets. It’s also common practice for them to provide test reports to customers showing the guarantee level of internal PD and the applied standards. Power Diagnostix help design complete test benches to required specifications. We work with multiple partners in the design of test rooms and shop floor automation and the modularity of our equipment enables us to customise designs according to our customer’s needs.
+
+
+Other insulating materials and electronic components
+
+
+Not only do Power Diagnostix offer test equipment for the standard range of applications, we also offer customised solutions for a range of other applications that haven’t been listed.
+
+
+We have designed PD measurement test benches and specialist equipment for specific tasks, including:
+
+
+PD test cabinets for solar panel insulation foils, heating pumps and small motors
+PD tests on electronic semiconductors at low voltages and on marine vessels
+Testing on inverters under special sync frequencies
+Test systems for extra long underwater high voltage cables
+
+
+Renewable products
+Megger Solar Products
+ 
+
+
+
+
+
+
+ 
+
+
+DLRO2 MTR105 ETK DET24C DET2/3
+Solar energy is the cleanest and most abundant renewable energy source on the planet, and in the past decade, the solar power market in North America has practically doubled every year. With over 2.6 million solar installations – ranging from rooftop solar panels for your home to large-scale solar systems powering our utilities – there’s enough clean electricity to power over 16 million homes. As more and more North Americas rely on solar power, Megger is committed to providing the electrical test equipment needed to install, maintain, and troubleshoot your solar systems – keeping the solar power on.
+
+
+Megger’s pocket-size solar irradiance meter (PVM210) is ideal for choosing optimal photovoltaic panel position during installation. Paired with a multimeter or clamp meter, Megger’s Photovoltaic Kits (PVK320, PVK330) are perfect for installing, commissioning, and testing solar installations – enabling electricians or engineers to verify the stated short circuit current. The DCM1500S, Megger’s newest solar clamp meter, is designed for installing, maintaining, monitoring, and checking large AC or DC solar power systems and equipment. With a large clear display, along with up to 1500 A of current, the DCM1500S easily measures voltage, current, resistance, diode, capacitance, temperature and frequency. Pairing with the free Megger Link App, the DCM1500S can remotely monitor measurements with built-in Bluetooth – giving a live trended graph on a paired smart device. For certain solar power systems, the MIT430/2 CATIV insulation tester is the ideal instrument solar installation testing. When 1kV isn’t enough, Megger offers the MIT2500, a handheld, lightweight insulation tester that can produce up to 2,500 Vdc for testing insulation resistance in PV systems.
+
+
+With constantly fluctuating outputs, power quality issues can often arise in solar systems. With the Megger MPQ1000 Power Quality Analyzer, you can easily troubleshoot power quality issues within your solar installation’s battery banks, inverters, switches, breaker or fuse boxes, and electric meters. For locating cable faults in isolated solar panel strings from the solar array cables back to the inverter, the Megger TDR2050 and TDR2010 are the perfect solution. When it comes to troubleshooting solar issues, a TDR is the ideal time-saving solution for any solar technician or engineer. If your solar installation has a battery bank, you may want to look into adding Megger's thermal imaging camera (TC3231) to your tool arsenal, as well. The TC3231 can quickly identify hotspots, compared to traditional battery testing procedures. Compact and handheld –  the TC3231 is a great tool for solar troubleshooting, especially in tight or hard to reach spaces.
+
+
+Likewise, if you're maintaining a large solar installation with a battery bank, the Megger BITE2 or BITE3 Battery Impedance Testers can help you determine the health of your battery cells by taking measurements of the most important battery parameters. 
+
+
+Make sure you’re effectively grounded and meeting spec with Megger ground testers. With a live trace feature, the Megger DET2/3, can make dynamic measurements over time to indicate instability on the system. With added data storage, graphical results and supreme noise suppression, plus ruggedized construction for field operation, it is the most advanced ground tester on the market. With the DET24C clamp-on ground tester, you can verify that your system is safely grounded, meets Code and any other imposed standards without having to extend long test leads or expend valuable time. Just clamp, push button, and read result.
+
+
+Reduce and eliminate the major time-consuming hassle in ground resistance testing, with the ETK Earth Test Kit No more wires strewn randomly about the site. No more hand retrieval and nuisance tangling. Stored on convenient wind-up reels, the leads are easy to pay out and retrieve, with no tangling. Available in 3 different lengths, the reels can be daisy-chained to any distance.
+
+
+Related Links:
+
+
+Application Note - Megger Tools in PV Applications
+
+
+Application Note - Ground Fault Location in PV Systems
+
+
+Product Overview - Solar Test Kit
+
+
+Megger Wind Products
+ 
+
+
+
+
+
+
+ 
+
+
+DLRO2 MTR105 ETK DET24C DET2/3 DET24C DLRO2X
+Wind power in the United States is another rapidly expanding sector of clean energy – providing more power than any other renewable energy source in the United States and producing enough energy annually to offset the power consumption of nearly 30 million average homes in America each year. With a three-bladed rotor design and connection to medium, wind turbines convert wind energy into electrical energy and feed it into medium and high voltage systems. Megger manufactures a range of electrical testers for the wind market, including motor, low resistance, and insulation testers.
+
+
+Megger’s range of digital low resistance ohmmeters, including the newest DLRO2 / DLRO2X and DLRO10 Series, are ideal for testing busbar connection in windfarm networks. The DLRO2 has the added ability to test with very long test leads – perfect for verifying lightning protection on wind turbines. For testing a wind turbine’s motor insulation, Megger offers the MTR105 a lightweight, handheld motor and insulation tester with four-wire low resistance, temperature correction, and voltage measurement.
+
+
+Make sure you’re effectively grounded and meeting spec with Megger ground testers. With a live trace feature, the Megger DET2/3, can make dynamic measurements over time to indicate instability on the system. With added data storage, graphical results and supreme noise suppression, plus ruggedized construction for field operation, it is the most advanced ground tester on the market. With the DET24C clamp-on ground tester, you can verify that your system is safely grounded, meets Code and any other imposed standards without having to extend long test leads or expend valuable time. Just clamp, push button, and read result.
+
+
+Reduce and eliminate the major time-consuming hassle in ground resistance testing, with the ETK Earth Test Kit No more wires strewn randomly about the site. No more hand retrieval and nuisance tangling. Stored on convenient wind-up reels, the leads are easy to pay out and retrieve, with no tangling. Available in 3 different lengths, the reels can be daisy-chained to any distance.
+
+
+ 
+
+
+Megger Electric Vehicle Charger Checker
+ 
+
+
+
+
+
+
+ 
+
+
+EVCC300
+
+
+The demand for electric vehicles continues to increase rapidly. Manufacturers of these vehicles and EV supply equipment (EVSE) are working hard in an effort to meet the latest uptick in demand. However, because the EV market is relatively new and is still not well-regulated, there are some inherent issues. One is the need for charging points, which can be few and far between. This is a worry for drivers of EVs because there is no guarantee of when and where they will be able to charge next. This has caused a ground swell of installations of new EV charging stations for public use across the country.
+
+
+Chargers need to go through routine inspections. These inspections help to assess their safety and alert the inspector if maintenance needs to be performed. Assessments include checking for hazardous voltages, confirming there is a suitable ground connection, ensuring that any exposed metal work is properly grounded, certifying that the charger ground does not rise to a hazardous level when the charger output is on and timing the charger’s safety device’s tripping speed. Inspectors can also check to see if nuisance tripping or GFCI is likely to occur. But to perform any of these inspections, it is important to have the right equipment, like Megger’s EVCC300. An all-in-one tool that makes checking EV charge points quick and easy.
+
+
+Related Links:
+
+
+NETAworld article - EV charging Stations: Power Grid Impact and maintenance requirements
+
+
+Electrical test and maintenance equipment - from power station to plug
+Megger world of electrical test equipmentThe extensive Megger product portfolio provides electrical test equipment for an exceptionally wide range of applications at any point of the electricity network. From small handheld low voltage equipment such as multifunction installation testers through to high voltage asset test equipment like insulation resistance testers, circuit breaker analysers, protection relay test systems to transformer condition measurement devices.
+
+
+Megger designs and manufactures portable electrical test equipment in factories located in Germany, Sweden, the UK, and USA. Megger products help you install, improve efficiency, reduce cost and extend the life of your or your customers’ electrical assets.
+
+
+Established in the late 1800s, the company has been designing and making test and measurement instruments that perform electrical measurements for preventative maintenance, troubleshooting and commissioning for decades. Megger products have supported customers all over the world to improve their facilities’ efficiency, reduce costs, extend the life of apparatus and through trending and analysis, anticipate equipment failure and future performance. It now has local offices in many locations with technical support teams and distributors all over the world.
+
+
+Continue reading more about Megger…
+
+
+About Us
+Megger has been a leader in electrical test and measurement globally for 130 years. From power generation to the power outlets in your home, Megger products cover almost every application within the Electrical Supply Industry.
+
+
+Our products are categorised into seven core application segments: cable test and diagnostics, protection relays and systems, circuit breakers, transformer test and diagnostics, low voltage installations, general electrical testing, and motor and generator testing.
+
+
+We have manufacturing sites in various locations within Germany, USA, UK, and Sweden, with our headquarters based in Dover, UK, and sales offices across the globe. Megger has grown substantially through acquisitions, including Biddle Instruments (1936, Pennsylvannia), Multi-Amp (1951, New Jersey), Programma (2007, Sweden), SebaKMT (2012, Germany) and more recently, Baker Instruments (2018, Fort Collins), to name but a few.
+
+
+We are emotionally connected to our values, and our attitude and behaviours being fostered across the Megger group are directly attributable to our values-led approach. Our culture makes not only a successful company but crucially, a compelling business partner. Get to know who we are.
+
+
+Our mission and values
+Megger has a values-led approach, where our collective behaviours drive a culture that puts our customers first, seeks to innovate, and produces first-class customer service and experience. And our values start from the top all the way through the organisation, so you can be sure that you will get the same quality wherever you are, and whoever you talk to. Our mission is to help you keep your Power on. We focus our expertise in developing innovative testing solutions that are world class on safety, performance, reliability and ease-of-use. We are committed to providing you with the measurement results and insight to make informed decisions about your assets, increasing uptime and safety.
+
+
+ 
+
+
+CARING
+
+
+As a multinational family, we are culturally aware, and socially rich. Our respect and consideration for each other makes collaboration easy and this is evident in the quality of our work.
+CREATIVE
+
+
+Pioneering is in our DNA. As innovators, we encourage change and the positive influence this brings to the lives of our workforce, our customers, their communities and the wider environment.
+CONSISTENT
+
+
+Our intellectually powerful, problem-solving mindset and uncompromising attitude to safety, make us predictably reliable.
+CAPTIVATING
+
+
+When we take the initiative, lead by example and amplify our individual sense of fun, we are inspirational to those around us. When we are transparent, humble and supportive, we gain their admiration and trust.
+CONFIDENT
+
+
+The Megger brand is a global badge of technical excellence and customer reassurance because our people are strong, resilient and focused.
+One Vision, one Megger!
+ 
+What we do
+Knowledge is Powerful. Understanding every aspect of the electricity network, from generation and transmission to distribution and consumption, is what it takes to be recognised as a world leader in designing and providing test and diagnostic solutions for electrical network assets and their connected equipment.
+
+
+Maintaining this position requires a huge ongoing investment in engineering, to help us anticipate changes in industry direction and technologies, as well as customer and end-user needs. This attitude has, historically, been part of Megger’s development ethos and it continues today with almost 20% of our nett profits redeployed annually into new product development, technology upgrading, system and process improvement.
+
+
+From power generation to the power outlets in your home, Megger products and services solve challenging measurement applications across the Energy Supply Industry and share four key characteristics:
+
+
+Safety:
+Our number one priority is life and our equipment provides you and your assets with world leading protection.
+
+
+Accuracy and reliability:
+Consistent delivery of accurate results is the Megger standard giving you the ability to "detect a whisper, in a storm of electrical noise".
+
+
+Intuitive operation:
+Controls that feel as familiar as your mobile phone, increase your productivity while reducing the risk of errors.
+
+
+Rugged design and construction:
+Every one of our product lines is manufactured using components specifically selected and tested to destruction, to ensure long and durable service, especially in tough or extreme operating conditions.
+
+
+Legal
+Access to and use of this World Wide Web site ("The Web Site") is provided subject to these terms and conditions. Please read these terms carefully as use of this site constitutes acceptance of these terms and conditions.
+
+
+For purposes of this notice, "Megger" shall include Megger Group Limited, and its divisions, subsidiaries, successors, parent companies, and their employees, partners, principals, agents and representatives, and any third-party providers or sources of information or data
+
+
+Use of material on The Web Site
+
+
+The information, artwork, text, video, audio, or pictures contained on The Web Site (collectively, "Materials") are protected by International copyright laws. You may only access and use the Materials for purposes connected with specifying, purchasing or using Megger products and services. You may not, under any circumstances, except as provided below, modify, reproduce, record, publish, publicly exhibit, distribute or use the Materials for any other purpose without Megger's express written consent. You should not attempt to "pass-off" any of Megger's content as your own work.
+
+
+You may print the Materials for purposes connected with specifying, purchasing or using Megger products and services only, and you must include any copyright notice originally included with the Materials in all copies.
+
+
+Any computer software downloadable or otherwise available from The Web Site is licensed subject to the terms of the applicable license agreement.
+
+
+The Materials have been compiled by Megger from a variety of sources, and are subject to change without notice.
+
+
+Sites linked from The Web Site
+
+
+The sites linked from or to The Megger Web Site are not under Megger's control, and Megger does not assume any responsibility or liability for any communications or materials available at such linked sites. Megger does not intend links on The Web Site to be referrals or endorsements of the linked entities; they are provided for convenience only.
+
+
+Disclaimer of warranty
+
+
+The services, information or data made available on The Web Site (collectively, "Information") are provided "AS IS", without warranties of any kind. Megger expressly disclaims any representations and warranties, including without limitation, the implied warranties of merchantability and fitness for a particular purpose. Megger shall have absolutely no liability in connection with the services including without limitation, any liability for damage to your computer hardware, data, information, materials and business resulting from the Information or the lack of Information available on The Web Site. Megger shall have no liability for:
+
+
+Any loss or injury caused, in whole or in part, by its actions, omissions, or negligence, or for contingencies beyond its control, in procuring, compiling, or delivering the Information;
+
+
+Any errors, omissions, or inaccuracies in the Information regardless of how caused, or delays or interruptions in delivery of the Information; or
+
+
+Any decision made or action taken or not taken in reliance upon the Information furnished hereunder.
+
+
+Megger makes no warranty, representation or guaranty as to the content, sequence, accuracy, timeliness or completeness of the Information or that the Information may be relied upon for any reason. Megger makes no warranty, representation or guarantee that the Information will be uninterrupted or error free or that any defects can be corrected.
+
+
+Limitation of liability
+
+
+Under no circumstances shall Megger be liable for any losses or damages whatsoever, whether in contract, tort or otherwise, from the use of, or reliance on, the Information, or from the use of the Internet generally.
+
+
+General Statements for the Megger UK Website
+WEEE
+
+
+The European Directive 2002/96/EC (as amended) on waste electrical and electronic equipment (WEEE) came into force in February 2003. The purpose of this directive is minimise the environmental impact of WEEE and to encourage its separate collection, subsequent treatment, reuse, recovery, recycling and environmentally sound disposal.
+
+
+Electrical and electronic equipment should never be disposed with general waste collections but must be separately collected for their proper treatment and recovery. The crossed out wheeled bin placed on Megger products is a reminder to dispose of the product correctly at the end of its life.
+
+
+Users of Megger products within the UK may dispose of them at the end of their useful life by contacting B2B Compliance at www.b2bcompliance.org.uk or by telephone on 01691 676124.
+
+
+Megger is registered in the UK as a Producer of Electrical and Electronic Equipment. The Registration No is WEE/HE0146QT
+
+
+Users of Megger products in other parts of the EU should contact their local distributor.
+
+
+RoHS
+
+
+The European Directive 2002/95/EC (as amended) on the restriction of the use of certain hazardous substances in electrical and electronic equipment (RoHS) came into force in February 2003. The purpose of this directive is to restrict the use of lead, cadmium, mercury, hexavalent chromium, polybrominated biphenyls and polybrominated diphenyl ethers, thereby contributing to the protection of human health and the environment.
+
+
+The products produced by Megger are classified as Category 9, Monitoring and Control Products, and as such are not included within the scope of the RoHS Directive. Nevertheless, Megger is continually striving to exclude the restricted substances from its products whilst not compromising safety and reliability.
+
+
+Batteries
+
+
+The European Directive 2006/66/EC on batteries and accumulators and waste batteries and accumulators came into force in September 2006. It seeks to improve the environmental performance of batteries and accumulators and of the activities of all economic operators involved in the life cycle of batteries and accumulators, e.g. producers, distributors and end-users and, in particular, those operators directly involved in the treatment and recycling of waste batteries and accumulators.
+Megger is registered in the UK as a producer of batteries.
+The Registration number is BPRN00142.
+
+
+Copyright and trademark notices
+
+
+Copyright (c) Megger Group Limited. and/or its licensors, 2014, all rights reserved.
+
+
+AVO, Biddle, BITE, DLRO, Ducter, Evershed and Vignoles, Foster, Megger, Metrosonics, Multi-AMP, States and the Megger logotype are the trademarks or registered trademarks of Megger Group Limited and or its subsidaries. Before using any Megger logotype or trademark, please review Megger's Trademark Usage Policy.
+
+
+Copyright infringement notification procedure
+
+
+Refer issues relating to claims for possible copyright infringement to
+
+
+Megger Group Limited Archcliffe Road Dover Kent CT17 9EN
+T +44 (0) 1304 502100
+F +44 (0) 1304 502141
+E Legal@megger.com
+
+
+A notification of claimed infringement related to any of the Megger Properties must be a written communication addressed as set forth above, and must include substantially all of the following:
+
+
+A physical or electronic signature of the owner (or person authorized to act on behalf of the owner) of an exclusive right that is allegedly infringed;
+
+
+Specific identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted works are covered by a single notification, a list of each copyrighted work claimed to have been infringed;
+
+
+Information related to the work(s) reasonably sufficient for Megger to promptly locate the work (e.g. title of work, location within the Megger Properties, etc.);
+
+
+Information reasonably sufficient to permit Megger to directly contact the complaining party, such as a complete name and address, telephone number, and an email address;
+
+
+A statement that the complaining party has a good faith belief that use of the work(s) in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+
+
+A statement requesting that Megger take a specific act with respect to the alleged infringement (e.g., removal, access restricted or disabled); and
+
+
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+If you have any questions or any queries with regard to this legal notice please contact Megger by e-mail at Legal@megger.com.
+
+
+Megger Group Limited, Registered in England and Wales Number 2582519, Registered office Archcliffe Road, Dover, Kent CT17 9EN
+
+
+Megger Website Information
+https://mft-x1.megger.com/
+Hero Section
+* MFT-X1
+   * Multifunction tester
+   * Designed for the electrical testing of single and 3-phase installations.
+   * Brand new features including full colour screen, RCD configurator and EV charge point testing.
+   * Fully compatible with CertSuite™ for easy certificate generation and reporting.
+   * TrueLoop™ measurement using patented confidence meter.
+   * Never be without power with our quick-remove battery pack and rechargeable battery option.
+Features Section
+* The MFT-X1 introduces our first generation of platform based, user upgradeable MFTs, to add to the existing Megger MFT1700 range of multifunction testers. It has been designed and manufactured at our Dover factory in the UK, incorporating a host of new features based on years of customer input.
+* With the MFT-X1, we now offer True Loop™, our industry leading loop impedance test with patented Confidence Meter™ technology, full CertSuite™ compatibility - to make certificate generation a breeze - high resolution loop testing, stabilised insulation voltage output, full colour screen and new operator interface are now standard.
+* The user upgradeable operating software ensures the MFT-X1 has the ability to adapt to regulation changes and make it the perfect instrument for fast, reliable, accurate and adaptable testing.
+* Intended for use on all low voltage electrical installations including EV charge points and domestic photo-voltaic systems, the range of test capabilities allow for general commissioning of installations and periodic maintenance as well as detailed fault diagnostics.
+Keep Working Section
+* MFT-X1 Firmware
+   * You can update the MFT-X1 when a new firmware release is available. The firmware releases are listed below with date released and summary of additional features.
+   * Check the firmware revision of your MFT-X1 by selecting the "Settings" mode on the instrument and using the right arrow button to select "INST". The GUI and measurement versions are displayed. If a more recent firmware revision is available on this page, it can be downloaded to a microSD card as below.
+   * Firmware releases:
+      * Firmware version: 3.0.1
+      * Date: 01-05-2023
+      * New auto-start loop impedance test and bi-directional continuity
+https://megger.com/multifunction-tester-mft-x1
+* MFT-X1
+   * Multifunction tester
+   * Designed for the electrical testing of single and 3-phase installations.
+   * Brand new features including full colour screen, RCD configurator and EV charge point testing.
+   * Fully compatible with CertSuite™ for easy certificate generation and reporting.
+   * TrueLoop™ measurement using patented confidence meter.
+   * Never be without power with our quick-remove battery pack and rechargeable battery option.
+Features Section
+* The MFT-X1 introduces our first generation of platform based, user upgradeable MFTs, to add to the existing Megger MFT1700 range of multifunction testers. It has been designed and manufactured at our Dover factory in the UK, incorporating a host of new features based on years of customer input.
+* With the MFT-X1, we now offer True Loop™, our industry leading loop impedance test with patented Confidence Meter™ technology, full CertSuite™ compatibility - to make certificate generation a breeze - high resolution loop testing, stabilised insulation voltage output, full colour screen and new operator interface are now standard.
+* The user upgradeable operating software ensures the MFT-X1 has the ability to adapt to regulation changes and make it the perfect instrument for fast, reliable, accurate and adaptable testing.
+* Intended for use on all low voltage electrical installations including EV charge points and domestic photo-voltaic systems, the range of test capabilities allow for general commissioning of installations and periodic maintenance as well as detailed fault diagnostics.
+Keep Working Section
+* MFT-X1 Firmware
+   * You can update the MFT-X1 when a new firmware release is available. The firmware releases are listed below with date released and summary of additional features.
+   * Check the firmware revision of your MFT-X1 by selecting the "Settings" mode on the instrument and using the right arrow button to select "INST". The GUI and measurement versions are displayed. If a more recent firmware revision is available on this page, it can be downloaded to a microSD card as below.
+   * Firmware releases:
+      * Firmware version: 3.0.1
+      * Date: 01-05-2023
+      * New auto-start loop impedance test and bi-directional continuity
+
+
+"https://mft-x1.megger.com/#specifications-section"
+{
+  "data": "HomeFeaturesKeepWorkingGalleryIntheboxVideosContact UsThe new MFT-X1Made with you in mindCTALearn More\n\n\n/* From uiverse.io by @Cornerstone-04 */\n.btn-learn {\n  cursor: pointer;\n  background: transparent;\n  position: relative;\n  display: inline-block;\n  padding: 15px 30px;\n  outline: none;\n  border: 2px solid #e30613;\n  margin: 40px;\n  width: 250px;\n  height: 60px;\n  text-transform: uppercase;\n  font-weight: 900;\n  text-decoration: none;\n  letter-spacing: 2px;\n  color: #000 !important;\n  -webkit-box-reflect: below 0px linear-gradient(transparent, #0002);\n  transition: 0.45s;\n  transition-delay: 0s;\n}\n\n/*button:hover {\n  transition-delay: 1.5s;\n  color: #000;\n  box-shadow: 0 0 10px #e30613,\n                0 0 20px #e30613,\n                0 0 40px #e30613, \n                0 0 80px #e30613, \n                0 0 100px #e30613;\n}*/\n\n.btn-learn span {\n  position: relative;\n  z-index: 100;\n}\n\n.btn-learn::before {\n  content: \"\";\n  position: absolute;\n  left: -20px;\n  top: 50%;\n  transform: translateY(-50%);\n  width: 20px;\n  height: 2px;\n  background: #e30613;\n  box-shadow: 5px -8px 0 #e30613, \n              5px 8px 0 #e30613;\n  transition: width 0.5s, \n              left 0.5s, \n              height 0.5s, \n              box-shadow 0.5s;\n  transition-delay: 1s, 0.5s, 0s, 0s;\n}\n\n.btn-learn:hover::before {\n  width: 60%;\n  height: 100%;\n  /* right: -2px; */\n  left: -2px;\n  box-shadow: 5px 0 0 #e30613, \n              5px 0 0 #e30613;\n  transition-delay: 0s, 0.5s, 1s, 1s;\n}\n\n.btn-learn::after {\n  content: \"\";\n  position: absolute;\n  right: -20px;\n  top: 50%;\n  transform: translateY(-50%);\n  width: 20px;\n  height: 2px;\n  background: #e30613;\n  box-shadow: -5px -8px 0 #e30613, \n              -5px 8px 0 #e30613;\n  transition: width 0.5s, right 0.5s, height 0.5s, box-shadow 0.5s;\n  transition-delay: 1s, 0.5s, 0s, 0s;\n}\n\n.btn-learn:hover::after {\n  width: 60%;\n  height: 102%;\n  right: -2px;\n  box-shadow: -5px 0 0 #e30613, -5px 0 0 #e30613;\n  transition-delay: 0s, 0.5s, 1s, 1s;\n}\n\n\n\nThe new MFT-X1Made with you in mindLearn MoreThe MFT-X1 will be available early 2023\n\n.settings-icon-1{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-2{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-3{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-4{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-5{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-6{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-7{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-8{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-9{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n.settings-icon-10{\n\tclip-path: polygon(20% 0, 80% 0, 100% 97%, 90% 100%, 10% 100%, 0 98%);\n}\n\ndiv[class^='settings'] {\n    z-index: 20;\n}\n.clipping-cap,\n.indicator {\n\tpointer-events: none;\n}\n\n\n@media only screen and (max-width: 1200px) {\n .clipping-tool-grid {\n \tgrid-template-columns: minmax(200px, 1fr) 700px;\n }\n .tools-screenshots {\n \tdisplay: none;\n }\n}\n\n@media only screen and (max-width: 767px) {\n .clipping-tool-grid {\n \tgrid-template-columns: 1fr 1fr;\n }\n .tools-screenshots {\n \tdisplay: none;\n }\n}\nFeaturesData handlingNot currently implementedEarth resistanceImplementing a two-wire method for acquiring the resistance of earth/ground stakes in a TT earth installation to insure compliance.RCDCapture the trip time and current of RCDs, RCBOs, and RDCs individually or using the unique customer-configurable auto-sequence table.Loop impedanceEnables the acquisition of impedances on live electrical circuits using Megger's true loop technology and the patented confidence meter for fast, stable, and consistent results on standard and RCD-protected circuits down to 0.001 ohms.OffCompletely shuts the system down, avoiding accidentally switching the instrument on in transit.AC/DC/TRMS VoltageThe ability to acquire AC or DC voltages and frequency across a wide spectrum of applications, especially single and three-phase AC supplies and phase sequencing.Non-contact current measurementMeasurement of current in live conductors using a current clamp, avoiding the need for direct contact with hazardous circuits.Continuity measurementUsed to ensure individual cable resistances meet the minimum value required to ensure the correct operation of circuit-protected devices such as MCBs.Insulation testFor confirming that the insulation resistance between the circuit conductors and the earth/ground meet the minimum requirements defined by the electrical testing standards.Instrument settingsThis section allows you to configure and save basic settings such as date and time, as well as specific settings for individual measurements.New interfaceNot only have we redesigned the physical interface of the product for ease of use, we've created a more intuitive working experience. Enhancing the colour coded test selection rotary dial, range selection is now replicated on the instrument screen, ensuring easy use in poor lighting environments.ReportingSave yourself hours of operational work by combining the MFTX1 with Certsuite™, which makes reporting and certificating whilst on the job a breeze! Test results can be transferred directly to any test certificate or report via the CertSuite™ App.UpgradesThe MFT-X1 is just the start! Using a standard microSD card, you will be able to remotely upgrade firmware and other features without having to purchase a new unit.True Loop™True Loop™ impedance testing is now a standard feature on the MFT-X1. The latest 3-wire non-trip loop testing technology, incorporated with the patented Confidence Meter™, offers an unmatched, reliable, accurate, stable and repeatable loop test solution.High resolutionThe MFT-X1 now includes a high resolution, high current, 2-wire loop impedance test that, with the integration of the Confidence Meter™, provides accurate measurements down to 0.001Ω resolution, with PFC/PSCC current calculation up to 50 kA.Stabilised insulationFor the first time in any multifunction tester, the MFT-X1 incorporates a stabilised insulation test voltage, ensuring output voltage is accurate to within +/-3% +2 digits. This compares to the industry standard of +20%.FeaturesNew interfaceNot only have we redesigned the physical interface of the product for ease of use, we've created a more intuitive working experienceReportingSave yourself hours of operational work by combining the MFTX1 with Certsuite™, which makes reporting and certificating whilst on the job a breeze! Test results can be transferred directly to any test certificate or report via the CertSuite™ App.UpgradesThe MFT-X1 is just the start! Using a standard microSD card, you will be able to remotely upgrade firmware and other features without having to purchase a new unit.True Loop™True Loop™ impedance testing is now a standard feature on the MFT-X1. The latest 3-wire non-trip loop testing technology, incorporated with the patented Confidence Meter™, offers an unmatched, reliable, accurate, stable and repeatable loop test solution.High resolutionThe MFT-X1 now includes a high resolution, high current, 2-wire loop impedance test that, with the integration of the Confidence Meter™, provides accurate measurements down to 0.001Ω resolution, with PFC/PSCC current calculation up to 50 kA.Stabilised insulationFor the first time in any multifunction tester, the MFT-X1 incorporates a stabilised insulation test voltage, ensuring output voltage is accurate to within +/-3% +2 digits. This compares to the industry standard of +20%.\nWe've listened to youHear our industry experts talk about how we've listened to your feedback and created some brand new features for the MFT-X1, whilst keeping some of your favourite elements.Contact UsWe've listened to youHear our industry experts talk about how we've listened to your feedback and created some brand new features for the MFT-X1, whilst keeping some of your favourite elements.Contact Us\nKeep the work going...With new battery release technology we've made it easier than ever to swap between battery units, meaning you'll never have to wait for a charge.{\n  \"items\": [\n    {\n      \"url\": \"https://youtube.com/watch?v=IVy1N9ncCEE\",\n      \"originalUrl\": \"https://youtube.com/watch?v=IVy1N9ncCEE\",\n      \"width\": 940,\n      \"height\": 528,\n      \"thumbnailUrl\": \"http://i.ytimg.com/vi/IVy1N9ncCEE/hqdefault.jpg\",\n      \"html\": \"<iframe class=\\\"embedly-embed\\\" src=\\\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIVy1N9ncCEE&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIVy1N9ncCEE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FIVy1N9ncCEE%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\\\" width=\\\"940\\\" height=\\\"528\\\" scrolling=\\\"no\\\" title=\\\"YouTube embed\\\" frameborder=\\\"0\\\" allow=\\\"autoplay; fullscreen\\\" allowfullscreen=\\\"true\\\"></iframe>\",\n      \"type\": \"video\"\n    }\n  ],\n  \"group\": \"\"\n}\n{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-8.jpg\",\n      \"fileName\": \"image-8.jpg\",\n      \"fileSize\": 89217,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512f2e847636af176347fb_image-8.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-1.jpg\",\n      \"fileName\": \"image-1.jpg\",\n      \"fileSize\": 71918,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63511dabf0a0838371e7a2fb_image-1.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-2.jpg\",\n      \"fileName\": \"image-2.jpg\",\n      \"fileSize\": 69234,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63511e2bd248bd15738048ed_image-2.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-3.jpg\",\n      \"fileName\": \"image-3.jpg\",\n      \"fileSize\": 64756,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63511fcbf0a08309ece7c2a3_image-3.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-4.jpg\",\n      \"fileName\": \"image-4.jpg\",\n      \"fileSize\": 66144,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512205749c2eb380c09b87_image-4.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-12.jpg\",\n      \"fileName\": \"image-12.jpg\",\n      \"fileSize\": 105492,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635132f96f4d06111c8dd85c_image-12.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-17.jpg\",\n      \"fileName\": \"image-17.jpg\",\n      \"fileSize\": 58466,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6351364ab7a87e10e26ba1b2_image-17.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-28.jpg\",\n      \"fileName\": \"image-28.jpg\",\n      \"fileSize\": 62314,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6352306082b496518daf986e_image-28.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-16.jpg\",\n      \"fileName\": \"image-16.jpg\",\n      \"fileSize\": 61332,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635135a8b6cfd1f7c1f4900b_image-16.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-13.jpg\",\n      \"fileName\": \"image-13.jpg\",\n      \"fileSize\": 94919,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63513350b53d57f9c0045de7_image-13.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-18.jpg\",\n      \"fileName\": \"image-18.jpg\",\n      \"fileSize\": 70617,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635136ec16d52778512e0eca_image-18.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-19.jpg\",\n      \"fileName\": \"image-19.jpg\",\n      \"fileSize\": 65999,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6351382c6de2a5b17c8333c9_image-19.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-20.jpg\",\n      \"fileName\": \"image-20.jpg\",\n      \"fileSize\": 62343,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635138e34e84aa3e5362932d_image-20.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-21.jpg\",\n      \"fileName\": \"image-21.jpg\",\n      \"fileSize\": 79847,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6351394c089b4c657fe46f6b_image-21.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-23.jpg\",\n      \"fileName\": \"image-23.jpg\",\n      \"fileSize\": 65574,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63522bd3bf04967cab0afb38_image-23.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-25.jpg\",\n      \"fileName\": \"image-25.jpg\",\n      \"fileSize\": 118242,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63522d49ed30bf019d4f8a22_image-25.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-14.jpg\",\n      \"fileName\": \"image-14.jpg\",\n      \"fileSize\": 119601,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635133b5749c2e54e8c1aada_image-14.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-15.jpg\",\n      \"fileName\": \"image-15.jpg\",\n      \"fileSize\": 113947,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63513460e13aa79862951c64_image-15.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-30.jpg\",\n      \"fileName\": \"image-30.jpg\",\n      \"fileSize\": 109830,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635230c181aee9c73a2b283c_image-30.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"MFTX1-App-2.jpg\",\n      \"fileName\": \"MFTX1-App-2.jpg\",\n      \"fileSize\": 86107,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63511737089b4ccb74e258e4_MFTX1-App-2.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-5.jpg\",\n      \"fileName\": \"image-5.jpg\",\n      \"fileSize\": 69896,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512d8bac54424ae4ac8403_image-5.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-6.jpg\",\n      \"fileName\": \"image-6.jpg\",\n      \"fileSize\": 50778,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512e20e13aa728b994c6db_image-6.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-7.jpg\",\n      \"fileName\": \"image-7.jpg\",\n      \"fileSize\": 46863,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512ea1db716115c429746b_image-7.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-9.jpg\",\n      \"fileName\": \"image-9.jpg\",\n      \"fileSize\": 101782,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63512febb4726142a41d268a_image-9.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-10.jpg\",\n      \"fileName\": \"image-10.jpg\",\n      \"fileSize\": 54583,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6351313013c86927956c82b3_image-10.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"MFT Gallery\"\n}What's in the box?{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-29.jpg\",\n      \"fileName\": \"image-29.jpg\",\n      \"fileSize\": 84754,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/635230a226d362380e777d31_image-29.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-22.jpg\",\n      \"fileName\": \"image-22.jpg\",\n      \"fileSize\": 78532,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63513a9dda5bce98cc168c5d_image-22.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-31.jpg\",\n      \"fileName\": \"image-31.jpg\",\n      \"fileSize\": 73400,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6360faaf2fdfd683744b9cb9_image-31.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-24.jpg\",\n      \"fileName\": \"image-24.jpg\",\n      \"fileSize\": 64741,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/63522cd81a03674bc38b9653_image-24.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"\"\n}{\n  \"items\": [\n    {\n      \"_id\": \"example_img\",\n      \"origFileName\": \"image-32.jpg\",\n      \"fileName\": \"image-32.jpg\",\n      \"fileSize\": 104739,\n      \"height\": 800,\n      \"url\": \"https://assets.website-files.com/634cd99b3e23cc6c25d6f8bc/6360fac61e9ac2334f3bb9a9_image-32.jpg\",\n      \"width\": 1200,\n      \"type\": \"image\"\n    }\n  ],\n  \"group\": \"\"\n}Battery\n\t\n\n  \t\n    \tEV Charge points \n    \n\n\n\n/* From uiverse.io by @alexruix */\n.card-new {\n width: 350px;\n height: 270px;\n padding: .8em;\n background-color: #fff;\n position: relative;\n overflow: visible;\n box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);\n}\n\n.card-img {\n /*background-color: #ededed;*/\n height: 60%;\n width: 100%;\n /*border-radius: .5rem;*/\n transition: .3s ease;\n}\n\n.card-info {\n padding-top: 12%;\n}\n\nsvg {\n width: 20px;\n height: 20px;\n}\n\n.card-footer {\n width: 100%;\n display: flex;\n justify-content: space-between;\n align-items: center;\n padding-top: 10px;\n border-top: 1px solid #ddd;\n}\n\n/*Text*/\n.text-title {\n font-weight: 900;\n font-size: 1.7em;\n line-height: 1.5;\n text-align: center;\n}\n\n.text-body {\n font-size: 1em;\n padding-bottom: 10px;\n text-align: center;\n}\n\n/*Button*/\n.card-button {\n border: 1px solid #252525;\n display: flex;\n padding: .3em;\n cursor: pointer;\n border-radius: 50px;\n transition: .3s ease-in-out;\n}\n\n/*Hover*/\n.card-img:hover {\n transform: translateY(-25%);\n/* box-shadow: rgb(226 63 63 / 25%) 0px 13px 47px -5px, rgb(255 2 2 / 30%) 0px 8px 16px -8px;*/\n}\n\nCertSuite™\n\t\n\n  \t\n    \tCertSuite™ \n    \n\n\n\n/* From uiverse.io by @alexruix */\n.card-new {\n width: 350px;\n height: 270px;\n padding: .8em;\n background-color: #fff;\n position: relative;\n overflow: visible;\n box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);\n}\n\n.card-img {\n /*background-color: #ededed;*/\n height: 60%;\n width: 100%;\n /*border-radius: .5rem;*/\n transition: .3s ease;\n}\n\n.card-info {\n padding-top: 12%;\n}\n\nsvg {\n width: 20px;\n height: 20px;\n}\n\n.card-footer {\n width: 100%;\n display: flex;\n justify-content: space-between;\n align-items: center;\n padding-top: 10px;\n border-top: 1px solid #ddd;\n}\n\n/*Text*/\n.text-title {\n font-weight: 900;\n font-size: 1.7em;\n line-height: 1.5;\n text-align: center;\n}\n\n.text-body {\n font-size: 1em;\n padding-bottom: 10px;\n text-align: center;\n}\n\n/*Button*/\n.card-button {\n border: 1px solid #252525;\n display: flex;\n padding: .3em;\n cursor: pointer;\n border-radius: 50px;\n transition: .3s ease-in-out;\n}\n\n/*Hover*/\n.card-img:hover {\n transform: translateY(-25%);\n/* box-shadow: rgb(226 63 63 / 25%) 0px 13px 47px -5px, rgb(255 2 2 / 30%) 0px 8px 16px -8px;*/\n}\n\nInterface\n\t\n\n  \t\n    \tTrue Loop™ \n    \n\n\n\n/* From uiverse.io by @alexruix */\n.card-new {\n width: 350px;\n height: 270px;\n padding: .8em;\n background-color: #fff;\n position: relative;\n overflow: visible;\n box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);\n}\n\n.card-img {\n /*background-color: #ededed;*/\n height: 60%;\n width: 100%;\n /*border-radius: .5rem;*/\n transition: .3s ease;\n}\n\n.card-info {\n padding-top: 12%;\n}\n\nsvg {\n width: 20px;\n height: 20px;\n}\n\n.card-footer {\n width: 100%;\n display: flex;\n justify-content: space-between;\n align-items: center;\n padding-top: 10px;\n border-top: 1px solid #ddd;\n}\n\n/*Text*/\n.text-title {\n font-weight: 900;\n font-size: 1.7em;\n line-height: 1.5;\n text-align: center;\n}\n\n.text-body {\n font-size: 1em;\n padding-bottom: 10px;\n text-align: center;\n}\n\n/*Button*/\n.card-button {\n border: 1px solid #252525;\n display: flex;\n padding: .3em;\n cursor: pointer;\n border-radius: 50px;\n transition: .3s ease-in-out;\n}\n\n/*Hover*/\n.card-img:hover {\n transform: translateY(-25%);\n/* box-shadow: rgb(226 63 63 / 25%) 0px 13px 47px -5px, rgb(255 2 2 / 30%) 0px 8px 16px -8px;*/\n}\n\nContact usHow can we help?Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.Site LinksContact usCookie policyLegalModern Slavery ActPrivacy policySitemapSocialsCopyright © new Date().getFullYear()>2015&&document.write(\"\"+new Date().getFullYear());, Megger. All Rights Reserved.Site LinksContact usCookie policyLegalModern Slavery ActPrivacy policySitemapSocialsCopyright © new Date().getFullYear()>2015&&document.write(\"\"+new Date().getFullYear());, Megger. All Rights Reserved.Product InfoThe MFT-X1 will be available early 2023We use cookies to provide you with a better experience. Read more on our cookie policy.Allow EssentialAccept\n\thtml {\n  \toverflow: hidden;\n    overflow-y: auto;\n  }\n  \n  @media only screen and (max-width: 991px) and (min-width: 768px)  {\n  \t.section-cliping-tools {\n    \tpadding-top: 0;\n    }\n    .btn-learn {\n    \twidth: 180px;\n      margin-top: 20px;\n    }\n    .hero-section {\n    \theight: 45vh;\n    }\n  }\n\n\t// default time is 182 days\n  flowBaseCookie('#cookieBlock', '#accept', '#clr', 30);\n"
+}
+"Specifications" section of the Megger MFT-X1 website. Here's the information:
+
+
+General Specifications
+
+
+Safety: IEC 61010-1, IEC 61010-2-030, IEC 61010-2-033, 600 V CAT IV
+Power Supply: 6 x AA alkaline batteries (IEC LR6), NiMH rechargeable batteries (IEC HR6 / KR6)
+Dimensions: 200 mm x 140 mm x 75 mm (7.87 in x 5.51 in x 2.95 in)
+Weight: 1 kg (2.2 lbs) including batteries
+IP Rating: IP54 (lid closed), IP40 (lid open)
+Display: 240 x 320 pixels, colour TFT display
+Warranty: 3 years
+Measurement Specifications
+
+
+Continuity Testing: 200 mA test current, 0.01 Ω to 99.9 Ω range
+Insulation Resistance: 250 V, 500 V, 1000 V test voltages, 10 kΩ to 999 MΩ range
+Loop Impedance: 0.01 Ω to 1.999 kΩ range, PSCC and PFC 20 kA max
+RCD Testing: 10 mA to 1000 mA rated trip current, 0 ms to 2000 ms trip time
+Voltage Measurement: 10 V to 600 V TRMS 16 Hz to 400 Hz
+Environmental Specifications
+
+
+Operating Temperature: -10°C to 55°C (14°F to 131°F)
+Storage Temperature: -25°C to 70°C (-13°F to 158°F)
+Humidity: 93 % RH at 40°C (104°F) max
+Altitude: Up to 2000 m
+Compliance and Standards
+
+
+EMC: In accordance with IEC 61326-1
+LVD: In accordance with IEC 61010-1
+Calibration: Conducted in an ISO 17025 accredited laboratory
+
+
+MFT-X1 Multifunction tester
+
+
+Designed for the electrical testing of single and 3-phase installations.
+Brand new features including a full-color screen, RCD configurator, and EV charge point testing.
+Fully compatible with CertSuite™ for easy certificate generation and reporting.
+TrueLoop™ measurement using patented Confidence Meter™ technology.
+Quick-remove battery pack and rechargeable battery option.
+Description
+
+
+The MFT-X1 introduces Megger's first generation of platform-based, user-upgradeable MFTs, adding to the existing Megger MFT1700 range of multifunction testers.
+Designed and manufactured in the UK, incorporating new features based on years of customer input.
+Offers True Loop™, industry-leading loop impedance test with patented Confidence Meter™ technology.
+Full CertSuite™ compatibility, high-resolution loop testing, stabilized insulation voltage output, full-color screen, and new operator interface are standard.
+User upgradeable operating software ensures adaptability to regulation changes.
+Intended for use on all low voltage electrical installations including EV charge points and domestic photovoltaic systems.
+Suitable for general commissioning of installations, periodic maintenance, and detailed fault diagnostics.
+MFT-X1 Firmware
+
+
+The firmware can be updated when a new release is available.
+The update process installs the new OS from a microSD card.
+The microSD card must be removed from the instrument after the update has been completed.
+Minimum recommended microSD card size is 4 GB and the maximum card size is 32 GB.
+The card must be formatted to the FAT32 format.
+Firmware releases:
+Version 3.0.1 (01-05-2023): New auto-start loop impedance test and bi-directional continuity.
+Related Products
+
+
+CertSuite: Electrical certification software.
+Social Links
+
+
+The company is present on various social media platforms including Facebook, Twitter, YouTube, LinkedIn, Instagram, and Glassdoor.
+Cable fault, test and diagnostics:
+Cable fault and test system vans
+
+
+Centrix Evolution: Flagship system for state-of-the-art cable fault location, cable testing, and cable diagnostics.
+PRIMEON: Centrally controlled and automated cable fault location and cable testing system.
+R 30 test van system: The most powerful cable fault location vehicle.
+High voltage cable fault testing and diagnostics
+
+
+Cable fault location: Complete the steps of the fault location process quickly and safely to minimize downtime for the customer.
+Cable diagnostics: Access all of the information needed to make informed cable management decisions through the stages of the cable’s use.
+Cable test vans: Streamline your on-site condition assessment of cables with a test van equipped with a selection of instruments.
+Telecom/Datacom: Ensure that the physical transmission layer, connectors, and interconnection devices work correctly, and gather essential connectivity information.
+Other Categories (Note: Detailed information for these categories was not provided in the scraped data, but they are listed on the website):
+
+
+Circuit breaker testing
+Electricians' testers
+Instrument transformer testing
+Insulation testing
+Monitoring
+Motor and generator testing
+Relay and protection testing
+Resistance, battery and power quality
+Power transformer testing
+Partial discharge testing
+Water leak detection and monitoring
+Megger's Product Range:
+Cable fault, test, and diagnostics
+
+
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+
+
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on switchgear (AIS/GIS/GIL)
+PD testing on bushings, spacer, and insulators
+Electricians' testers
+
+
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+
+
+
+
+Instrument Transformer Testing:
+Relay and current transformer test set
+
+
+MRCT: A comprehensive test set for testing protection and measurement devices such as relays and transducers.
+VT and CT test set
+
+
+MVCT: A test set designed for testing the excitation characteristics of voltage transformers and the polarity and ratio of current transformers.
+Step-up transformer
+
+
+MAGNUS: A portable system for testing current transformers with a high voltage requirement.
+Current transformer burden ammeter
+
+
+BA-185: Designed to measure the secondary burden of a current transformer.
+Primary current injection test system
+
+
+INGVAR: A highly versatile primary current injection test system for substation equipment testing.
+Primary current injection test system
+
+
+ODEN AT: A powerful test system designed for primary injection testing of protective relay equipment and circuit breakers.
+Multifunction transformer and substation test system
+
+
+TRAX - Multifunction Transformer and Substation Test System: A unique test system for testing power, distribution, and instrument transformers.
+12 kV insulation diagnostic system
+
+
+DELTA4000 series: A fully automatic 12 kV insulation power factor/dissipation factor (tan delta) test set.
+Insulation diagnostic tester
+
+
+IDAX322: An insulation diagnostic instrument that provides measurements in a short time.
+
+
+
+
+Motor and Generator Testing
+Electric motor test and monitoring solutions
+
+
+Baker Instruments’ electric motor analysers fall into three categories:
+Static analysers are used on off-line motors and generators to test motor circuit and insulation condition.
+Dynamic analysers are used for monitoring on-line motors to capture power quality, motor condition, and load issues.
+Electric motor QC systems are designed for motor, generator, and coil manufacturers to test the insulation and other parameters of coils, stators, and armatures rapidly and repeatably in a production context.
+Static Electric Motor Analysers:
+
+
+Automated static motor analyser: ADX
+Static motor analyser: Baker AWA-IV
+Static motor analyser: Baker DX
+For high voltage motor testing: Baker PPX Power Packs
+Rotating machine tester: MTR105
+Dynamic Electric Motor Analysers:
+
+
+Dynamic motor analyser: Baker EXP4000
+On-line motor analysis system: Baker NetEP
+Electric Motor QC Systems:
+
+
+Electric motor quality control system: Baker WinAST
+Traction armature quality control test system: Baker WinTATS
+PD Testing on Motors and Generators:
+
+
+Partial discharge monitoring system: ICMmonitor
+Power Diagnostix - Partial Discharge Measurement Devices ICMsystem: ICMsystem
+About Baker Instruments:
+Baker Instruments is a leading provider of test equipment for the electrical condition monitoring of motors, generators, and coils. They offer comprehensive motor testing solutions to understand the condition of the motor, the power supply, and the load. The business was acquired by Megger from the SKF Group on the 19th August 2018.
+
+
+For sales or product inquiries, they have provided contact details for various regions, including Global Sales Manager and Asia Pacific, Latin America, US Sales Manager, UK, North Europe and Middle East, France, South Europe, and Africa.
+
+
+
+
+From Omicron Electronics:
+
+
+Products:
+CPC 100 - Universal primary injection test set for substation assets
+CMC 356 - Universal relay test set and commissioning tool
+CMC 353 - Universal three-phase relay test set and commissioning tool
+CMC 256plus - High precision relay test set and calibrator
+CMC 430 - Ultra-portable protection test set and calibrator
+CMC 310 - Three-phase relay test set
+CMC 256-6 - High precision relay test set and calibrator
+CMC 850 - Protection test set for IEC 61850
+CMC 256plus - High precision relay test set and calibrator
+CMC 256-6 - High precision relay test set and calibrator
+CMC 850 - Protection test set for IEC 61850
+CMC 256plus - High precision relay test set and calibrator
+CMC 256-6 - High precision relay test set and calibrator
+CMC 850 - Protection test set for IEC 61850
+CMC 256plus - High precision relay test set and calibrator
+CMC 256-6 - High precision relay test set and calibrator
+CMC 850 - Protection test set for IEC 61850
+From Doble Engineering Company:
+
+
+Products:
+F6150sv - Power System Simulator for protection scheme testing and validation
+F6300 - High Power AC Source for advanced relay testing
+F6350 - High Power AC & DC Source for advanced relay testing
+F6150e - Power System Simulator for protection scheme testing and validation
+F6150 - Power System Simulator for protection scheme testing and validation
+F6005 - Power System Simulator for protection scheme testing and validation
+F6015 - Power System Simulator for protection scheme testing and validation
+F6050 - Power System Simulator for protection scheme testing and validation
+F6150sv - Power System Simulator for protection scheme testing and validation
+F6300 - High Power AC Source for advanced relay testing
+F6350 - High Power AC & DC Source for advanced relay testing
+F6150e - Power System Simulator for protection scheme testing and validation
+F6150 - Power System Simulator for protection scheme testing and validation
+F6005 - Power System Simulator for protection scheme testing and validation
+F6015 - Power System Simulator for protection scheme testing and validation
+F6050 - Power System Simulator for protection scheme testing and validation
+
+
+Water Leak Detection and Monitoring
+
+
+Leakage current monitoring: This is a method used to detect and locate leaks in water systems. It involves monitoring the current that leaks from a system and using this information to pinpoint the location of the leak.
+
+
+Acoustic leak detection: This technique uses sound waves to detect leaks in water systems. By listening to the noise generated by a leak, it's possible to determine its location.
+
+
+Tracer gas leak detection: This method involves introducing a tracer gas into a water system and then detecting its presence outside the system. If the gas is detected, it indicates a leak.
+
+
+Correlation leak detection: This technique uses two or more sensors to detect the sound waves generated by a leak. By comparing the time it takes for the sound waves to reach each sensor, it's possible to determine the location of the leak.
+
+
+Ground penetrating radar (GPR): This is a method that uses radar waves to detect leaks in underground water systems. The radar waves can penetrate the ground and reflect off any leaks, allowing them to be detected.
+
+
+Thermal imaging: This technique uses infrared cameras to detect temperature differences in water systems. Since leaks can cause temperature changes, this method can be used to locate them.
+
+
+Data loggers: These are devices that record data over time. They can be used to monitor water systems and detect any anomalies that might indicate a leak.
+
+
+Megger's Solutions for Water Leak Detection
+
+
+Megger offers a range of solutions for detecting and monitoring water leaks in various applications. These solutions are designed to provide accurate and reliable results, helping industries prevent damage and loss.
+
+
+Applications
+
+
+Industrial Plants: Water leaks can cause significant damage to machinery and equipment in industrial plants. Megger's solutions help detect leaks early, preventing costly repairs and downtime.
+
+
+Municipal Water Systems: Water leaks in municipal systems can lead to loss of valuable resources and increased costs. Megger's solutions help municipalities detect and address leaks efficiently.
+
+
+Commercial Buildings: Water leaks in commercial buildings can lead to structural damage and increased maintenance costs. Megger's solutions help building owners and managers detect and address leaks early.
+
+
+Residential Buildings: Water leaks in residential buildings can lead to property damage and increased utility bills. Megger's solutions help homeowners detect and address leaks efficiently.
+
+
+Benefits of Using Megger's Solutions
+
+
+Accurate Detection: Megger's solutions provide accurate detection of water leaks, ensuring that industries can take timely action to prevent damage.
+
+
+Reliable Monitoring: With Megger's solutions, industries can monitor water leaks continuously, ensuring that any issues are addressed promptly.
+
+
+Cost-Effective: By detecting and addressing water leaks early, industries can avoid costly repairs and loss of resources.
+
+
+Easy to Use: Megger's solutions are user-friendly, making it easy for industries to implement and use them effectively.

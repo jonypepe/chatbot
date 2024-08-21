@@ -1,0 +1,617 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+May 2023
+Coupling Capacitor Voltage Transformers (CCVTs)
+Coupling Capacitor Voltage Transformers (CCVTs)
+05 May 2023
+Author: Volney Naranjo
+Introduction
+Instrument transformers perform the important function of providing windows on the power grid’s electrical behaviour. Protection, control, and measuring devices require these ‘windows’ yet they also need electrical isolation from the grid as they function at much lower voltages and currents. Instrument transformers provide the solution; they are go-betweens that provide isolation by magnetically coupling secondary monitoring and measuring devices to the grid. There are several types of instrument transformers, but one of the most common on higher voltage transmission systems is the coupling capacitor voltage transformer (CCVT).
+CCVTs are devices capable of dual function. One function they can perform is to provide highly accurate voltage conversion for measuring devices, protection relays, and automatic control systems, while the other is to couple high-frequency power-line carrier (PLC) signals onto the transmission system for communication and control purposes.
+CCVT construction
+In terms of construction, a CCVT is both a capacitor voltage divider (CVD), and an electromagnetic unit. The capacitor divider is an assembly of capacitor elements that steps down the primary high or extra high voltage to an intermediate voltage level (typically 5 to 20 kV) and the electromagnetic unit (EMU) steps the voltage further down to the required output level, which is usually below 120 V. The EMU typically incorporates trimming windings to ensure that the required levels of accuracy are achieved.
+Essentially a CVD is composed of two capacitors, C1 and C2, although in practice C1 either may be made up of a single capacitor stack or several capacitor stacks connected in series. When there are several stacks, these are designated C1-1, C1-2, etc., or in infrequent cases, B1, B2, etc. Every CVD has, as a minimum, a C2 and a C1-1 (or B1) capacitor. When only these two capacitors are present, the CCVT is referred to a single-unit or single-stack device. The C1-1 capacitor is located directly above the C2 in the bottom-most housing (insulator) of the device, and the appearance of the CCVT resembles a terminal box with an insulator on top. A two-unit CCVT, where C1 is made up of C1-1 and C1-2, has two insulators with C1-2 in the top insulator and C1-1 and C2 in the bottom insulator; a three-unit CCVT has three insulators with C1-3 in the top insulator, C1-2 in the middle insulator, and C1-1 and C2 in the bottom insulator, and so on.
+The EMU, in addition to an inductive voltage transformer, contains a tuning circuit and protection against ferroresonance (Figure 1). The tuning circuit is a reactor that compensates for magnitude errors and phase shift caused by the CVD, making it possible to have the CCVT with a characteristic on the secondary side that is similar, in terms of error and phase deviation, to that of a purely inductive voltage transformer.
+Figure 1: Typical CCVT circuit diagram
+In some circumstances, the CVD capacitive reactance can resonate with the magnetizing reactance of the inductive voltage transformer and the compensating reactor cores. This unwanted effect is called ferro-resonance and can give rise to large and damaging voltages across the inductive and capacitive elements. To avoid this, a ferroresonance damping circuit is installed in parallel with one of the secondary windings.
+Testing CCVTs
+Compared with purely inductive voltage transformers, at voltages of approximately 72 kV and above, CCVTs are lower cost components. Therefore, if replacement cost was the only consideration, extensive testing would be hard to justify. However, single or multiple failures can occur in the capacitor stack causing a decrease in ratio and an increase in phase error. Degradation of the dielectric in the capacitor stack can also lead to a catastrophic equipment explosion. The EMU can suffer degradation because of aging, exposure to vibration, or for other reasons, resulting in reduced accuracy or insulation failure. As an aid to guarding against these eventualities, testing is fully justified. Various test techniques, as described in the following sections, can be used.
+Insulation tests
+Capacitance and line frequency power factor (PF) measurements should be made routinely on CCVTs. Insulation power factor tests are most informative when the amount of insulation included in the test is minimised. For this reason, tests are performed on each individual component of the CVD (e.g., C1-1, C1-2, …, and C2). Typical overall PF values range from 0.2 % to 0.5 %, but power factor values under 0.05 % are normal depending on the insulating materials used for construction.
+C2 testing is generally thought to be more difficult because isolating the C2 component is not always straightforward. C2 is ‘bookended’ by a potential terminal and a carrier terminal. The carrier terminal, located in the ‘terminal box’ (when available), provides access to the bottom of C2. This terminal, labeled ‘HF’ by some manufacturers, is identifiable and easy to access in most CCVTs. This is not always true of the potential terminal, which is located between C2 and C1 (or between C2 and C1-1 for multi-stack CCVTs).
+On older style CCVTs, the potential terminal is typically accessible. However, for modern CCVTs such as those supplied by Trench, the potential terminal is inaccessible. Even in these cases, however, C2 can still be tested. CCVTs have a potential ground switch that provides the means to ground the potential terminal. With the potential ground switch closed, the carrier terminal can be energised, a low voltage lead connected to the line terminal (top of C1), and a C2 test performed in the GST-guard mode. Note that the carrier terminal must be disconnected and isolated from ground potential and the drain coil (also, if applicable, from any accessory leads) for the C2 test. In addition, the test voltage (typically 500 V) used to energise the carrier terminal must not exceed the voltage rating of the terminal. In summary:
+Carrier output terminal to be disconnected from ground
+Grounding switch: CLOSED
+Carrier assembly ground switch: OPEN
+Test mode: GSTg-R
+Maximum test voltage: 2 kV RMS
+Capacitance test results should be compared with nameplate values and to other previous capacitance test results, if available. Unfortunately, such comparisons often result in confusion. The CCVT nameplate, affixed to the base box, frequently provides the rated design capacitance value CN (also called CT). CN for a capacitor divider is the resultant capacitance calculated from the C1 and C2 measurements by using the formula (C1*C2/ (C1+C2)). On Trench CCVTs, CN is found on another smaller nameplate attached to the top of the first (i.e., bottom) stack. This represents the capacitance of the entire bottom stack, or C1-1 in series with C2. It is also important to note that the nameplate data may give design values rather than measured values. This is particularly likely if the nameplate values are round numbers.
+The nameplate typically includes the C2 measured value. However, for a two-unit CCVT, C1-1 and the C1-2 capacitance values may not be shown separately on the nameplate; often just the C 1 capacitance is given. If testing a three-unit CCVT, then the C 1-3 capacitance value may be stamped on another small nameplate affixed on the top-most insulator stack. Capacitance test results should be within 1 % - 2 % of nameplate values and previous measurements.
+'More searching' insulation diagnostics, including narrowband DFR testing, on CCVTs
+The basic insulation tests just described can be usefully augmented by adding PF measurements at different frequencies and a tip-up test. A PF test at 1 Hz specifically, provides a better indicator of developing issues, facilitating early detection. 1 Hz PF is particularly sensitive to moisture contamination, a commonplace CCVT failure mode. Narrowband DFR tests include power factor tests at several discrete frequencies, including 1 Hz up to 505 Hz.
+The tip-up test looks at how the PF value changes as the test voltage increases. If the PF value increases as the voltage increases, this may indicate a mechanical problem in the capacitance stack. Tip-up tests can be performed on the overall stack or, as an aid to localising problems, on the individual capacitors that make up the stack.
+Ratio tests
+A basic ratio test can be carried out by exciting the primary side of the CCVT with a 10 kV source and measuring the secondary voltage with a digital multimeter. However, this supplies no measurement of phase deviation, which is required to validate the accuracy of the CCVT.
+Ratio validation to confirm that the performance of the CCVT matches its nameplate values for ratio and phase accuracy requires the use of specialised test equipment. For this reason, it is not commonly carried out in the field. If validation testing is performed, however, the results should fall within the appropriate accuracy parallelograms given in standards, such as IEEE C57. 13- 2016. One such example is provided in Figure 2, wherein a CCVT is used for metering purposes.
+Testing in practice
+Validation of insulation, ratio and burden at rated voltage requires large and heavy test equipment used in conjunction with expensive instrumentation. For this reason, these tests are commonly used during the manufacture of CCVTs but are impractical in the field. Nevertheless, field measurements of the CCVT burden, as an aid to ensuring that the burden rating of the device is not exceeded, are possible.
+Basic insulation testing, PF tests at 1 Hz, and tip-up testing can be performed with the Megger Delta4000 test set and, with the addition of a DMM, a basic ratio test can be carried out. Ratio validation to an accuracy of ±0.1 % can be carried out with the Delta4000 test set and an accessory. The Megger MRCT test set can also perform basic insulation testing and ratio validation to an accuracy of ±0.1 %, with the added benefit of being able measure the overall burden of the CCVT, thus ensuring that the burden rating has not been exceeded.
+CCVT construction varies between manufacturers, models and year of fabrication. Knowledge of the construction is critical when deciding what and how to test. As mentioned previously, some CCVTs are equipped with a potential grounding switch located below C1, at the intermediate voltage terminal (IVT), and a carrier grounding switch below C2 at the low voltage terminal (LVT), as shown in Figure 3. In some CCVTs, however - mainly modern types - the low voltage terminal may not accessible. Understanding the construction characteristics and location of the IVT and LVT is therefore important when determining appropriate connections for testing and deciding whether the ground switches need to be open or closed for the required measurements to be made.
+Conclusion
+Virtually all modern power networks incorporate CCVTS, and for the continued safe and dependable operation of these networks, it is essential that the CCVTs perform reliably, delivering consistently accurate results. Regular testing is the key to ensuring that this is achieved. As this article has shown, most types of tests can readily be carried out on CCVTs in the field, provided that the construction and configuration of the CCVT is properly understood, and that an appropriate test set is used. Hopefully, this short article has provided insights into both areas but, if further advice or guidance is required, the Megger technical support team will be pleased to help. For contact information, please visit megger.com and choose the dedicated site for your country or location.
+Watch our webinar on 'Test Field Practices for Testing Instrument Transformers - CTS, VTS, CVTS'
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

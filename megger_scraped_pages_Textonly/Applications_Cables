@@ -1,0 +1,308 @@
+Electrical test equipment application solutions from Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Applications
+Cable test
+Cable test
+Electricity networks have had to become more flexible, reacting more quickly to the changes and needs of higher performance. This demand for flexibility is especially true where multiple generation sources occur, such as the intermittent power from renewables like solar and wind energy. While modern SMART grid technology can quickly identify faults in sub-station and generating units, cable faults can still occur anywhere on the network.
+Quickly locating a cable fault
+for repair is the top priority for avoiding lengthy restoration times. In the first place, this will be especially impactful on electrical utility reliability indices. These indices include SAIDI, the System Average Interruption Duration Index, which measures the total duration of an interruption for the average customer during a certain time period, and SAIFI, the System Average Interruption Frequency Index, which is found by dividing the total number of customers interrupted by the total number of customers served.
+Activities centred on cable-related maintenance include:
+Cable fault location
+: where a cable has failed and testing is done to locate the fault
+High voltage testing
+; proof testing (withstand testing) is used to determine whether the cable can withstand an applied test voltage (usually greater than the operating voltage) for a specified period of time without any breakdown of the insulation
+Cable diagnostics
+; predictive testing – used to recognise the aging and general quality of the cable’s overall insulation
+Minimising cable failures
+A cable test program encompasses high voltage testing and diagnostics. The key objective with cable testing and diagnostics is to increase system reliability by preemptively identifying defects in the cable that might result in its eventual failure. One of several additional benefits is the cost: it is more economical to fix defects early rather than repair a cable when it fails. In order to conduct a successful cable test program, the following must be identified
+The goal of the program (e.g. assessing individual circuit reliability or prioritising cable replacement as part of a system-wide upgrade programme)
+Cable types to be tested (PILC, XLPE, EPR, etc.)
+Test methods to be used (some test methods cannot be applied to all types of cables; for example, a DC hi-pot should not be performed on XLPE cable because of the further aging and or damage it can cause.)
+Cable problems can be generally characterised as local or global (e.g. affecting the entire cable span). Local problems include those at terminations, joints and in the insulation itself. A local insulation problem may be caused by a cable weak spot, but can also be man-made. Insulation may also be faulty on a global scale, such as general age related degradation, water trees throughout extruded type cables, etc.
+If planning system-wide cable replacement and attempting to order which cable runs to replace first, one should make a global cable insulation condition assessment. Here the focus is on cable insulation on a macro scale (e.g. how deteriorated is it?). This assessment calls for diagnostic tests. If the cable run tests well, it receives the lowest replacement priority. Should a service failure occur, the it should be repaired and put back into service. On the other hand, if the cable run tests poorly, it receives highest replacement priority. If a service failure occurs, conduct an emergency repair as necessary or ideally replace the cable immediately.
+If assessing individual circuit reliability, this requires both a global insulation condition assessment (to check for a condition that affects the cable insulation throughout, such as general degradation and aging of the cable or water trees) and local condition assessment (such as a critical water tree combined with electrical tree somewhere in the insulation, or a problem with a termination or splice). Global diagnostic methods include Tan Delta measurements and IRC/RVM measurements. Local diagnostic methods include partial discharge (PD) measurements. Depending on the situation either both or only one method is needed. For quality control on newly installed cables it is only recommended to perform a local PD diagnosis. A global diagnosis is not required because the cable insulation is new.
+Cable test
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Get in touch with us
+United Kingdom
+Megger Ltd
+Dover, Kent
+CT17 9EN
+Sales: +44 (0) 1304 502 101
+Technical support: +44 (0) 1304 502 102
+Repairs: +44 (0) 1304 502 243
+T:
++44 (0) 1304 502 101
+E:
+uksales@megger.com
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

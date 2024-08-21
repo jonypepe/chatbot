@@ -1,0 +1,371 @@
+The Big 5
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Testing Set-ups, Sensors, and Sensibility
+June 2020
+The Big 5
+The Big 5
+02 June 2020
+Welcome back loyal blog readers! This week, we’d like to introduce you to the Big 5. Sadly, we’re not talking about the Big 5 Personality Traits, although we’re going to get to those. If you have a lot of extra time on your hands – as many of us do right now – you can google that and take a very, very extensive personality test. No pressure though, it’s seriously very long. And, you already read this blog, so your personality is probably great. But to each their own!
+Anyways, this big 5 is much cooler.
+The Big 5 Critical Motor Tests. Are you as excited as we are?
+To make things even more interested, we’re going to attempt to connect each of the Big 5 Motor Tests to the Big 5 Personality Traits. Wish us luck!
+Let’s get to it.
+Kelvin Resistance Testing - Agreeableness
+If this test was one of the Big 5 personality traits, it would be agreeableness. There’s truly no test as agreeable as this one. If you’re looking for a helpful test with little effort, this is your guy! Plus, the results are never questioned, and the fixes are usually just a crimp away from solution.
+Low Voltage or Kelvin Resistance testing – when performed on motors specifically - is looking for imbalance conditions. Usually, we don’t know what the resistance of a motor should be – since it’s not written on the nameplate – but we do know that it should be balanced.
+So, we use a constant current source and measure the voltage drop across the circuit – at a point of contact – for phase to phase. Then, you’ll get a measurement from each phase to phase test and you can do a few different calculations from there – like calculate individual phase resistance or imbalance. You can either take the deviation from average and divide it by the average or take the maximum minus the minimum measurement and divide that by the average. Either way, you’re going to be looking for a percentage value.
+While there’s no established standard for the balance, we recommend having a balance of less than 3%. Ideally, less than 1% would be your best bet. But keep in mind, motors with concentric windings can have inherently higher imbalances due to their design.
+We should also mention that if you’re comparing values to a standard, you’ll need to temperature correct the value to actually have a meaningful comparison. Typically, 25°C is the common value that temperature is corrected to.
+Nominal DC Testing - Neuroticism
+Moving right along. The DC test – or insulation resistance test – is one you’re probably already familiar with. If for some strange reason, you’ve just stumbled upon the Megger blog, you should know that Megger actually comes from the words megohm-tester, which is just another way of saying insulation tester.
+Now that we’ve got the history covered, let’s talk more about the test.
+This test is typically performed at or around the nameplate voltage, therefore, it’s not intended to be stressful to the insulation. It’s simply an evaluation of the groundwall insulation resistance value, which can then be compared to standards or prior readings. Technically, we aren’t truly measuring the value, we’re calculating it.
+How is it calculated? We’re glad you asked! This test begins with a charging phase – where we increase the voltage to our test voltage. Then, we hold the voltage for one minute, allowing the current to decay, while the insulation polarizes. At the end of one minute, we take the measured voltage, divided by the measured leakage current, to get our calculated resistance value. Make sense?
+If this test was one of the Big 5 personality traits, it would be Neuroticism.
+But not in a bad way. This test is just so fickle about the details of current shape. Polarization index wiggles could indicate moisture or contamination, for example. If your motor is moody, this test will tell you all about it.
+High Voltage DC Testing - Conscientiousness
+Okay, next up – high voltage DC testing, not to be confused with the nominal DC test, alright? Except we are basically using the exact same test. We’re just slowly increasing the voltage up to the level of stress that the motor would experience in its normal life - like when the motor is turned on and off, for example.
+For this test, you’re going to be looking at least at a voltage of twice the line voltage – plus 1,000 volts. For quality testing, you may be pushing this voltage even higher.
+In the realm of high voltage testing, you do have options though. You could run a step voltage test, walking the voltage current up slowly and measuring the resultant leakage current at each of the “steps”. If this response is linear, that’s a great sign – letting you know that the insulation resistance is staying constant throughout the test, despite increases in voltage. Now, if you see a departure from linearity (like an arc), that’s not a great sign for your motor. It is a pretty great indication that your groundwall insulation system is starting to degrade. Sorry, but at least you have time to start looking for a replacement! You’re welcome.
+If High Voltage DC Testing was a Big 5 personality trait, it would totally be conscientiousness. This test loves its set voltage levels and timetables. Preparation is key for this test, as it likes to pay close attention to every detail of voltage and current, along the way.
+Surge Testing - Extraversion
+Almost done. Everyone still with me?
+The surge test is another high voltage test, but it looks at the copper-to-copper insulation, rather than groundwall insulation. By the way, copper-to-copper insulation is anywhere between individual turns in a coil or two adjacent coils in a motor, so we can be referring to either turn-to-turn or phase-to-phase insulation. Don’t let that confuse you!
+So how does the surge test work? Pretty sure, we’ve gone into this on the blog before, but let’s just do it again for good measure. You’ll start by charging a capacitor with a certain amount of energy, which you’re then going to release into the winding. The energy produces a fast-rising impulse that will flow back and forth between the winding and the capacitor producing a decaying sinusoidal wave. After the wave dissipates, we pulse it again at a slightly higher voltages until test voltage is achieved. This produces a non-linear voltage drop across the turns of the winding. If the insulation has be compromised this difference in voltage will cause a change in the inductance of the circuit. The change in inductance results in shifting of the ringing wave pattern. It is this change in wave pattern that signals us to a problem with our turn to turn insulation.
+Surge testing would be extraversion, since no other tests loves the spotlight and center of attention, quite like the surge test. Always finding faults that no other test can, the surge test really lets the power get to its head.
+Dynamic Testing - Openness
+Finally, dynamic testing. You made it. So, dynamic testing is performed while the motor is running, which is great because you want a motor to be running, right? If the motor is running, you’re making money, essentially.
+Dynamic testing will evaluate the power quality and the motor and load operational quality, which can potentially be a source of heat – a motor’s mortal enemy. We even wrote a whole
+blog
+about heat last summer. It’s a big deal. If you weren’t yet a fan of the blog back then, we’ll remind you that excessive heat can lead to insulation degradation and accelerate mechanical failure. So, that’s definitely something you’ll want to avoid.
+Dynamic testing will look at a lot of different parameters, while evaluating the motor’s environment, as well as the condition of the motor’s mechanical components.
+Last, but not least, if dynamic testing was a personality trait, it would be openness! Dynamic testing is basically an entire motor laboratory in a suitcase. It is open to tackling new concepts in parameter evaluation and analysis – essentially the next great frontier of reliability.
+So, there you have it – the big 5 motor tests. While low voltage testing alone is great, it’s not giving you the complete story. Without a surge test, you’ll never know what’s going on with your copper-to-copper insulation, which is scary. Plus, high voltage testing allows you to safely stress a motor with voltages that it’s guaranteed to experience in its lifetime. Together, the big 5 give you a complete picture of your motor’s health. Want to learn more?
+Check out our Blind Spots of Testing Motors with Low Voltage Testing webinar.
+- Drew Norman, Application Engineer, and Meredith Kenton, Digital Marketing Specialist
+Tags:
+baker
+,
+dynamic
+,
+motor
+,
+static
+,
+surge
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+May 2021(
+1
+)
+April 2021(
+1
+)
+December 2020(
+1
+)
+October 2020(
+1
+)
+September 2020(
+1
+)
+August 2020(
+1
+)
+July 2020(
+1
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+1
+)
+February 2020(
+3
+)
+January 2020(
+1
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

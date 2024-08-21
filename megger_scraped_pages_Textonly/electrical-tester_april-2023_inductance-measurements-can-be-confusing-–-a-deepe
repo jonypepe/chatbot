@@ -1,0 +1,622 @@
+Electrical test equipment | power station to plug | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Electrical Tester online
+April 2023
+Inductance measurements can be confusing – a deeper dive
+Inductance measurements can be confusing – a deeper dive
+28 April 2023
+Author: Dr Stan Zurek, DSc, PhD
+An apprentice asked: “Master, I measured the value of an inductance and it was X. Is this correct?” The master replied: “It is correct.” Then the second apprentice said: “But I measured the same inductance and the value was Y, am I wrong?” And the master answered: “You are also correct. Indeed, you are both correct.” The third student objected: “They cannot be both right if the two results differ!” And the master agreed: “You are also correct.” All three students were perplexed…
+Introduction
+Inductance L is the property of an electric circuit which quantifies its ability to store energy in a magnetic field. The amount of energy stored is proportional to the value of inductance and to the square of electric current I flowing through it:
+E= L·I2/2
+Hence, a component with a higher inductance can store more energy for the same current. In inductors without a magnetic core, the maximum practical current is limited only by the heat dissipated in the wire.
+Inductance is directly proportional to the effective relative permeability μr of the material enclosed by the coil:
+L=μr·μ0·N2·A/l
+(Where μ 0 – permeability of vacuum, N – number of turns of the coil, A – area of the coil, l – length of the coil).
+The relative permeability of air or any non-magnetic material is very low (μr = 1), and therefore the inductance is low for a given number of turns. An advantage of this is that non-magnetic materials cannot saturate magnetically, so inductors with a non-magnetic core have a very linear characteristic even for extremely large currents.
+On the other hand, magnetic materials can have very high permeability (μr >> 1). They are used extensively for ‘magnetic circuits’, to concentrate and guide the magnetic flux, so that components can be designed to be smaller, more efficient, and less expensive. The operation of every 50/60 Hz power transformer is based on the presence of a suitable magnetic core. The same applies to motors and generators. Magnetic cores are designed to operate at as high a level of excitation as possible (to minimise size), but at a level low enough to avoid saturation. This way, maximum benefit can be gained from the presence of the core.
+The windings in motors, generators, and transformers exhibit significant inductance, and certain electric, magnetic, and even mechanical faults can be diagnosed or detected by measuring the value of inductance for each accessible winding. The more accurate the measurement, the better the fault diagnosis. But what does it mean to measure inductance accurately?
+Variation of permeability and inductance
+Even though permeability of magnetic materials can be very high (typically μr > 1000 for electrical steel under nominal operating conditions), it is also highly non-linear and, at a sufficiently high current, the material saturates and permeability decreases significantly (contributing to such phenomena as the inrush current in transformers). The value of permeability depends on a plethora of factors, significantly more so on some than others, such as the few listed here:
+Figure 1: Typical magnetic permeability curves for grain-oriented electrical steel, at low excitation up to B = 100 mT. (Transformers are typically used with B = 1.5 T). For a given magnetic core, flux density B is a function of the applied current.
+Level of excitation – at low excitation, the socalled initial permeability is low and increases significantly (see Figure 1) to some peak value (called maximum permeability) before dropping again towards saturation (not shown). 
+Previous history of magnetisation – if the material has been exposed to a high magnetic field, for instance due to a fault current in the device, then some magnetisation remains in the core and affects the permeability (this is why some magnetic devices need to be ‘degaussed’ or ‘demagnetised’ before a measurement).
+Frequency of excitation – the internal magnetic structure (alignment of internal magnetic domains) behaves differently at different frequencies (Figure 1). At lower frequencies the differences are small, but with increasing frequency an additional phenomenon called the ‘skin effect’ (magnetic field cannot penetrate the inside of the lamination or the core) begins to play a dominant role, and the permeability reduces to a much smaller value.
+Mechanical stress – typically, compressive stress introduced during manufacturing (such as clamping of the laminations for assembly and mounting) lowers the magnetic permeability of the core.
+Temperature – the direct effect of temperature is rather small, but measurements performed on a still-hot motor can differ from those made on a cold machine, because different internal stresses will be acting on the magnetic core. Additionally, resistivity of the laminations will also differ, which might impact measurements at higher frequencies.
+‘Proximity effect’ in the windings – this is an additional high-frequency effect linked to the skin effect, which leads to further non-linear behaviour of the current distribution in the windings. For this reason, in some high-power synchronous generators, the windings are made with continuously transposed conductors (CTC, or ‘Roebel cable’). It is the winding itself that will behave differently at higher frequencies (rather than the magnetic core). The effect is more pronounced for windings with more layers.
+The impact of each of these effects depends on the actual type of device and magnetic core, so it is not possible to define some hard rules as to which effect is dominant in a given case.
+Useful effects of changing permeability and inductance
+Some of the effects listed above give useful information about the condition of the device under test. For example, when sweep frequency response analysis (SFRA) is performed on transformer windings, the level of excitation and frequency range are standardised. Therefore, the excitation conditions are always the same, and changes between impedance measurements (which are affected by changes in inductance) can indicate that some physical change has taken place, such as a displaced winding, or damage to the core. Hence, a fault can be detected.
+However, by looking at Figure 1, it is clear that the excitation level and the frequency range must be the same for comparable tests, because otherwise the permeability can differ significantly, and thus apparent differences in measurements may be found even where there are no changes in the magnetic properties, material, or device. The magnetic core could be demagnetised or degaussed on purpose to make sure that the same reference point is available for each test.
+However, if the test is carried out for fault finding, then degaussing could be counterproductive, as it could mask the presence of a fault.
+Transformer turns ratio tests rely on the assumption that the voltage ratio reflects the turn ratio. This approximation holds better for magnetic cores that have higher permeability. These tests are typically performed with a very small test signal, because it is not conveniently possible to generate nominal AC voltages for a high voltage transformer. This would require tens or even hundreds of kV which is not practical in a portable instrument, and would in any case be very costly. So, the excitation used during a test makes the core operate at a fraction of the nominal range (tens of volts) where, unfortunately, the permeability is much lower (Figure 1).
+It is therefore beneficial to use a test configuration which generates higher flux in the core, because the permeability will be higher and the measurement more accurate. This is easily achieved by applying excitation to the winding with lowest nominal voltage. This winding will have a lower impedance and thus the same test voltage will result in a higher current, making the measurement more accurate. This approach is employed, for example, when using the Megger TTRU3, a true three phase transformer turns ratiometer. Using this approach, smaller differences can be discerned, and incipient faults can be diagnosed more reliably.
+Changes in inductance are also used to diagnose faults in motors and generators. For example, all three phases should have very similar inductance, and if one winding is significantly different, this typically indicates some problem with the winding, the core, or even a mechanical problem with the bearings (because the shaft could be misaligned and thus affect the eccentricity of the air gap).
+In motor testing, the inductance of the windings changes significantly when measured with the motor fully assembled (rotor in place) and with the rotor out. This is because of the difference in the amount of magnetic material in the magnetic circuit in the two cases. Air has a much smaller permeability than the rotor, so the effect on the measured inductance is large. However, the lack of rotor makes the stator more difficult to magnetise. Therefore, with the same test current, significantly less magnetisation is produced in the core and hence there is an additional change of permeability, as shown in Figure 1.
+If the same test instrument is used to measure inductance of the windings in all three phases, the level of excitation and the test frequency will be the same and relative changes can be detected. These techniques are used extensively in testing motors and generators, for example with the Megger Baker ADX and the MTR105.
+Not-so-useful effects
+It is true that some frequencies are more suitable for detecting particular types of faults, whereas other frequencies are better for different purposes. But referring again to Figure 1, it is very clear that even if the same test equipment is used for performing measurements on the same winding – but at two different frequencies – the results will differ significantly, yet both measurements will be correct! For example, at an excitation of 100 mT (the maximum value on the horizontal axis), the permeability at 400 Hz is around 9000 (red circle), whereas at 50 Hz it is as much as 18 000 (blue circle). This is a ‘factor of two’ difference yet both values are correct. The difference in measurements is simply a result of the real behaviour of the magnetic core, as dictated by the fundamental properties of the magnetic material.
+For this reason, direct comparison of absolute values measured with different test equipment is largely useless. This is because the level of excitation is almost certain to be different due to differences in the internal hardware design. For example, if a handheld LCR meter tests with 0.5 V excitation, rather than 5 V as might be used by a larger device, then for the 50 Hz curve in Figure 1, the measured value could be 10 000 (green circle) rather than 18 000, which is a difference of 80 %. It should be stressed that such a difference is not an error of the test equipment! Both values are correct, and also neither of them is correct, because there is no single value which can be used as a ‘fixed’ reference point, which applies under all conditions. Comparisons can be made only if the excitation is the same.
+Why are different excitation levels used for different testers, even by the same manufacturer? One reason is the amount of power available. A handheld LCR will have only small batteries (low power) and so the test signal will be limited. Also, test equipment may be designed with appropriate input protection. Such safety measures can put additional requirements on permissible levels of excitation and the way the signals are measured. For example, there could be an additional impedance in the internal measuring circuit which will affect the amount of available drive signal depending on the measured value of inductance.
+Who is right?
+It is therefore very difficult to verify in the field which inductance measurement is ‘correct’, or which test equipment gives more ‘accurate’ readings. Even extremely precise measurements performed with a calibrator class instrument can and will differ significantly if the level of excitation is changed.
+Worse still, even the accuracy specification of the instrument cannot be trusted, for precisely the same reasons. In addition, some manufacturers are known to be less than honest with the actual performance of their instruments, claiming an unlikely level of accuracy. Therefore, it is always advisable to use test equipment from a trustworthy manufacturer with well recognised brand, that is known to state measurement accuracy honestly, in line with the true capability of the instrument.
+So, who is correct? The actual accuracy of a measurement can be only verified in laboratory conditions, not in the field, unless specially designed stable inductors are used and are measured at the same frequency. Nevertheless, relying on reputable test equipment from a trustworthy brand is always the best line of attack.
+Watch our webinar on 'Inductance Test on a 3-Phase Motor'
+Watch our webinar on 'Surge Test For Electric Motors Modern Variables for the Diagnostic of the Winding Insulation Condition'
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+July 2023(
+3
+)
+May 2023(
+3
+)
+April 2023(
+3
+)
+February 2023(
+2
+)
+January 2023(
+3
+)
+April 2022(
+2
+)
+February 2022(
+2
+)
+December 2021(
+3
+)
+October 2021(
+3
+)
+August 2021(
+3
+)
+July 2021(
+3
+)
+March 2021(
+2
+)
+February 2021(
+2
+)
+December 2020(
+3
+)
+November 2020(
+3
+)
+October 2020(
+3
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+3
+)
+February 2020(
+2
+)
+January 2020(
+2
+)
+December 2019(
+1
+)
+June 2019(
+2
+)
+May 2019(
+3
+)
+April 2019(
+3
+)
+March 2019(
+3
+)
+February 2019(
+3
+)
+January 2019(
+3
+)
+December 2018(
+3
+)
+November 2018(
+3
+)
+October 2018(
+3
+)
+September 2018(
+4
+)
+August 2018(
+4
+)
+July 2018(
+4
+)
+June 2018(
+4
+)
+February 2018(
+4
+)
+January 2018(
+4
+)
+December 2017(
+4
+)
+November 2017(
+4
+)
+October 2017(
+4
+)
+September 2017(
+4
+)
+August 2017(
+4
+)
+July 2017(
+4
+)
+June 2017(
+4
+)
+May 2017(
+3
+)
+April 2017(
+4
+)
+March 2017(
+4
+)
+January 2017(
+4
+)
+December 2016(
+4
+)
+November 2016(
+4
+)
+October 2016(
+3
+)
+September 2016(
+4
+)
+August 2016(
+4
+)
+July 2016(
+4
+)
+June 2016(
+4
+)
+March 2016(
+4
+)
+February 2016(
+4
+)
+January 2016(
+4
+)
+December 2015(
+2
+)
+November 2015(
+4
+)
+October 2015(
+3
+)
+September 2015(
+4
+)
+August 2015(
+3
+)
+July 2015(
+3
+)
+June 2015(
+4
+)
+May 2015(
+4
+)
+April 2015(
+3
+)
+March 2015(
+4
+)
+February 2015(
+4
+)
+January 2015(
+4
+)
+December 2014(
+4
+)
+November 2014(
+4
+)
+October 2014(
+4
+)
+September 2014(
+4
+)
+August 2014(
+4
+)
+July 2014(
+4
+)
+January 2010(
+4
+)
+December 2009(
+4
+)
+November 2009(
+3
+)
+October 2009(
+4
+)
+September 2009(
+3
+)
+August 2009(
+3
+)
+July 2009(
+3
+)
+June 2009(
+3
+)
+May 2009(
+2
+)
+April 2009(
+3
+)
+March 2009(
+3
+)
+February 2009(
+2
+)
+January 2009(
+3
+)
+December 2008(
+3
+)
+November 2008(
+3
+)
+October 2008(
+7
+)
+September 2008(
+3
+)
+August 2008(
+3
+)
+July 2008(
+3
+)
+June 2008(
+4
+)
+May 2008(
+4
+)
+November 2007(
+10
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

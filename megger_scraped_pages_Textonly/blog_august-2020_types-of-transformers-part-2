@@ -1,0 +1,368 @@
+Types of Transformers
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Testing Set-ups, Sensors, and Sensibility
+August 2020
+Types of Transformers - Part 2
+Types of Transformers - Part 2
+13 August 2020
+We’re back with more transformer types this week! I’m sure you’ve been anxiously refreshing the Megger blog waiting for this magic to go live. If you missed
+last week’s edition
+, we recommend checking that out at some point. No pressure, but we’re making our way through all of the types of transformers, so if you read this and not that, then you’re not really getting the full story.
+Anyways, there’s no time to waste.
+Last week
+, we made it through four types of transformers; this week we’re shooting for seven. Can we do it? We’re not sure, but we’re sure going to try!
+Converter Transformers
+Before we get to converter transformers, we need to talk about HVDC – or high-voltage, direct current. In case you’re not familiar with power industry jargon, HVDC electric power transmission systems are commonly referred to as electrical (or power) superhighways, since they use direct current to transfer electrical power across long distances, quickly.
+So, a converter – specifically a HVDC converter – adjusts voltage between the ac transmission and HVDC transmission systems, while making sure that no direct current enters the ac system (or vice versa). A converter transformer can also supply power in both directions, thanks to rectifier and inverter mode. In case you are new to the world of transformers or too lazy to google it, a rectifier changes current from AC to DC, while an inverter does the opposite.
+We should mention that converter transformers require extra special care and testing, since they’re insulation structures are hammered with both high ac and dc voltages on the regular.
+Phase Shifting Transformers
+Now, I don’t know about you, but when I hear the term ‘phrase shifting transformers’, I’m thinking Bumblebee and Optimus Prime. Right?
+Unfortunately, wrong. Phase shifting transformers (PST) are not the autobot warriors we all know and love. Although, I’m thinking it’s a missed opportunity on their end to throw some random technical jargon at the audience, but who am I to judge. I mean they literally shift from one phase (a car) to another (a giant, fighting robot). Sounds like a phase shifting transformer to me…
+Anyways, the real PSTs – also called phase angle regulators (PAR) – are transformers that either speed up or slow down the voltage phase-angle relationship of one circuit to another. These are used to connect power systems together, while controlling the level of voltage flow between them.
+By adjusting the phase angle between the two systems, the operator can control the split of power flow between them.
+Here at the Megger blog, we like to keep things simple, if at all possible. So, we’re not going to get into how a phase shift or displacement is engineered between windings. Fortunately, if you’re really interested in these science-y details, head over to the
+Electrical Engineering Portal
+– they’ve got all the info there.
+Reactors
+So, here’s a riddle for you. What kind of transformer doesn’t actually transform voltage?
+It’s a reactor!
+If that wasn’t the worst riddle you’ve ever heard, please let me know. Who knows, maybe I have a hidden talent for riddle-writing.
+Anyways, reactors have just a single winding and can’t transform voltage, but you can connect multiple reactors together – in series or parallel – to introduce impedance into the system. Therefore, because they control or limit power flow, we can consider them transformers too. Seems like we’re getting a little ‘lax on the rules right now, but we don’t make the rules here; we just write about them.
+There are two types of reactors to know – series connected and parallel connected reactors. While series connected reactors can control or limit power flow, parallel connected reactors can compensate for times of light loading in connected lines and cables in HVDC systems.
+Grounding Transformers
+In a utility distribution network, grounding transformers are used to provide a neutral point in a three-phase system – providing a source for zero sequence current. Essentially converting a 3-phase, ungrounded circuit into a 4-phase system with a neutral grounded source.
+A grounding transformer only draws a small current from the system – carrying current only in the event of a ground fault or connection to a ground load.
+Regulators
+Remember our good friend, the autotransformer, from last week? Well, great news – it’s back! Because step-voltage regulators are a special type of autotransformers that
+regulate
+system voltage. A regulator can add or subtract voltage – up to a maximum of 10% of the exciting voltage – to keep the system at a constant output. Regulators can also be either single-phase or three-phase. You’ve got to admire that versatility.
+Distribution Substation Transformers
+We’re in the home stretch now. Just two more transformers to cover. Fortunately, distribution substation transformers are pretty easy to understand, since the name basically says it all. They’re basically small power transformers that step-down voltage. Like regulators, they’re available in either single or three-phase configurations, and typically sit within a few percent of maximum load – occasionally surpassing the nameplate rating. And, that’s about all you need to know about that!
+Mobile Transformers
+Are you sick of transformer types yet? Not us, definitely not us. We could do this all day.
+Anyways, last but not least – mobile transformers! These are particularly relevant right now for us east coast folks, since we’re still recovering from the widespread havoc (power outages) that Tropical Storm Isaias dumped on us. If you know, you know. If you don’t, you probably have your own issues, so we won’t hold it against you.
+In the event of a storm or natural disaster, like our good bud Isaias, mobile transformers are used to restore power fast following an outage. By providing temporary service, mobile transformers fill in for the more permanent equipment, while facilities are being repaired. These are also useful for supplying power during new construction or during regularly scheduled maintenance. Speaking of that, what’s your transformer maintenance plan look like?
+We have some ideas for you.
+Usually, mobile transformers are part of a larger ‘mobile substation’, so switches and circuit breakers are added at the same time. These transformers typically fall in the low to medium power range, as well, so they tend to be too small to replace grid level, critical high-power transformers.
+Due to their mobile nature, these transformers need to be easily transported, thus they are designed to be smaller and lightweight. In order to achieve this, mobile transformers sometimes have adjusted short circuit integrity, decreased dielectric design, and increased operating temperatures. Since they’re not used frequently or for lengthy time period, this is justified.
+You made it. There you have it – a complete list of the types of transformers. If you’re still with us, congrats! Since you’re already here, why don’t you go check out our
+Guide to Transformer Testing
+or view our
+transformer testing solutions
+.
+Search for:
+Recent Posts
+Batteries are not ‘fit-and-forget’ assets!
+User-driven development in circuit breaker testing
+Assessing high voltage substation equipment at 1 Hz
+Q&A: Earth/ground testing
+Stray currents in water pipes in a reverse osmosis (RO) plant
+Archive
+May 2021(
+1
+)
+April 2021(
+1
+)
+December 2020(
+1
+)
+October 2020(
+1
+)
+September 2020(
+1
+)
+August 2020(
+1
+)
+July 2020(
+1
+)
+June 2020(
+2
+)
+May 2020(
+2
+)
+April 2020(
+2
+)
+March 2020(
+1
+)
+February 2020(
+3
+)
+January 2020(
+1
+)
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

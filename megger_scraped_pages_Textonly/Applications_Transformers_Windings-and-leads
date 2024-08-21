@@ -1,0 +1,305 @@
+Electrical test equipment application solutions from Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Applications
+Power Transformer
+Transformer windings and leads
+Transformer windings and leads
+Transformer windings consist of paper-insulated, current carrying conductors wound around sections of the core; a winding lead is an insulated conductor that connects a winding to another winding, to a tap changer, or to an exit terminal (bushing).  To withstand operational conditions, windings and leads must be properly insulated, supported and cooled.
+Transformer winding failures have statistically been attributed as the most frequent cause for transformer faults (ANSI/IEEE, 1985), followed by load tap changers, and bushings.  A major reason for winding failure is insulation deterioration.  Factors that contribute to deterioration include moisture, voltage surges, overheating, vibration and mechanical stress created during transformer through faults.
+The following electrical field tests provide information about the integrity of the transformer windings.
+Winding diagnosis
+Transformer turns ratio
+; checks the fundamental operational characteristic of a transformer, e.g., that it is transforming voltage as expected, and may help to identify short-circuited turns, open-circuited conditions, and incorrect winding connections.
+Some Unknown Facts
+Exciting current
+; particularly adept in the detection of partial turn-to-turn short circuits in a winding (sensitive to the deterioration of the turn-to-turn insulation that is
+not
+tested in a power factor measurement).
+DC winding resistance
+; assesses the integrity of the current-carrying path between transformer bushing terminals; detects problems such as loose or defective connections, broken strands, open-circuit conditions, or high contact resistance in tap changers.
+Leakage reactance/short circuit impedance
+; the premier test to identify or confirm winding deformation
+Frequency response of stray losses (FRSL)
+; alone in its ability to detect strand-to-strand short-circuits in a conductor bundle; also sensitive to problems that have resulted in increased losses of conductive structural components such as the transformer tank, clamping structure and tie plates.
+Sweep frequency response analysis (SFRA)
+; sensitive to short-circuited turn(s), open-circuited winding conditions and winding deformation
+Power factor/Tan delta/dissipation factor/capacitance (@ line frequency)
+; assesses the ability of the insulation that isolates HV or LV windings from ground potentials, or HV windings from LV windings, to efficiently store the energy placed across it; detects moisture and other contaminants, and increase in voids in the insulation.  Capacitance is sensitive to extreme winding deformation.
+Narrowband Dielectric Frequency Response (NB DFR)
+; provides confidence in the interpretation of the power factor/dissipation factor results above and more discerning information about elevated power factor/dissipation results
+Dielectric frequency response (DFR)
+;
+Winding leads diagnosis
+DC winding resistance
+; very effective in the detection of problems such as loose or defective connections, broken strands, and full or partial open-circuit conditions.
+Sweep frequency response analysis (SFRA)
+; assesses mechanical health; sensitive to open or partially-open connections of a lead and even a situation whereby a lead is incorrectly and inconsistently routed to a bushing terminal as compared to the lead routing associated with the other two phases of the transformer.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

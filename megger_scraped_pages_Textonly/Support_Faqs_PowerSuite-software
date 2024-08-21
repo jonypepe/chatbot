@@ -1,0 +1,371 @@
+Frequently asked powersuite software questions | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Frequently asked questions
+PowerSuite software
+PowerSuite software
+How can I find the version number of my PowerSuite?
+If PowerSuite is installed you can find the version number by going to Help and then About.
+Can I create additional users?
+Yes, if you navigate to ‘Settings’ then ‘Preferences’, under the security section of the general tab you can add new users, change their user level and assign a password if required.
+Does PowerSuite work on a mac?
+Unfortunately the Megger PowerSuite software is not compatible with Apple Mac products.
+How can I add a password to PowerSuite?
+To add a password to your PowerSuite software navigate to ‘Settings’ then ‘Preferences’ and under the Security section select your User ID,  you can then adjust your user level and add a password.
+How can I change the company logo?
+With the PowerSuite software navigate to ‘Settings’ then ‘Preferences’ and click ‘Browse’ to search for your company logo.
+How can I change the next certificate number used?
+In order to change your next certificate numbers go to ‘Settings’ then ‘Preferences’ followed by selecting the ‘Certificate Manager’ tab. Here you can set the next certificate number for all your certificates.
+How can I create a backup of the PowerSuite software?
+To create a backup of your database you will need to copy and paste your ‘Data’ folder. This can be found in one of the following locations depending on OS:
+Windows XP:
+C:\Documents and Settings\All Users\Documents\Megger Limited\PowerSuite Professional
+Windows Vista, 7 and 8:
+C:\Users\Public\Documents\Megger Limited\PowerSuite Professional
+How can I edit a contact in the contact list?
+In order to edit a contact simply right click the contact and select ‘edit company’, ‘edit client’, or ‘edit location’.
+How can I email a certificate to a client?
+To email a certificate we would recommend printing the certificate as a PDF and then emailing the PDF. If you do not have a PDF printer it is possible to download free PDF printers from the internet.
+How can I find my serial number?
+There are a few places where you can find your PowerSuite serial number, they are:
+On your PowerSuite registration card.
+Within the software under ‘Help’ then ‘About’.
+A file called ‘ps32reg.exe’ which can be found in the following location:
+C:\Program Files (x86)\Megger Limited\ PowerSuite Professional
+How do I create a certificate?
+There are two ways you can create a certificate,  you can either use the Certificate Wizard or use ‘Certificate Manager’ to select your certificate type and template.
+How do I download from a PAT4 to PowerSuite?
+A download guide can be found by clicking the following
+link
+How do I download from a PAT400 series tester?
+A download guide for the PAT400 series can be downloaded from
+here
+.
+How do I download from an MFT1730?
+A download guide for the MFT1730 can obtained from the following
+download link.
+How do I pair my MFT1730?
+A pairing guide can be downloaded from the following links:
+Windows XP
+Windows 7
+How do I upload to PAT4 from PowerSuite?
+An upload guide can be found by clicking the following
+link
+How do I upload to PAT400 from PowerSuite?
+An upload guide can be found by clicking the following
+link
+My NICEIC certificate is only printing out the text/numbers and not printing the background
+This is when a Computer Friendly (CF) certificate has been created and not a Plain Paper (PP) one. Computer friendly certificates are used when you have pre printed templates bought from the NIC. Plain paper certificates simply print the whole certificate on to plain paper.
+My PAT4 won’t download
+There may be a few reasons for your PAT4 not downloading, these include:
+COM port set incorrectly; make sure that the COM port in the PAT4 properties within Download Manager matches the COM port number found in device manager under ‘Ports (COM & LPT)’.
+An incorrect serial cable is being used; make sure you are using the cross over serial cable that came with the PAT tester.
+The RS232 to USB adaptor you are using is not compatible with your operating system. Check the specification of the adaptor.
+What do the codes represent for the NICEIC certificates?
+An NICEIC A1 Certificate abbreviation reference list can be downloaded from the following
+link
+What is the default user name and password?
+The default username on a new install will be "supervisor" there is no password by default.
+What is the minimum version number I will need for compatibility
+Compatible with
+Minimum version
+Windows Vista
+2.1.73
+Windows 7
+2.1.128
+64bit OS
+2.1.190
+MFT1730
+2.1.226
+PAT400
+2.1.205
+What version of PowerSuite do I need?
+There are four main builds of the PowerSuite software, click the following link to download a datasheet which contains information on each version.
+What version of PowerSuite do I need?
+When I open download manager it asks “Set CSV Viewer as default association?” what does this mean?
+CSV viewer is a programme built into Download Manager that is used to view your downloaded results. If you do not use CSV files for anything else other than downloading from your tester then we would suggest saying ‘Yes’ to this prompt.
+When I try and update is says “error occurred in the move data process” what does this mean?
+The cause of this error is usually down to PowerSuite still running in the background or a third party piece of software blocking the installation.
+When I try to start PowerSuite it says “data registry is read only” what does this mean?
+This error is usually caused by user permissions. Make sure you are logged in as an administrator if this is the first time installing the software.  If you have been able to use the software in the past then it’s possible your user permissions have been changed.
+Get in touch with us
+United Kingdom
+Megger Ltd
+Dover, Kent
+CT17 9EN
+Sales: +44 (0) 1304 502 101
+Technical support: +44 (0) 1304 502 102
+Repairs: +44 (0) 1304 502 243
+T:
++44 (0) 1304 502 101
+E:
+uksales@megger.com
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

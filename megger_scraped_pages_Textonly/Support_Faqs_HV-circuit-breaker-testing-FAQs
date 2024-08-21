@@ -1,0 +1,330 @@
+Frequently asked high voltage circuit breaker testing questions | Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Support
+Frequently asked questions
+HV circuit breaker testing
+HV circuit breaker testing
+Are pre-insertion resistors in parallel with the main circuit breakers contacts?
+Yes. The way a pre-insertion resistor works is that the resistor contacts will close first and will be the only contact in the circuit, then the main contacts will close and both resistor and main contact will be in the circuit at the same time in parallel. At this point the main contacts have the vast majority of the current flowing since the resistance is in the micro-ohm range compared to the 10-10 kilo-ohm range of the resistor (depending on design). The design of the circuit breaker can vary but for the majority of the circuit breakers, once the main contact is closed the resistor will open up shortly afterwards i.e. a few milliseconds, for other designs the resistor may be left in the circuit while the CB is closed.
+Are pre-insertion resistors left energized when a breaker is closed?
+This depends on the design of the circuit breaker. For some designs the pre-insertion resistor will close first, then shortly after the main contacts close, the pre-insertion resistor will open. For other designs the pre-insertion resistor will stay closed while the main contact is closed.
+Are there any standards regarding circuit breaker testing?
+The two predominant standards are:
+1. IEEE C37.09 IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis.
+2. IEC 62271-100 High-voltage switchgear and controlgear – Part 100: Alternating-current circuit-breakers.
+Can I use circuit breaker testers to test 50/51 relays?
+No. To test the 50/51 relays a secondary current injection test set is required. Megger has a range of relay test sets that can be used to accomplish this.
+Can I use live tank breakers for a breaker and a half scheme?
+A live tank breaker can be used for a breaker and a half scheme. From an operating standpoint you can use either a live tank breaker or a dead tank breaker you just need to take into consideration several design parameters such as physical dimensions, CTs needed, etc.
+Does NETA require a motion test?
+This depends on the type of circuit breaker. For medium vacuum CBs, time and travel analysis is recommended but not required. For Oil CBs and SF6 CBs, they require a time and travel analysis test. This is according to the NETA ATS-2013 and MTS 2011.
+How do I detect SF6 leaks?
+There are a couple ways to look for an SF6 leak. One method is to use a gas “sniffer” that you move around the breaker and it will give you an audible indication when it finds the leak. Another method is to use and special infrared camera designed for SF6 leak detection.
+How do I test distribution breakers?
+Basic testing for all breakers is the same. You want to record coil current, station voltage, contact resistance, contact times and travel, then calculate certain parameters from these. The main difference from a vacuum CB compared to an SF6 or OCB is that the stroke will be much shorter.
+If the manufacturer does not provide a ratio (conversion factor/table) for motion analysis, should I still perform motion analysis?
+Yes. Even if you don’t have the proper conversion factor or table you should still perform a travel recording to help evaluate the breakers performance. You will not be able to correctly determine the velocity of the contacts but you will still be able to trend the motion over time. If you know the stroke length you can build a simple conversion factor where the total angle or distance traveled is equal to the stroke length of the circuit breaker. It should be noted that this method assumes that your circuit breaker is working correctly at the time of measurement. You can then use these values moving forward. Additionally you can still look at parameters such as overtravel, rebound and contact wipe as a percentage of the total stroke to determine if you need to adjust the dampening on the mechanism.
+Is measuring velocity important on vacuum breakers at the distribution level?
+Yes. Velocity is important to all circuit breakers. When evaluating vacuum circuit breakers, motion and subsequently velocity is often not measured. Additionally, the manufacturer may not give you any specifications for the velocity. It is still an important parameter that you can trend to verify correct operation. Even though the manufacturer may not provide velocity specs, they may still provide stroke and overtravel specifications.
+Is there an industry standard for determining the frequency and type of testing on CBs?
+There is no industry standard determining the test frequency and type of tests to be performed. These vary by type of CB, manufacturer, and the type of application the circuit breaker is utilized in. It is best to consult the circuit breaker manual to determine proper maintenance and testing schedule. It is common to have 1, 3 or 5, and 10 year maintenance intervals for different types of tests to be performed.
+Many manufacturers claim it is not necessary to test motion on a vacuum circuit breaker. Is this true?
+No. Travel measurements are a very valuable tool in circuit breaker analysis. One of the common arguments against measuring motion on vacuum CBs is that the contact stroke is so short that you are better off measuring stroke with a pair of calipers when the breaker is in fully open position compared to fully closed position and you can verify the CB is traveling fast enough from the contact times. If you don’t measure motion you will lose valuable information about how the circuit breaker is behaving and won’t see if there is a large amount of overtravel or rebound. If these parameters are too large it can cause damage to the breaker or miss-operation. These parameters can often be easily adjusted in the field and you may be able to find the tolerances on the nameplate.
+Should SF6 GCBs be Power Factor tested?
+This is a frequently debated topic. If the circuit breaker has grading capacitors that you have access to i.e. Live Tank CBs then it is recommended to test these to verify their value. Most manufacturers don’t recommend Power Factor testing SF6 dead tank circuit breakers. To check the quality of the SF6 gas i.e. the insulation of the CB, it is recommended to perform a moisture and purity test on the SF6 gas.
+There have been some reports that you can determine some issues within the CB contacts with a Power Factor test, so several utilities still promote and perform these tests on SF6 circuit breakers. If you perform PF testing on your SF6 CBs remember that you will have very small capacitance values and that your primary evaluation should be of the watts lost and the leakage current. A hot collar test may also be performed to evaluate the condition of the porcelain and the external insulation elements.
+What is a dashpot?
+When the circuit breaker opens and closes it is traveling at a very high velocity. It then must slow down very quickly without damaging the interrupter. This is accomplished by using a dashpot which absorbs some of the energy to slow down the interrupter towards the end of its travel. Dashpots are commonly applied on the opening side of the mechanism but there are several designs with it on the closing side as well.
+What is Dynamic Resistance Measurement (DRM) in regards to circuit breaker testing?
+Dynamic resistance measurements are basically making a micro ohm measurement simultaneously while performing time and travel on a circuit breaker.  From this measurement you can evaluate the arcing contacts on an SF6 circuit breaker.
+What is the difference of Coupling Capacitors and Grading Capacitors on the circuit breaker?
+Coupling capacitors are used to reduce the rate of rise of breaker transient recovery voltage, and to limit the overvoltage caused by a short distance fault on a low capacitive line while the Grading capacitors are used to distribute the high voltage equally.
+Those are connected in parallel to the interrupters, but usually coupling capacitors on some dead tank circuit breakers and grading capacitors on live tank circuit breakers.
+What is the minimum reclose time allowed?
+According to IEEE C37.04 1999, the minimum reclosing time of a circuit breaker is 0.3 seconds (300ms).
+What should I measure when performing circuit breaker testing?
+The manufacturer should provide a list of the parameters and the range of values that should be expected. It can vary by breaker design but if no list is provided, at a minimum, the following should be measured:
+Contact times
+Max contact time difference between phases
+Stroke
+Overtravel
+Rebound
+Velocity
+Coil current
+Station voltage
+Contact Resistance
+What type of transducer is more accurate - rotary or linear type?
+Neither type of transducer is inherently more accurate than the other. Depending on the circuit breaker/mechanism design a rotary or a linear transducer might be more suitable for the particular application. Each circuit breaker should be evaluated individually for the best connection and the manual or manufacturer should be consulted for proper connection.
+Where can I find out more information on circuit breakers and circuit breaker testing?
+For further reading, download our HVCB testing guide or view some of our technical papers.
+Where should I mount my transducer?
+You should look for an easily attachable place where your transducer will move in conjunction with the interrupter(s). You should also try to mount the transducer to a solid piece of metal that won’t vibrate during operation of the circuit breaker. The closer you are to the interrupter without mechanical linkages in between, the more accurate your travel trace will become. Once a transducer mounting spot is established, you should continue to test it at this spot for accurate trending purposes.
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

@@ -1,0 +1,307 @@
+Electrical test equipment application solutions from Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Applications
+Circuit breakers
+Recommended circuit breaker tests
+Recommended circuit breaker tests
+The following is a list of comprehensive circuit breaker tests recommended for use on all circuit breaker types except as indicated.
+Timing and Travel
+; testing used to determine and validate the performance characteristics of circuit breakers. For example, the changing state of main and resistor contacts (open- close, close-open, etc.) and auxiliary contacts (e.g., 52a and 52b) versus time, varying defined distances traveled by the main contacts (e.g., total travel, over travel, rebound, stroke, and contact wipe), velocity (average and instantaneous), dwell-time and dead-time, are primary circuit breaker characteristics measured.
+Motion;
+see timing and travel above. The contact travel motion is captured by connecting a travel transducer on the moving part of the circuit breaker’s operating mechanism or interrupter and is used to assess the condition of the interrupter, damping units and identify mechanical issues with the operating mechanism. The motion is presented as a curve displaying distance vs. time. Several parameters are measured. For example, over travel is the distance traveled by the contacts that exceeds their final resting position and is measured to verify the proper operation of the damping assemblies within the breaker.  Measured values from the motion curves are compared to reference data provided by the circuit breaker manufacturer.
+Coil current
+; this measurement can be performed online or offline and is used to detect potential mechanical and/or electrical problems in actuating coils well in advance of their emergence as actual faults, and extract information about lubrication and latch operation. The quality of the control voltage supply is also detectable from these tests. This diagnostic is perhaps most effective when it is performed as a "First Trip" activity. First Trip is performed when the circuit breaker is in-service, and has not been operated for a long time. Lubrication problems are easiest to identify in this scenario. Comparison to previous results is the best method of analysis.
+Static (contact) resistance measurements (SRM)
+; micro-Ohm measurement of the main contacts. This test is conducted by injecting DC current through the breaker main contact system when the circuit breaker is closed, and measuring the voltage drop so that the resistance can be calculated. The resistance reflects the condition of the conducting parts.
+Dynamic (contact) resistance measurements (DRM)
+; this test is used to determine the length and condition of the current carrying part of the arcing contacts in SF6 puffer type circuit breakers.  DRM tests are conducted by injecting DC current through the breaker main contacts while the breaker is operated. The breaker analyser then calculates and plots resistance as a function of time. If contact movement is recorded simultaneously, the resistance can be determined at each contact position. With DRM measurement, the arcing contact length can be reliably estimated. The only other means to do this is by dismantling the circuit breaker. In SF6 breakers, the arcing contact is commonly made of a tungsten/copper alloy and is burned off and becomes shorter for each interruption of current.
+Vibration
+; non-invasive testing that is based on the premise that all mechanical movements produce sounds and/or vibrations, and that by measuring them and comparing the results with previous test results, the condition of the equipment in question can be evaluated. The breaker can stay in service during the test. Using an accelerometer, an Open-Close operation is analysed. The first operation can be different than the second and third because of corrosion and other metal to metal contact issues. The vibration method detects faults that may barely be indicated with conventional methods and is published in CIGRE and IEEE papers.
+Motor current
+; applicability of this test is dependent on the circuit breaker’s operating mechanism.  A measure of motor current is only applicable on spring drives.
+Minimum pick-up measurement (minimum voltage to operate circuit breaker)
+; this test is intended to determine the minimum voltage at which the breaker is able to operate – the contact timing parameters are not of interest, only whether the breaker operates or not. It is a measure of how much force is needed to move the coil armature. Testing begins at a low voltage, sending a control pulse to the breaker. The voltage is increased by small increments (5 V) until the breaker operates; this voltage is recorded and is expected to remain unchanged through future dates.
+Minimum voltage; this test is specified and recommended in international standards. The objective of this test is to make sure that the breaker can operate at the lowest voltage level provided by the station battery when the breaker has to operate during a power outage.  The test is performed by applying the lowest specified operating voltage and verifying that the breaker operates within specified operation parameters. Standard test voltage is 85% (and 70%) of nominal voltage for close (and open).
+Station voltage
+; it is recommended to measure the voltage level of the battery or power supply while operating the circuit breaker in order to verify that the CB is performing to desired specifications.  If the voltage level is low or not correct, one might accidentally adjust parameters on the breaker when the cause of malfunction is the power supply.
+Power factor/dissipation factor/ tan delta and capacitance
+; provides means for verifying the integrity of the insulation for circuit breaker components.
+Vacuum bottle test
+; applicable for vacuum circuit breakers. The vacuum bottle is tested with high voltage AC or DC to check that the integrity of the vacuum is intact.
+SF6 leakage; applicable for SF6 circuit breakers.
+Using gas leak detectors (sniffers) or thermal imaging, SF6 leaks are sought. These may occur in any part of the breaker but are more commonly found where two parts are joined together such as valve fittings, bushings and flanges. There may be porosity leaks as well, whereby the actual tank is leaking, but this does not happen often.
+Moisture/Purity
+; a small amount of SF6 gas is vented from the breaker through a moisture/purity analyser to determine the moisture and concentration of the gas. It is important that the moisture content inside an SF6 breaker is kept to a minimum as it can cause corrosion and flashovers inside the breaker.  When there is arcing (i.e., faults or normal interruptions) inside of the circuit breaker, the SF6 combines with water to produce corrosive by-products.
+Air pressure test;
+applicable for air-blast breakers. Air pressure level, pressure drop rate and air flow are measured during various operations.
+Megger offers a selection of circuit breaker testers to monitor these properties,
+click here
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

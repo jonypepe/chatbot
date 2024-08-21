@@ -1,0 +1,302 @@
+Electrical test equipment application solutions from Megger
+Log in
+Registration
+Where to buy
+Contact us
+International English
+Africa
+Asia
+Australia
+Bulgaria
+Canada
+China
+Latin America
+Czech Republic
+Europe
+France
+Germany
+Hungary
+India
+Middle East
+Poland
+Romania
+Russia / CIS
+Serbia
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+Menu
+Search for:
+Search
+Products
+Previous
+Cable fault, test and diagnostics
+Previous
+Cable fault and test system vans
+Cable fault locating equipment
+Cable testing and diagnostics
+Telecom testing
+Diagnostic laboratory equipment
+Circuit breaker testing
+Previous
+Circuit breaker analysis systems
+Contact resistance test sets
+Insulating oil testing
+Primary injection test systems
+PD testing on bushings, spacer and insulators
+PD testing on switchgear (AIS/GIS/GIL)
+Electricians' testers
+Previous
+Battery testing equipment
+Earth testing
+Electricians' accessories
+Insulation resistance testing < 1 kV
+Loop and RCD testing
+Low resistance ohmmeters
+Motor and generator testing
+Multifunction installation testers
+Multimeters and clampmeters
+Portable appliance testing (PATs)
+Electrical certification software
+Thermal cameras
+Time domain reflectometers
+Utility service detection
+Voltage detectors
+Instrument transformer testing
+Previous
+Current and voltage transformer testing
+Insulation testing
+Previous
+AC insulation testing
+DC diagnostic insulation testing
+DC Hipot testing
+DC overvoltage or withstand testing
+Insulation resistance testing < 1 kV
+VLF insulation testing
+PD test of insulating materials and electronic components
+Monitoring
+Previous
+Motor monitoring
+PD in insulation
+Powerline monitoring
+Motor and generator testing
+Previous
+Static electric motor analysers
+Dynamic electric motor analysers
+Electric motor QC systems
+PD testing on motors and generators
+Relay and protection testing
+Previous
+IEC 61850 solutions
+Multi-phase relay testing
+Primary injection test systems
+Protection system tools
+Relay software
+Single phase relay testing
+Resistance, battery and power quality
+Previous
+Battery testing equipment
+Earth testing
+Leak and corona detectors
+Low resistance ohmmeters
+Power quality
+Software
+Utility service and leak detection
+Watthour meter testing
+Power transformer testing
+Previous
+Complete transformer test systems
+Insulating oil testing
+Transformer insulation testing
+Transformer resistance testing
+Turns ratio testing
+PD testing on transformers
+PD testing on bushings, spacer and insulators
+Partial discharge testing
+Previous
+PD testing on bushings, spacer and insulators
+PD test of insulating materials and electronic components
+PD testing on transformers
+PD testing on motors and generators
+PD testing on switchgear (AIS/GIS/GIL)
+Water leak detection and monitoring
+close
+Applications
+Previous
+Low Voltage and PAT testing
+Battery
+Cable test
+Previous
+Cable diagnostics
+Cable fault location
+High voltage cable testing
+Communications systems
+Circuit breakers
+Previous
+Air/gas circuit breakers
+Interrupter
+Oil circuit breakers
+Operating mechanism
+Recommended circuit breaker tests
+Vacuum circuit breakers
+Instrument transformer
+Previous
+Bushing CT’s
+Current transformer
+Voltage transformer
+Relay protection
+Previous
+Smart grid and digital substation
+Smart grid and distributed energy resources (DER)
+Specific and advanced applications
+Power Transformer
+Previous
+Transformer Life Management Bulletin series
+Commissioning / routine / diagnostic
+Surge arresters
+Tap changers
+Transformer bushing CTs
+Transformer bushings
+Transformer core
+Transformer insulation
+Transformer windings and leads
+Partial discharge
+Renewable products
+Water leak detection
+close
+Grid solutions
+close
+Company
+Previous
+About Us
+Previous
+Who we are
+What we do
+Legal
+Blog
+Podcast
+Careers
+Contact us
+News
+Previous
+Videos
+Previous
+Webinars
+close
+Support
+Previous
+Customer support
+Previous
+Product registration
+Returns authorisations
+Frequently asked questions
+Previous
+Battery and product disposal
+Battery testing
+Current transformer (CT) testing
+HV circuit breaker testing
+Installation testing
+Insulation resistance testing
+Loop testing
+PAT testing
+PowerSuite software
+Sweep frequency response analysis
+Time Domain Reflectometry
+Product notices
+Safety notices
+Technical library
+Previous
+Academic papers
+Application notes
+Brochures and catalogues
+Case studies
+Electrical Tester online
+Electrical Tester magazine
+Software and firmware
+Technical guides
+ET Magazine - November 2022
+ET Magazine - March 2020
+ET Magazine - July 2021
+Where to buy
+Previous
+Megger contacts
+Megger approved distributors
+Megger sales territories
+Where to Rent
+close
+Events
+Previous
+Conferences
+Previous
+Exhibitions
+Previous
+Webinars
+close
+Webinars
+close
+Applications
+Power Transformer
+Transformer insulation
+Transformer insulation
+The insulation in the majority of power transformers consists of both oil and cellulose (paper/pressboard). The solid insulation is divided into major and minor insulation structures. The major insulation system includes barriers, spacers and clamps while the minor insulation consists of winding insulation.
+Cellulosic transformer insulation serves three functions. Foremost, it acts as a dielectric by storing electrical charge when the transformer is energised and, thereby, isolates transformer components that exist at different voltages. It also fulfils a mechanical function by supporting the windings, and contributes to better thermal health of the transformer by creating cooling ducts for the oil.
+The oil must provide sufficient dielectric strength, provide sufficient cooling, preserve the core and coil assembly by filling voids in the insulating materials, and minimise contact of oxygen with cellulose and other materials that are at risk for oxidation.
+Insulation performs its roles best when it is clean, dry, relatively void-free, and utilised within a certain temperature bandwidth. The following electrical field tests provide information about the integrity of the transformer insulation.
+Insulation diagnosis
+Power factor/Tan delta/dissipation factor/capacitance (@ line frequency)
+;
+a power factor/dissipation factor test provides a general sense of how clean, dry, and relatively void-free the insulation system is, confirmation that the system’s electrical characteristics have not deteriorated with age and operating stresses, and therefore an overall impression of how efficiently the insulation is performing in providing electrical isolation.  Capacitance reflects the amount of electrical charge being effectively stored by the insulation and is influenced by changes in the physical attributes of the insulation system being tested.
+Variable frequency power factor/dissipation factor (VFPF)
+;
+a variable frequency power factor test provides context to a line-frequency power factor/dissipation factor measurement so that a more informed assessment of the insulation system can be made.  Specifically, by performing power factor/dissipation factor measurements at additional frequencies, the tester confirms that a seemingly good line-frequency power factor/dissipation factor is indeed good (which sometimes may not be the case), detects problems earlier than they would in a 50/60 Hz power factor/dissipation factor test, and more.
+Tan delta/Power factor/dissipation factor tip-up
+;
+used to determine whether a voltage sensitive problem exists in the dielectric of a transformer.  A positive indication may suggest the presence of a localised problem, such as tracking (as long as the insulation system under test is not prohibitively large which undermines the sensitivity of the test), or partial discharge type activity.
+Dielectric frequency response (DFR/FDS)
+;
+dielectric response measurements provide a moisture and oil conductivity assessment of transformers. This is an internationally accepted test that is growing in use. Of the two principal dielectric response methods, an AC method called Dielectric Frequency Response (DFR, also Frequency Domain Spectroscopy, FDS) is preferred due to its robustness against noise.
+Exciting current
+;
+an exciting current test provides information regarding the integrity of the turn-to-turn winding insulation and electrical tracking problems in the transformer insulation (for example, tracking somewhere along a winding turn(s) to ground or phase-to-phase electrical tracking).
+Partial discharge (PD);
+DC insulation resistance
+;
+Dielectric breakdown test on oil
+;
+as an insulating liquid, oil’s most important property is a high dielectric strength.  The dielectric breakdown voltage is an important measurement of the electrical stress which an insulating oil can withstand without failure.  This test checks that the dielectric breakdown voltage of the oil in the main tank is above a minimum threshold.  This may be done in the laboratory or in the field.
+DGA;
+Popular Links
+New in the technical library
+Upcoming Megger events
+Featured product videos
+Find a distributor
+Discover our product range
+Account Links
+Login
+My account
+Service request
+Software downloads
+Product registration
+Site Links
+Contact us
+Cookie policy
+Legal
+Modern Slavery Act
+Privacy policy
+Sitemap
+Brand Links
+AVO Training Institute
+States Terminal Blocks and Test Switches
+Social Links
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+Glassdoor
+Copyright © 2023 Megger, all rights reserved.
+We use cookies to provide you with a better experience. Read more on our
+cookie policy.

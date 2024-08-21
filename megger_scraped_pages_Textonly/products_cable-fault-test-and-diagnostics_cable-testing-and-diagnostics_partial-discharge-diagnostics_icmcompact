@@ -1,0 +1,192 @@
+ICMcompact
+Home
+Company
+Portrait
+History
+News
+Events
+Event List
+Webinars
+Jobs
+Test and Measurement Service Engineer Lead (m/f/d)
+Technical Sales Engineer (m/f/d)
+Laboratory Employee (m/f/d)
+Experienced Software Developer (m/f/d)
+Electronics Technician for Devices and Systems (m/f/d)
+Test and Measurement Service Engineer (m/f/d)
+Student Workers (m/f/d)
+Directions
+Products
+Product Navigator
+Partial Discharge Measurement Devices
+ICMsystem
+ICMcompact
+AIAcompact
+ICMflex and ICMflex GRC
+Partial Discharge Monitoring Systems
+GISmonitor
+GISmonitor Portable
+ICMmonitor
+ICMoutlander
+Calibrators
+HF (IEC60270)
+UHF
+RIV
+PD Accessories
+PD Sensors
+Coupling Capacitors
+Quadrupoles
+Preamplifiers & Preacquisition Units
+HF Current Transformers
+Bushing Accessories
+Disturbance Antennas
+Filters
+Various Accessories
+Tan Delta Measurement
+ICMflex
+TDAcompact
+Fiber Optic Transmission Systems
+FOS1
+FOS2
+FOS3
+FOS4
+RIV Measurement
+RIVmeter
+ICMsystem
+ICMcompact
+Acoustic PD Location
+FOS4
+ICMsystem
+Test & Automation
+HVcontrol
+HVcompact
+STEPcompact
+HV Transformers & Regulating Units
+AC Test Chambers
+Mobile Test System
+Special Instruments
+ATTanalyzer
+MWS
+PRPDreplay
+Special Software
+Services
+Testing Laboratory
+On-site Measurements
+Training  & Seminars
+Installation and Commissioning Services
+Consulting Activities
+Calibration Services (DAkkS)
+Applications
+Rotating Machines
+Testing Laboratory (QA and R&D)
+Onsite Measurements
+Online Monitoring
+Power, Distribution & Instrument Transformers
+Testing Laboratory (QA and R&D)
+On- and Offline Tests
+Online Monitoring
+Switchgear Systems (AIS/GIS/GIL)
+Shop Floor Testing (QA and R&D)
+On- and Offline Tests
+Online Monitoring
+MV, HV, EHV Cables & Cable Accessories
+Shop Floor Testing (QA and R&D)
+On- and Offline Tests
+Bushings, Spacers, Insulators, etc.
+Other Insulation Materials & Electronic Components
+Downloads
+Brochures and Brochure Pages
+Publications
+Application Notes
+Data Sheets
+Manuals
+Control Menu Cards
+Miscellaneous
+My PDIX
+My Instruments
+Instrument registration
+Documents
+Software
+Upgrades
+Calibration
+Profile
+Contact
+EN
+DE
+FR
+NL
+PT
+ES
+IT
+My Account
+Login +
+ICMcompact
+PD Detector
+The ICMcompact is a compact, stand-alone instrument for evaluating the condition of medium and high voltage insulation. It is often used in quality assurance and quality control tests at manufacturing sites.
+ICMcompact
+ICMcompact's PC Software
+The easy portability, simple operation, and flexibility of the Power Diagnostix
+ICMcompact make it a good choice for routine PD testing in a variety of utility
+and industrial applications.
+Power Diagnostix
+-
+Products
+-
+Partial Discharge Measurement Devices
+-
+ICMcompact
+ICMcompact
+Stand-Alone Instrument
+Phase-resolved PD pattern
+Partial discharge (PD) measurements are a proven method for effective, nondestructive evaluation of electrical insulation.
+The Power Diagnostix ICMcompact provides a simple push-button interface and on-screen menus in an embedded LCD panel. The LC display modes include a simple PD charge meter with adjustable “needle” sensitivity, monochrome phase-resolved PD patterns for classificationof defects, and a scope-like display showing phase summed charge pulses superimposed with the applied voltage wave. Although the ICMcompact is an autonomous unit, it can be connected to a computer installed with Power Diagnostix software to capture screenshots or to implement remote control of the unit.
+Applications
+Instantly displaying information in an intuitive interface, the ICMcompact is a good choice for applications such as
+quality control tests
+in manufacture of electrical products and for quality assurance of industrial and utility equipment; from capacitors and bushings to
+gas-insulated switch gear
+, voltage transformers and others. A wide range of accessories adapts the ICMcompact to specific testing applications and noise conditions.
+The ICMcompact DSO option can be used to locate partial discharge defects in
+power cable
+. Using time domain reflectometry, in which the PD and its “echoes” travel the length of the cable under test, the ICMcompact provides the proportional distance of the PD fault along the cable.
+Generally, this unit can be used with the full range of the ICM series
+preamplifiers
+, covering the IEC 60270 standard frequencies.
+ICMcompact with PD Spectrum Analysis (SPEC Option)
+Frequency spectrum display
+Observing the frequency spectrum of a harshly disturbed PD signal allows selecting frequency bands with fewer disturbances. Using this selected frequency for a PD acquisition gives a largely improved signal-to-noise ratio resulting in a clear pattern acquisition. The combination of spectrum analyzer and PD detector within one instrument opens a broad field of new possibilities when analyzing isolation defects even with large noise.
+The ICMcompact can be equipped with one, three or eleven channels. A multiplexer allows to directly select the input signal.
+The SPEC mode shows the frequency spectrum of the input signal with a  selectable span of up to 10 MHz. Three spectrum traces of the current input channel can be stored, compared, and analyzed. A variable cursor serves to set the center frequency for the PD pattern acquisition.
+Further Options
+To adapt the basic ICMcompact unit to suit special measurement requirements, it can be equipped with various options:
+Voltage measurement. Adds the HVM oscilloscopic display showing the wave form of the high voltage and calculates Û, Û/√2, Urms, etc.
+Cable fault location. An additional DSO board samples the PD signal at 100 Msample.
+Analog gating to cancel external disturbance. This option offers sensitive measurements even in noisy environments.
+MUX4. Four-channel multiplexer for testing three-phase equipment, such as
+power transformers
+. For each channel the unit maintains an individual setup and calibration.
+MUX12. This option offers a built-in 12-channel multiplexer or a remote 12-channel switching box for acceptance testing on large
+power transformers
+.
+AUX4. For long-term testing up to four additional parameters can be captured as 0(4)-20 mA or 0-10 V signals.
+RIV measurement. Adds a radio influence voltage measurement function to the instrument (needs the SPEC option and includes the MUX4 option).
+Standard Display Modes
+In standard configuration the ICMcompact comes with five main display modes.
+To get a phase resolved pattern a hold function is available.
+The scope display shows the maximum peak values of discharges vs. phase. The refresh rate is about 5 pictures per second which gives a good view of increasing or decreasing PD activity.
+The PD pulses can also be put on top of the drawn sine wave as shown beneath.
+An option allows displaying a Lissajou visualization.
+Each PD pulse is plotted related to its amplitude and phase position. To visualize the PD activity like older analog meters the next display can be chosen. Three different meter modes like e. g. IEC60270 mode are available.
+Optional Display Modes
+DSO Board Extension
+This option allows sampling PD pulses and its reflections running over
+HV cables
+for cable fault location. The sample rate of this DSO board is 100
+MSamples and gives a resolution of 10 ns. An additional display with cursor settings and zoom functions helps to localize faults directly on-site. Advanced software gives more possibilities for evaluation and precise fault location using a PC or laptop.
+Voltage Measurement
+This enhanced board extension makes the acquisition of the voltage shape available. A 12 bit A/D converter samples about 200 values per cycle with polarity. An additional display shows this voltage shape and the calculated values for rms and peak. To record values of partial discharge and voltage in parallel the ICMcompact software can be used.
+Download Product Information
+Privacy Policy
+Contact Us
+Legal
+Site Map
